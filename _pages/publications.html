@@ -11,6 +11,12 @@ author_profile: true
 
 {% include base_path %}
 
+<h2>{Highlighted works}</h2><hr />
+<div class="wordwrap">Highlighted works</div>
+{% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
