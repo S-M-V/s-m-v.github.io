@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <h1>Highlighted Publications</h1>
-
+{% include base_path %}
 {% assign highlighted_pubs = site.publications | where: "highlight", true | sort: "date" | reverse %}
 
 {% assign years = "" | split: "," %}
