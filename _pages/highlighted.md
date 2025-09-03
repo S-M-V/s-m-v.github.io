@@ -37,27 +37,7 @@ author_profile: true
   {%- for pub in highlighted_pubs -%}
     {% assign pub_year = pub.date | date: "%Y" %}
     {% if pub_year == year %}
-      <li style="margin-bottom: 1.5em; padding-bottom: 1em; border-bottom: 1px dashed #ddd;">
-        <p style="margin: 0;"><strong>{{ pub.title }}</strong></p>
-        <p style="margin: 0.2em 0;"><em>{{ pub.venue }}</em>, {{ pub.date | date: "%B %Y" }}</p>
-
-        {% if pub.excerpt %}
-          <p style="margin: 0.5em 0; color: #555;">{{ pub.excerpt }}</p>
-        {% endif %}
-
-        {% if pub.paperurl %}
-          <p style="margin: 0;">
-            <a href="{{ pub.paperurl }}" target="_blank" style="color: #007acc;">🔗 View Paper</a>
-          </p>
-        {% endif %}
-
-        {% if pub.citation %}
-          <details style="margin-top: 0.5em;">
-            <summary style="cursor: pointer;">📄 Citation</summary>
-            <p style="font-size: 0.9em;">{{ pub.citation }}</p>
-          </details>
-        {% endif %}
-      </li>
+       {% include archive-single.html %}
     {% endif %}
   {%- endfor -%}
 
