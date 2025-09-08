@@ -8,41 +8,19 @@ permalink: /CV/
 
 # CV
 
-{% assign number_printed = 0 %}
-
 {% if site.data.CV_members %}
   {% for member in site.data.CV_members %}
-  <div class="col-sm-6 clearfix">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/CV/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <div class="col-sm-12 clearfix" style="margin-bottom: 30px;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/CV/{{ member.photo }}" class="img-responsive" width="25%" style="float: left; margin-right: 15px;" />
     <h4>{{ member.name }}</h4>
     <i>{{ member.info }}</i>
     {{ member.social_icons | raw }}
-    <ul style="overflow: hidden">
-
-      {% if member.number_educ >= 1 %}
-        <li>{{ member.education1 | markdownify }}</li>
-      {% endif %}
-      {% if member.number_educ >= 2 %}
-        <li>{{ member.education2 | markdownify }}</li>
-      {% endif %}
-      {% if member.number_educ >= 3 %}
-        <li>{{ member.education3 | markdownify }}</li>
-      {% endif %}
-      {% if member.number_educ >= 4 %}
-        <li>{{ member.education4 | markdownify }}</li>
-      {% endif %}
-      {% if member.number_educ >= 5 %}
-        <li>{{ member.education5 | markdownify }}</li>
-      {% endif %}
-
+    <ul style="overflow: hidden;">
+      {% for i in (1..member.number_educ) %}
+        <li>{{ member["education" | append: i] | markdownify }}</li>
+      {% endfor %}
     </ul>
   </div>
-
-  {% assign number_printed = number_printed | plus: 1 %}
-  {% assign even_odd = number_printed | modulo: 2 %}
-  {% if even_odd == 1 %}
-  </div>
-  {% endif %}
   {% endfor %}
 {% else %}
   <p>No team member data available.</p>
