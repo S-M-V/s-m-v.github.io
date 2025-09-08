@@ -11,11 +11,10 @@ permalink: /CV/
 {% for member in site.data.CV_members %}
 <div class="row">
   <div class="col-sm-12 clearfix">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/CV/{{ member.photo }}" alt="{{ member.name }}" class="img-responsive" width="25%" style="float: left; margin-right: 15px;" />
-    <h4>{{ member.name }}</h4>
-    <i>{{ member.info }}</i>
-    <br>
-    <a href="mailto:{{ member.email }}">{{ member.email }}</a>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <ul style="overflow: hidden">
 
     {% if member.number_educ and member.number_educ > 0 %}
       <ul style="overflow: hidden;">
