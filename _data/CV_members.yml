@@ -5,12 +5,46 @@
   number_educ: 1
   education1: Ph.D. in Nanoscience and Nanotechnology, University of Valencia
   social_icons: >
-    <div class="social-icons d-flex flex-wrap" style="gap: 15px; max-width: 220px;">
-      <a href="mailto:{{ member.email }}" aria-label="Email">
-        <i class="fas fa-envelope" style="font-size:28px; color:#6A0DAD;"></i>
-      </a>
-      <a href="https://scholar.google.com/citations?user=cQd43coAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" aria-label="Google Scholar" class="google-scholar">
-        <i class="ai ai-google-scholar" style="color:#4285F4;"></i>
-      </a>
-      <!-- ... other icons ... -->
-    </div>
+    <!-- Social icons container inside this col -->
+          <div class="social-icons d-flex flex-wrap" style="gap: 15px; max-width: 220px;">
+          <!-- Each icon takes 25% width = 4 per row -->
+            <!-- e-mail -->
+            <a href="mailto:your.email@example.com" aria-label="Email">
+            <i class="fas fa-envelope" style="font-size:28px; color:#6A0DAD;"></i>
+            </a>
+            
+            <!-- Google Scholar from Academicons -->
+            <a href="https://scholar.google.com/citations?user=cQd43coAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" aria-label="Google Scholar" class="google-scholar">
+            <i class="ai ai-google-scholar" style="color:#4285F4;" aria-hidden="true"></i>
+            </a>
+
+            <!-- ORCID icon from Academicons -->
+            <a href="https://orcid.org/0000-0001-6319-9238" target="_blank" rel="noopener noreferrer" aria-label="ORCID">
+            <i class="ai ai-orcid" style="font-size:28px; color:#A6CE39;" aria-hidden="true"></i>
+            </a>
+
+            <!-- Research ID/clarivate icon from Academicons -->
+            <a href="https://www.researcherid.com/rid/F-8538-2016" target="_blank" rel="noopener noreferrer" aria-label="ResearcherID">
+            <i class="ai ai-clarivate" style="font-size:28px; color:#004B9A;" aria-hidden="true"></i>
+            </a>
+            
+            <!-- Scopus icon from Academicons -->
+            <a href="https://www.scopus.com/authid/detail.uri?authorId=56488108800" target="_blank" rel="noopener noreferrer" aria-label="Scopus">
+            <i class="ai ai-scopus" style="font-size:28px; color:#2E9CCA;" aria-hidden="true"></i>
+            </a>
+
+            <!-- Arxiv icon from Academicons -->
+            <a href="http://arxiv.org/a/manasvalero_s_1" target="_blank" rel="noopener noreferrer" aria-label="arXiv">
+            <i class="ai ai-arxiv" style="font-size:28px; color:#B31B1B;" aria-hidden="true"></i>
+            </a>
+
+            <!-- ResearchGate icon from Academicons -->
+            <a href="https://www.researchgate.net/profile/Samuel-Manas-Valero?ev=hdr_xprf" target="_blank" rel="noopener noreferrer" aria-label="ResearchGate">
+            <i class="ai ai-researchgate" style="font-size:28px; color:#00CCBB;" aria-hidden="true"></i>
+            </a>
+
+            <!-- LinkedIn icon from Academicons -->
+            <a href="https://www.linkedin.com/in/samuel-ma%C3%B1as-valero-964143317/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" class="linkedin">
+            <i class="fab fa-linkedin" style="font-size:28px; color:#0A66C2;"></i>
+            </a>
+          </div>
