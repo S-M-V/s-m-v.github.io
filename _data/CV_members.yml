@@ -1,9 +1,10 @@
 - name: Samuel Mañas Valero
-  photo: profile_SMV_3.jpg
+  photo: profile_SMV_3.png
   info: Kavli postdoctoral researcher
   email: S.ManasValero@tudelft.nl
-  number_educ: 1
-  education1: <a href="mailto:your.email@example.com" aria-label="Email">
+  number_educ: 2
+  education1: Solid
+  education2: <a href="mailto:your.email@example.com" aria-label="Email">
               <i class="fas fa-envelope" style="font-size:28px; color:#6A0DAD;"></i>
               </a>
   social_icons: >
