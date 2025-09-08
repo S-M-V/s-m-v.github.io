@@ -10,8 +10,8 @@ permalink: /CV/
 
 {% assign number_printed = 0 %}
 
-{% if site.data.team_members %}
-  {% for member in site.data.team_members %}
+{% if site.data.CV_members %}
+  {% for member in site.data.CV_members %}
   <div class="col-sm-6 clearfix">
     <img src="{{ site.url }}{{ site.baseurl }}/images/CV/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
     <h4>{{ member.name }}</h4>
