@@ -8,7 +8,7 @@
 # Site settings
 title: Samuel Mañas-Valero
 email: s.manasvalero@tudelft.nl
-description: "Spins & Materials Vanguard"> # this means to ignore newlines until "baseurl:"
+description: "Spins & Materials Vanguard" # this means to ignore newlines until "baseurl:"
 baseurl: ""
 url: "https://s-m-v.github.io"
 
