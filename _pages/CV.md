@@ -28,7 +28,7 @@ permalink: /CV/
     {% endif %}
   </div>
 </div>
-
+{% endfor %}
 
 ---
 
