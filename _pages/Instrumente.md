@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Instrumente"
+title: "SVM Lab - Instrumente"
 layout: textlay
 excerpt: "AOA"
 sitemap: false
