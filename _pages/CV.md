@@ -68,9 +68,11 @@ permalink: /CV/
 </div>
 {% endif %}
 
+======
 ---
 
-## Education
+# Education
+======
 
 * Ph.D. in Nanoscience and Nanotechnology (2021)  
   Institute for Molecular Science, University of Valencia, Spain  
@@ -80,7 +82,8 @@ permalink: /CV/
 
 ---
 
-## Current Position
+# Current Position
+======
 
 * **Kavli Research Fellow (2025–2026)**  
   Department of Quantum Nanoscience, Kavli Institute of Nanoscience, Delft University of Technology, The Netherlands  
@@ -88,7 +91,8 @@ permalink: /CV/
 
 ---
 
-## Previous Positions
+# Previous Positions
+======
 
 * **Marie-Curie-Skłodowska Postdoctoral Fellow (2023–2025)**  
   Department of Quantum Nanoscience, Delft University of Technology, The Netherlands  
@@ -106,7 +110,8 @@ permalink: /CV/
 
 ---
 
-## Awards
+# Awards
+======
 
 * 2024 Magnetochemistry Young Investigator Award  
 * [2023 Young Scientist Award](https://magnetism.eu/news/224/38-news.htm) by the European Magnetism Association  
@@ -116,9 +121,10 @@ permalink: /CV/
 
 ---
 
-## Selected Talks
+# Selected Talks
+======
 
-### Plenary Talks
+## Plenary Talks
 
 **2025**
 - 2nd European School on Advanced Materials, Almagro, Spain  
@@ -126,7 +132,7 @@ permalink: /CV/
 **2023**
 - 13th Joint European Magnetic Symposia (delivery of the 2023 Young Scientist Award by the European Magnetism Association). Madrid, Spain
 
-### Invited Talks
+## Invited Talks
 
 **2025**
 - International Conference on Layered Materials & Devices: From Atoms to Chips! Braga, Portugal
@@ -149,7 +155,8 @@ permalink: /CV/
 
 ---
 
-## Teaching
+# Teaching
+======
 
 - **Molecular Spintronics** (6 ECTS/year, 2016–2021)  
   Master in Molecular Nanoscience and Nanotechnology, University of Valencia, Spain  
@@ -157,7 +164,8 @@ permalink: /CV/
 
 ---
 
-## Service and Leadership
+# Service and Leadership
+======
 
 - Governing board member, Condensed Matter Division & Valencian Section of the Spanish Royal Society of Physics (2018–2022)  
 - Organizer of scientific meetings for young researchers:  
