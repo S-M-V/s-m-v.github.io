@@ -1,5 +1,5 @@
 ---
-title: "News"
+title: "SMV - News"
 layout: textlay
 excerpt: "Spins & Materials Vanguard"
 sitemap: false
