@@ -7,23 +7,28 @@ permalink: /CV/
 ---
 
 # CV
-
-{% if site.data.CV_members %}
-  {% for member in site.data.CV_members %}
-  <div class="col-sm-12 clearfix" style="margin-bottom: 30px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/CV/{{ member.photo }}" class="img-responsive" width="25%" style="float: left; margin-right: 15px;" />
+{% assign number_printed = 0 %}
+{% for member in site.data.CV_members %}
+<div class="row">
+  <div class="col-sm-12 clearfix">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/CV/{{ member.photo }}" alt="{{ member.name }}" class="img-responsive" width="25%" style="float: left; margin-right: 15px;" />
     <h4>{{ member.name }}</h4>
     <i>{{ member.info }}</i>
-    <ul style="overflow: hidden;">
-      {% for i in (1..member.number_educ) %}
-        <li>{{ member["education" | append: i] | markdownify }}</li>
-      {% endfor %}
-    </ul>
+    <br>
+    <a href="mailto:{{ member.email }}">{{ member.email }}</a>
+
+    {% if member.number_educ and member.number_educ > 0 %}
+      <ul style="overflow: hidden;">
+        {% for i in (1..member.number_educ) %}
+          <li>{{ member["education" | append: i] | markdownify }}</li>
+        {% endfor %}
+      </ul>
+    {% else %}
+      <p><em>Education info not available.</em></p>
+    {% endif %}
   </div>
-  {% endfor %}
-{% else %}
-  <p>No team member data available.</p>
-{% endif %}
+</div>
+
 
 ---
 
