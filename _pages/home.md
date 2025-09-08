@@ -1,7 +1,7 @@
 ---
 title: "SMV - Home"
 layout: homelay
-excerpt: "Spins & Materials Vanguard"
+excerpt: "SMV - Home"
 sitemap: false
 permalink: /
 ---
