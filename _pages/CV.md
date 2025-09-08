@@ -3,7 +3,7 @@ title: "SMV - CV"
 layout: gridlay
 excerpt: "SMV: CV"
 sitemap: false
-permalink: /cv/
+permalink: /CV/
 ---
 
 {% include base_path %}
