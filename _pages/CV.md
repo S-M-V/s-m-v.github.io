@@ -6,8 +6,6 @@ sitemap: false
 permalink: /CV/
 ---
 
-{% include base_path %}
-
 Education
 ======
 * Ph.D in in Nanoscience and Nanotechnology (2021)
