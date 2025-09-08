@@ -14,7 +14,6 @@ permalink: /CV/
     <img src="{{ site.url }}{{ site.baseurl }}/images/CV/{{ member.photo }}" class="img-responsive" width="25%" style="float: left; margin-right: 15px;" />
     <h4>{{ member.name }}</h4>
     <i>{{ member.info }}</i>
-    {{ member.social_icons | raw }}
     <ul style="overflow: hidden;">
       {% for i in (1..member.number_educ) %}
         <li>{{ member["education" | append: i] | markdownify }}</li>
