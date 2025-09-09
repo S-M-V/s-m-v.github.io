@@ -14,46 +14,6 @@
         <!-- Column 2: Social Icons -->
         <div class="col-sm-4">
           <div class="social-icons d-flex justify-content-center flex-wrap mx-auto" style="gap: 15px; max-width: 220px;">
-            <ul style="list-style: none; padding-left: 0;">
-            {% assign social_order = "email,googlescholar,orcid,clarivate,scopus,arxiv,researchgate,linkedin" | split: "," %}
-            {% assign social_icons = 
-              {
-                "email": "fas fa-envelope|#6A0DAD|Email",
-                "googlescholar": "ai ai-google-scholar|#4285F4|Google Scholar",
-                "orcid": "ai ai-orcid|#A6CE39|ORCID",
-                "clarivate": "ai ai-clarivate|#004B9A|ResearcherID (Clarivate)",
-                "scopus": "ai ai-scopus|#2E9CCA|Scopus",
-                "arxiv": "ai ai-arxiv|#B31B1B|arXiv",
-                "researchgate": "ai ai-researchgate|#00CCBB|ResearchGate",
-                "linkedin": "fab fa-linkedin|#0A66C2|LinkedIn"
-              }
-            %}
-          
-            {% for key in social_order %}
-              {% assign url = site.social[key] %}
-              {% if url and url != "" %}
-                {% assign icon_data = social_icons[key] | split: "|" %}
-                {% assign icon_class = icon_data[0] %}
-                {% assign icon_color = icon_data[1] %}
-                {% assign label = icon_data[2] %}
-                <li style="margin-bottom: 8px;">
-                  <a href="{% if key == 'email' %}mailto:{{ url }}{% else %}{{ url }}{% endif %}" 
-                     target="{% unless key == 'email' %}_blank{% endunless %}" 
-                     rel="{% unless key == 'email' %}noopener noreferrer{% endunless %}" 
-                     aria-label="{{ label }}" 
-                     style="display: inline-flex; align-items: center; gap: 8px;">
-                    <i class="{{ icon_class }}" style="font-size:18px; color:{{ icon_color }};"></i>
-                    {% if key == 'email' %}
-                      {{ url }}
-                    {% else %}
-                      {{ label }}
-                    {% endif %}
-                  </a>
-                </li>
-              {% endif %}
-            {% endfor %}
-            </ul>
-            
             <!-- Email -->
             {% if site.social.email %}
               <a href="mailto:{{ site.social.email }}" aria-label="Email">
