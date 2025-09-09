@@ -8,7 +8,7 @@ permalink: /CV/
 
 # CV
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.CV_members %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -17,7 +17,7 @@ permalink: /CV/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/CV/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
@@ -68,11 +68,10 @@ permalink: /CV/
 </div>
 {% endif %}
 
-======
+
 ---
 
 # Education
-======
 
 * Ph.D. in Nanoscience and Nanotechnology (2021)  
   Institute for Molecular Science, University of Valencia, Spain  
@@ -83,7 +82,6 @@ permalink: /CV/
 ---
 
 # Current Position
-======
 
 * **Kavli Research Fellow (2025–2026)**  
   Department of Quantum Nanoscience, Kavli Institute of Nanoscience, Delft University of Technology, The Netherlands  
@@ -92,7 +90,6 @@ permalink: /CV/
 ---
 
 # Previous Positions
-======
 
 * **Marie-Curie-Skłodowska Postdoctoral Fellow (2023–2025)**  
   Department of Quantum Nanoscience, Delft University of Technology, The Netherlands  
@@ -111,7 +108,6 @@ permalink: /CV/
 ---
 
 # Awards
-======
 
 * 2024 Magnetochemistry Young Investigator Award  
 * [2023 Young Scientist Award](https://magnetism.eu/news/224/38-news.htm) by the European Magnetism Association  
@@ -122,7 +118,6 @@ permalink: /CV/
 ---
 
 # Selected Talks
-======
 
 ## Plenary Talks
 
@@ -156,7 +151,6 @@ permalink: /CV/
 ---
 
 # Teaching
-======
 
 - **Molecular Spintronics** (6 ECTS/year, 2016–2021)  
   Master in Molecular Nanoscience and Nanotechnology, University of Valencia, Spain  
@@ -165,7 +159,6 @@ permalink: /CV/
 ---
 
 # Service and Leadership
-======
 
 - Governing board member, Condensed Matter Division & Valencian Section of the Spanish Royal Society of Physics (2018–2022)  
 - Organizer of scientific meetings for young researchers:  
