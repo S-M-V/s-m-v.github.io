@@ -3,5 +3,5 @@
   info: Kavli postdoctoral researcher
   email: S.ManasValero@tudelft.nl
   number_educ: 2
-  education1: <div class="social-icons d-flex flex-wrap" style="gap: 15px; max-width: 220px;"><a href="mailto:your.S.ManasValero@tudelft.nl" aria-label="Email"><i class="fas fa-envelope" style="font-size:28px; color:#6A0DAD;"></i></a></div>
+  education1: '<div class="social-icons d-flex flex-wrap" style="gap: 15px; max-width: 220px;"><a href="mailto:your.S.ManasValero@tudelft.nl" aria-label="Email"><i class="fas fa-envelope" style="font-size:28px; color:#6A0DAD;"></i></a></div>'
   education2: Test
