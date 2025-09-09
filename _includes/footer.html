@@ -3,61 +3,88 @@
     <div class="container-fluid">
       <div class="row">
 
+        <!-- Column 1: Contact info -->
         <div class="col-sm-4">
           <strong>Contact:</strong><br />
-          Kavli Institute of Nanoscience,  Delft University of Technology<br />
+          Kavli Institute of Nanoscience, Delft University of Technology<br />
           Lorentzweg 1, 2628CJ Delft<br />
           The Netherlands <br />
         </div>
+
+        <!-- Column 2: Social Icons -->
         <div class="col-sm-4">
-            <div class="social-icons d-flex flex-wrap" style="gap: 15px; max-width: 220px;">
-              <!-- Email -->
+          <div class="social-icons d-flex justify-content-center flex-wrap mx-auto" style="gap: 15px; max-width: 220px;">
+            <!-- Email -->
+            {% if site.social.email %}
               <a href="mailto:{{ site.social.email }}" aria-label="Email">
                 <i class="fas fa-envelope" style="font-size:28px; color:#6A0DAD;"></i>
               </a>
-          
-              <!-- Google Scholar -->
+            {% endif %}
+
+            <!-- Google Scholar -->
+            {% if site.social.googlescholar %}
               <a href="{{ site.social.googlescholar }}" target="_blank" rel="noopener noreferrer" aria-label="Google Scholar">
                 <i class="ai ai-google-scholar" style="color:#4285F4;"></i>
               </a>
-          
-              <!-- ORCID -->
+            {% endif %}
+
+            <!-- ORCID -->
+            {% if site.social.orcid %}
               <a href="{{ site.social.orcid }}" target="_blank" rel="noopener noreferrer" aria-label="ORCID">
                 <i class="ai ai-orcid" style="font-size:28px; color:#A6CE39;"></i>
               </a>
-          
-              <!-- Clarivate (ResearcherID) -->
+            {% endif %}
+
+            <!-- Clarivate (ResearcherID) -->
+            {% if site.social.clarivate %}
               <a href="{{ site.social.clarivate }}" target="_blank" rel="noopener noreferrer" aria-label="ResearcherID">
                 <i class="ai ai-clarivate" style="font-size:28px; color:#004B9A;"></i>
               </a>
-          
-              <!-- Scopus -->
+            {% endif %}
+
+            <!-- Scopus -->
+            {% if site.social.scopus %}
               <a href="{{ site.social.scopus }}" target="_blank" rel="noopener noreferrer" aria-label="Scopus">
                 <i class="ai ai-scopus" style="font-size:28px; color:#2E9CCA;"></i>
               </a>
-          
-              <!-- arXiv -->
+            {% endif %}
+
+            <!-- arXiv -->
+            {% if site.social.arxiv %}
               <a href="{{ site.social.arxiv }}" target="_blank" rel="noopener noreferrer" aria-label="arXiv">
                 <i class="ai ai-arxiv" style="font-size:28px; color:#B31B1B;"></i>
               </a>
-          
-              <!-- ResearchGate -->
+            {% endif %}
+
+            <!-- ResearchGate -->
+            {% if site.social.researchgate %}
               <a href="{{ site.social.researchgate }}" target="_blank" rel="noopener noreferrer" aria-label="ResearchGate">
                 <i class="ai ai-researchgate" style="font-size:28px; color:#00CCBB;"></i>
               </a>
-          
-              <!-- LinkedIn -->
+            {% endif %}
+
+            <!-- LinkedIn -->
+            {% if site.social.linkedin %}
               <a href="{{ site.social.linkedin }}" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
                 <i class="fab fa-linkedin" style="font-size:28px; color:#0A66C2;"></i>
               </a>
-            </div>
+            {% endif %}
           </div>
-          <p>&copy; 2025 SMV. Site forked from <a href="https://www.allanlab.org/aboutwebsite.html">Allan Lab</a>.</p>
         </div>
-      </div>
-    </div>
-  </div>
-</div>
 
+        <!-- Column 3: Copyright -->
+        <div class="col-sm-4 text-sm-end">
+          <p class="mt-3 mb-0">
+            &copy; 2025 SMV<br />
+            Site forked from <a href="https://www.allanlab.org/aboutwebsite.html">Allan Lab</a>.
+          </p>
+        </div>
+
+      </div> <!-- /.row -->
+    </div> <!-- /.container-fluid -->
+  </div> <!-- /.panel-footer -->
+</div> <!-- /#footer -->
+
+<!-- Scripts -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="{{ site.url }}{{ site.baseurl }}/js/bootstrap.min.js"></script>
