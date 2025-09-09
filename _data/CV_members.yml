@@ -30,7 +30,7 @@
 
   education5: |
     <a href="https://www.scopus.com/authid/detail.uri?authorId=56488108800" target="_blank" rel="noopener noreferrer" aria-label="Scopus" style="display: inline-flex; align-items: center; gap: 8px;">
-      <i class="ai ai-scopus" style="font-size:18px; color:#2E9CCA;"></i>
+      <i class="ai ai-scopus" style="font-size:18px; color:#FF4203;"></i>
       Scopus Author ID 56488108800
     </a>
 
