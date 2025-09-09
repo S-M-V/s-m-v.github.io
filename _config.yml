@@ -23,6 +23,7 @@ social:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Samuel-Manas-Valero?ev=hdr_xprf"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=56488108800"# URL
+  clarivate        : "https://www.webofscience.com/wos/author/record/F-8538-2016"  # replace with your real ID
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -43,7 +44,7 @@ social:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "samuel-ma%C3%B1as-valero-964143317/"# Username
+  linkedin         : "https://www.linkedin.com/in/samuel-ma%C3%B1as-valero-964143317/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
