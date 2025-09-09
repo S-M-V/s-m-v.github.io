@@ -2,6 +2,52 @@
   photo: profile_SMV_3.png
   info: Kavli postdoctoral researcher
   email: S.ManasValero@tudelft.nl
-  number_educ: 2
-  education1: '<div class="social-icons d-flex flex-wrap" style="gap: 15px; max-width: 220px;"><a href="mailto:your.S.ManasValero@tudelft.nl" aria-label="Email"><i class="fas fa-envelope" style="font-size:28px; color:#6A0DAD;"></i></a></div>'
-  education2: Test
+  number_educ: 8
+
+  education1: |
+    <a href="mailto:S.ManasValero@tudelft.nl" aria-label="Email" style="display: inline-flex; align-items: center; gap: 8px;">
+      <i class="fas fa-envelope" style="font-size:18px; color:#6A0DAD;"></i>
+      S.ManasValero@tudelft.nl
+    </a>
+
+  education2: |
+    <a href="https://scholar.google.com/citations?user=cQd43coAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" aria-label="Google Scholar" style="display: inline-flex; align-items: center; gap: 8px;">
+      <i class="ai ai-google-scholar" style="font-size:18px; color:#4285F4;"></i>
+      Google Scholar
+    </a>
+
+  education3: |
+    <a href="https://orcid.org/0000-0001-6319-9238" target="_blank" rel="noopener noreferrer" aria-label="ORCID" style="display: inline-flex; align-items: center; gap: 8px;">
+      <i class="ai ai-orcid" style="font-size:18px; color:#A6CE39;"></i>
+      ORCID
+    </a>
+
+  education4: |
+    <a href="https://www.researcherid.com/rid/F-8538-2016" target="_blank" rel="noopener noreferrer" aria-label="ResearcherID" style="display: inline-flex; align-items: center; gap: 8px;">
+      <i class="ai ai-clarivate" style="font-size:18px; color:#004B9A;"></i>
+      ResearcherID (Clarivate)
+    </a>
+
+  education5: |
+    <a href="https://www.scopus.com/authid/detail.uri?authorId=56488108800" target="_blank" rel="noopener noreferrer" aria-label="Scopus" style="display: inline-flex; align-items: center; gap: 8px;">
+      <i class="ai ai-scopus" style="font-size:18px; color:#2E9CCA;"></i>
+      Scopus
+    </a>
+
+  education6: |
+    <a href="http://arxiv.org/a/manasvalero_s_1" target="_blank" rel="noopener noreferrer" aria-label="arXiv" style="display: inline-flex; align-items: center; gap: 8px;">
+      <i class="ai ai-arxiv" style="font-size:18px; color:#B31B1B;"></i>
+      arXiv
+    </a>
+
+  education7: |
+    <a href="https://www.researchgate.net/profile/Samuel-Manas-Valero?ev=hdr_xprf" target="_blank" rel="noopener noreferrer" aria-label="ResearchGate" style="display: inline-flex; align-items: center; gap: 8px;">
+      <i class="ai ai-researchgate" style="font-size:18px; color:#00CCBB;"></i>
+      ResearchGate
+    </a>
+
+  education8: |
+    <a href="https://www.linkedin.com/in/samuel-ma%C3%B1as-valero-964143317/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" style="display: inline-flex; align-items: center; gap: 8px;">
+      <i class="fab fa-linkedin" style="font-size:18px; color:#0A66C2;"></i>
+      LinkedIn
+    </a>
