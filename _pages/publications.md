@@ -7,9 +7,9 @@ permalink: /publications/
 ---
 
 
-# Publications
+<h1>Publications</h1>
 
-## Research highlights
+<h2>Research highlights</h2>
 
 **At the end of this page, you can find the [full list of publications](#full-list-of-publications).**
 
@@ -87,20 +87,22 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-## Full List of publications
-
 {% assign sorted_publications = site.data.all_publications | sort: "date" | reverse %}
 {% assign current_year = "" %}
+{% assign counter = 0 %}
+
+<h2>Full List of Publications</h2>
 
 {% for publi in sorted_publications %}
   {% assign year = publi.date | date: "%Y" %}
 
   {% if year != current_year %}
-  <h3>{{ year }}</h3>
-  {% assign current_year = year %}
+    <h3>{{ year }}</h3>
+    {% assign current_year = year %}
   {% endif %}
 
-  {{ forloop.index }}. <strong>{{ publi.title }}</strong><br />
+  {% assign counter = counter | plus: 1 %}
+  {{ counter }}. <strong>{{ publi.title }}</strong><br />
   <em>{{ publi.authors }}</em><br />
-  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br />
+  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br /><br />
 {% endfor %}
