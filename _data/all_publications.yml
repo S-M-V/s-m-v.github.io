@@ -34,8 +34,8 @@
   doi: "10.1002/adma.202415774"
 
 - title: "Multistep magnetization switching in orthogonally-twisted ferromagnetic monolayers"
-  image: 
-  description: This study reports multistep magnetization switching in orthogonally twisted ferromagnetic monolayers, revealing novel spin configurations and control mechanisms in 2D magnetic systems.
+  image: NatMater_2024.png
+  description: Beyond moiré in twisted two-dimensional magnets: multistep magnetization switching in orthogonally twisted ferromagnetic monolayers, revealing novel spin configurations and control mechanisms in 2D magnetic systems. 
   authors: "C. Boix-Constant, S. Jenkins, R. Rama-Eiroa, E. J. Santos, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado"
   authors_highlight: "C. Boix-Constant, S. Jenkins, R. Rama-Eiroa, E. J. Santos📧, <strong><em>S. Mañas‑Valero</em></strong>📧, E. Coronado📧"
   link:
@@ -43,7 +43,7 @@
     display: Nature Materials 23, 212 (2024)
   date: 2024-01-15
   news1: <a style="color:#FF0000" href="https://www.nature.com/articles/s41563-023-01762-3">Featured as 'News&Views' in Nature Materials by Lan Wang</a>
-  news2: <a style="color:#FF0000" href="https://www.nature.com/articles/s41563-023-01762-3">Beyond moiré in twisted two-dimensional magnets</a>
+  news2_: <a style="color:#FF0000" href="https://www.nature.com/articles/s41563-023-01762-3">Beyond moiré in twisted two-dimensional magnets</a>
   highlight: 1
   doi: "10.1038/s41563-023-01735-6"
 
