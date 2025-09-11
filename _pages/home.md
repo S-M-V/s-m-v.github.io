@@ -32,10 +32,10 @@ To achieve these goals, we develop new quantum sensing and quantum imaging instr
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SpinWave_NV_slider7001400.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SpinWave_NV_slider7001400.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Device7_slider7001400.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Device7_slider7001400.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TaS2_vdWH_slider7001400.jpg" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QuartzTubeSealer_slider7001400.jpg" alt="Slide 4" />
