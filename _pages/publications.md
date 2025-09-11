@@ -46,7 +46,7 @@ permalink: /publications/
 </div>
 
 {% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
+{% for publi in site.data.all_publications %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
@@ -60,7 +60,12 @@ permalink: /publications/
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
+   if publi.authors_highlight exits
+     <p><em>{{ publi.authors_highlight}}</em></p>
+  else
+    <p><em>{{ publi.authors }}</em></p>
+   endif
+   
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
@@ -86,10 +91,17 @@ permalink: /publications/
 ## Full List of publications
 
 {% assign sorted_publications = site.data.all_publications | sort: "date" | reverse %}
+{% assign current_year = "" %}
 
 {% for publi in sorted_publications %}
-  {{ forloop.index }}. <strong>{{ publi.title }}</strong> <br />
+  {% assign year = publi.date | date: "%Y" %}
+
+  {% if year != current_year %}
+  <h3>{{ year }}</h3>
+  {% assign current_year = year %}
+  {% endif %}
+
+  {{ forloop.index }}. <strong>{{ publi.title }}</strong><br />
   <em>{{ publi.authors }}</em><br />
-  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br /><br />
-  <hr />
+  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br />
 {% endfor %}
