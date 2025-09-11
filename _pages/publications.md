@@ -59,9 +59,11 @@ permalink: /publications/
 
 ## Full List of publications
 
-{% for publi in site.data.all_publications %}
+{% assign sorted_publications = site.data.all_publications | sort: "date" | reverse %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
+{% for publi in sorted_publications %}
+  {{ forloop.index }}. {{ publi.title }} <br />
+  <em>{{ publi.authors }}</em><br />
+  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br /><br />
 {% endfor %}
+
