@@ -95,14 +95,7 @@ permalink: /publications/
 
 {% for publi in sorted_publications %}
   {% assign year = publi.date | date: "%Y" %}
-
-  {% if year != current_year %}
-    <h3>{{ year }}</h3>
-    {% assign current_year = year %}
-  {% endif %}
-
-  {% assign counter = counter | plus: 1 %}
-  {{ counter }}. <strong>{{ publi.title }}</strong><br />
+  {{ forloop.index }}. <strong>{{ publi.title }}</strong><br />
   <em>{{ publi.authors }}</em><br />
-  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br /><br />
+  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br />
 {% endfor %}
