@@ -2,17 +2,18 @@
   image: 
   description: An overview of the fundamental properties of van der Waals magnets and their emerging role in magnon‑based spintronics, discussing theoretical insights and practical applications.
   authors: "<strong><em>S. Mañas‑Valero</em></strong>, T. van der Sar, R. Duine, B. van Wees"
+  authors_highlight: "<strong><em>S. Mañas‑Valero</em></strong>📧, T. van der Sar, R. Duine, B. van Wees"
   link:
     url: https://doi.org/10.1016/j.newton.2025.100018
     display: Newton 1, 1, 100018 (2025)
   date: 2025-03-03
-  highlight: 0
+  highlight: 1
   doi: "10.1016/j.newton.2025.100018"
 
 - title: "High harmonic spectroscopy reveals anisotropy of the charge-density-wave phase transition in TiSe₂"
   image: 
   description: High harmonic spectroscopy uncovers directional dependence in the charge-density-wave phase transition of TiSe₂, offering new insights into its ultrafast electronic dynamics.
-  authors: "I. Tyulnev, L. Zhang, L. Vamos, J. Poborska, U. Bhattacharya, R. W. Chhajlany, T. Grass, <em><strong>S. Mañas-Valero</em></strong>, E. Coronado, M. Lewenstein, J. Biegert."
+  authors: "I. Tyulnev, L. Zhang, L. Vamos, J. Poborska, U. Bhattacharya, R. W. Chhajlany, T. Grass, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado, M. Lewenstein, J. Biegert"
   link:
     url: https://www.nature.com/articles/s43246-025-00873-5
     display: Communications Materials 6 (1), 152 (2025)
@@ -24,154 +25,167 @@
   image: 
   description: This work demonstrates how stacking engineering in twisted 2D CrSBr magnets enables programmable magnetic hysteresis, advancing control in 2D magnetism for spintronic applications.
   authors: "C. Boix-Constant, A. Rybakov, C. Miranda-Pérez, G. Martínez-Carracedo, J. Ferrer, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado"
+  authors_highlight: "C. Boix-Constant, A. Rybakov, C. Miranda-Pérez, G. Martínez-Carracedo, J. Ferrer, <strong><em>S. Mañas‑Valero</em></strong>📧, E. Coronado📧"
   link:
     url: https://doi.org/10.1002/adma.202415774
     display: Advanced Materials 37, 8, 2415774 (2025)
   date: 2025-02-13
-  highlight: 0
+  highlight: 1
   doi: "10.1002/adma.202415774"
 
 - title: "Multistep magnetization switching in orthogonally-twisted ferromagnetic monolayers"
   image: 
   description: This study reports multistep magnetization switching in orthogonally twisted ferromagnetic monolayers, revealing novel spin configurations and control mechanisms in 2D magnetic systems.
   authors: "C. Boix-Constant, S. Jenkins, R. Rama-Eiroa, E. J. Santos, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado"
+  authors_highlight: "C. Boix-Constant, S. Jenkins, R. Rama-Eiroa, E. J. Santos📧, <strong><em>S. Mañas‑Valero</em></strong>📧, E. Coronado📧"
   link:
     url: https://www.nature.com/articles/s41563-023-01735-6
     display: Nature Materials 23, 212 (2024)
   date: 2024-01-15
-  highlight: 0
+  highlight: 1
   doi: "10.1038/s41563-023-01735-6"
 
 - title: "Probing Short-Range Correlations in the van der Waals Magnet CrSBr by Small-Angle Neutron Scattering"
   image: 
   description: Small-angle neutron scattering reveals the presence of short-range magnetic correlations in the van der Waals magnet CrSBr, shedding light on its low-dimensional magnetic behavior.
   authors: "A. Rybakov, C. Boix-Constant, D. Alba Venero, H. S. J. van der Zant, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado"
+  authors_highlight: "A. Rybakov, C. Boix-Constant, D. Alba Venero, H. S. J. van der Zant, <strong><em>S. Mañas‑Valero</em></strong>📧, E. Coronado"
   link:
     url: https://doi.org/10.1002/smsc.202400244
     display: Small Science 4, 8, 2400244 (2024)
   date: 2024-08-01
-  highlight: 0
+  highlight: 1
   doi: "10.1002/smsc.202400244"
 
 - title: "Highly anisotropic mechanical response of the van der Waals magnet CrPS4"
   image: 
   description: This study explores the highly anisotropic mechanical properties of the van der Waals magnet CrPS4, providing insights relevant for flexible spintronic applications.
   authors: "M. J. A. Houmes, <strong><em>S. Mañas‑Valero</em></strong>, A. Bermejillo-Seco, E. Coronado, P. G. Steeneken, H. S. J. van der Zant"
+  authors_highlight: "M. J. A. Houmes, <strong><em>S. Mañas‑Valero</em></strong>📧, A. Bermejillo-Seco, E. Coronado, P. G. Steeneken, H. S. J. van der Zant📧"
   link:
     url: https://doi.org/10.1002/adfm.202310206
     display: Advanced Functional Materials 34, 2310206 (2024)
   date: 2024-01-12
-  highlight: 0
+  highlight: 1
   doi: "10.1002/adfm.202310206"
 
 - title: "Magnetic Imaging and Domain Nucleation in CrSBr Down to the 2D Limit"
   image: 
   description: Magnetic imaging reveals domain nucleation processes in CrSBr as it approaches the two-dimensional limit, advancing understanding of low-dimensional magnetism.
-  authors: "Y. Zur, A. Noah, C. Boix-Constant, <strong><em>S. Mañas‑Valero</em></strong>, N. Fridman, R. Rama-Eiroa, M. E. Huber, E. J. G. Santos, E. Coronado, Yonathan Anahory"
+  authors: "Y. Zur, A. Noah, C. Boix-Constant, <strong><em>S. Mañas‑Valero</em></strong>, N. Fridman, R. Rama-Eiroa, M. E. Huber, E. J. G. Santos, E. Coronado, Y. Anahory"
+  authors_highlight: "Y. Zur, A. Noah📧, C. Boix-Constant, <strong><em>S. Mañas‑Valero</em></strong>📧, N. Fridman, R. Rama-Eiroa, M. E. Huber, E. J. G. Santos📧, E. Coronado, Y. Anahory📧"
   link:
     url: https://doi.org/10.1002/adma.202307195
     display: Advanced Materials 35, 2307195 (2023)
   date: 2023-12-01
-  highlight: 0
+  highlight: 1
   doi: "10.1002/adma.202307195"
 
 - title: "Probing the spin dimensionality in single-layer CrSBr van der Waals heterostructures by magneto-transport measurements"
   image: 
   description: Magneto-transport measurements reveal the spin dimensionality in single-layer CrSBr van der Waals heterostructures, providing key insights into low-dimensional spin physics.
   authors: "C. Boix-Constant, <strong><em>S. Mañas‑Valero</em></strong>, A. M. Ruiz, A. Rybakov, K. A. Konieczny, S. Pillet, J. J. Baldoví, E. Coronado"
+  authors_highlight: "C. Boix-Constant, <strong><em>S. Mañas‑Valero</em></strong>📧, A. M. Ruiz, A. Rybakov, K. A. Konieczny, S. Pillet, J. J. Baldoví, E. Coronado📧"
   link:
     url: https://doi.org/10.1002/adma.202204940
     display: Advanced Materials 34, 2204940 (2022)
   date: 2022-08-15
-  highlight: 0
+  highlight: 1
   doi: "10.1002/adma.202204940"
 
 - title: "Strain switching in van der Waals heterostructures triggered by a spin-crossover metal organic framework"
   image: 
   description: This study explores strain-induced switching phenomena in van der Waals heterostructures activated by a spin-crossover metal-organic framework, highlighting novel multifunctional device applications.
   authors: "C. Boix-Constant, V. López-García, E. Navarro-Moratalla, M. Clemente-León, J. L. Zafra, J. Casado, F. Guinea, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado"
+  authors_highlight: "C. Boix-Constant, V. López-García, E. Navarro-Moratalla, M. Clemente-León, J. L. Zafra, J. Casado, F. Guinea, <strong><em>S. Mañas‑Valero</em></strong>📧, E. Coronado📧"
   link:
     url: https://doi.org/10.1002/adma.202110027
     display: Advanced Materials 34, 11, 2110027 (2022)
   date: 2022-03-15
-  highlight: 0
+  highlight: 1
   doi: "10.1002/adma.202110027"
 
 - title: "Out-of-plane transport of 1T-TaS2/graphene-based van der Waals heterostructures"
   image: 
   description: Investigates out-of-plane charge transport in 1T-TaS₂/graphene van der Waals heterostructures, providing insights into layered material electronic coupling.
   authors: "C. Boix-Constant, <strong><em>S. Mañas‑Valero</em></strong>, R. Córdoba, José J. Baldoví, A. Rubio, E. Coronado"
+  authors_highlight: "C. Boix-Constant, <strong><em>S. Mañas‑Valero</em></strong>📧, R. Córdoba, José J. Baldoví, A. Rubio, E. Coronado📧"
   link:
     url: https://doi.org/10.1021/acsnano.1c03012
     display: ACS Nano 15, 7, 11898-11907 (2021)
   date: 2021-07-14
-  highlight: 0
+  highlight: 1
   doi: "10.1021/acsnano.1c03012"
 
 - title: "van der Waals heterostructures based on atomically-thin superconductors"
   image: 
   description: This article discusses van der Waals heterostructures constructed from atomically-thin superconductors, exploring their electronic properties and potential applications.
   authors: "C. Boix-Constant, <strong><em>S. Mañas‑Valero</em></strong>, R. Córdoba, E. Coronado"
+  authors_highlight: "C. Boix-Constant, <strong><em>S. Mañas‑Valero</em></strong>📧, R. Córdoba, E. Coronado📧"
   link:
     url: https://doi.org/10.1002/aelm.202000987
     display: Advanced Electronic Materials 7, 7, 2000987 (2021)
   date: 2021-07-01
-  highlight: 0
+  highlight: 1
   doi: "10.1002/aelm.202000987"
 
 - title: "A fluorinated 2D magnetic coordination polymer"
   image: 
   description: Introduction of a fluorinated 2D magnetic coordination polymer, highlighting its unique magnetic properties and structural features.
   authors: "J. López-Cabrelles, <strong><em>S. Mañas‑Valero</em></strong>, I. Vitórica-Yrezábal, P. Bereciartua, E. Coronado, G. Mínguez Espallargas"
+  authors_highlight: "J. López-Cabrelles🟰🤝, <strong><em>S. Mañas‑Valero</em></strong>🟰🤝, I. Vitórica-Yrezábal, P. Bereciartua, E. Coronado, G. Mínguez Espallargas📧"
   link:
     url: DOI	https://doi.org/10.1039/D1DT03734J
     display: Dalton Transactions 51, 1861 (2022)
   date: 2022-01-20
-  highlight: 0
+  highlight: 1
   doi: "10.1039/D1DT03734J"
 
 - title: "Chemical Design and Magnetic Ordering in Thin Layers of 2D Metal–Organic Frameworks"
   image: 
   description: Study on the chemical design and magnetic ordering of thin layers of 2D metal–organic frameworks, elucidating their structural and magnetic properties.
   authors: "J. López-Cabrelles, <strong><em>S. Mañas‑Valero</em></strong>, I. J. Vitórica-Yrezábal, M. Siskins, P. Steeneken, H. van der Zant, G. Mínguez Espallargas, E. Coronado"
+  authors_highlight: "J. López-Cabrelles🟰🤝, <strong><em>S. Mañas‑Valero</em></strong>🟰🤝, I. J. Vitórica-Yrezábal, M. Siskins, P. Steeneken, H. van der Zant, G. Mínguez Espallargas📧, E. Coronado📧"
   link:
     url: https://pubs.acs.org/doi/10.1021/jacs.1c07802
     display: Journal of the American Chemical Society 143, 44, 18502 (2021)
   date: 2021-11-03
-  highlight: 0
+  highlight: 1
   doi: "10.1021/jacs.1c07802"
 
 - title: "Quantum phases and spin liquid properties of 1T-TaS2"
   image: 
   description: Investigation of quantum phases and spin liquid behavior in the layered material 1T-TaS₂, revealing novel magnetic phenomena.
   authors: "<strong><em>S. Mañas‑Valero</em></strong>, B. Huddart, T. Lancaster, E. Coronado, F. Pratt"
+  authors_highlight: "<strong><em>S. Mañas‑Valero</em></strong>, B. Huddart, T. Lancaster, E. Coronado, F. Pratt📧"
   link:
     url: https://www.nature.com/articles/s41535-021-00367-w
     display: npj Quantum Materials 6, 69 (2021)
   date: 2021-06-10
-  highlight: 0
+  highlight: 1
   doi: "10.1038/s41535-021-00367-w"
 
 - title: "Isoreticular two-dimensional magnetic coordination polymers prepared through pre-synthetic ligand functionalization"
   image: 
   description: Synthesis and characterization of isoreticular 2D magnetic coordination polymers via pre-synthetic ligand functionalization, expanding the design of layered magnetic materials.
   authors: "J. López-Cabrelles, <strong><em>S. Mañas‑Valero</em></strong>, I. Vitórica-Yrezábal, P. Bereciartua, J. Rodríguez-Velamazán, J.C. Waerenborgh, B.J.C. Vieira, D. Davidovikj, P. Steeneken, H. van der Zant, G. Mínguez Espallargas, E. Coronado"
+  authors_highlight: "J. López-Cabrelles🟰🤝, <strong><em>S. Mañas‑Valero</em></strong>🟰🤝, I. Vitórica-Yrezábal, P. Bereciartua, J. Rodríguez-Velamazán, J.C. Waerenborgh, B.J.C. Vieira, D. Davidovikj, P. Steeneken, H. van der Zant, G. Mínguez Espallargas📧, E. Coronado📧"
   link:
     url: https://www.nature.com/articles/s41557-018-0113-9
     display: Nature Chemistry 10, 1001–1007 (2018)
   date: 2018-08-20
-  highlight: 0
+  highlight: 1
   doi: "10.1038/s41557-018-0113-9"
 
 - title: "Raman Spectra of ZrS2 and ZrSe2 from Bulk to Atomically Thin Layers"
   image: 
   description: Analysis of Raman spectra of ZrS₂ and ZrSe₂ from bulk crystals to atomically thin layers, providing insights into their vibrational properties.
-  authors: "<strong><em>S. Mañas‑Valero</em></strong>, V. García-López, A. Cantarero, M. Galbiati"
+  authors: "<strong><em>S. Mañas‑Valero</em></strong>, V. García-López, A. Cantarero, M. Galbiati📧"
   link:
     url: https://doi.org/10.3390/app6090264
     display: Applied Sciences 6, 264 (2016)
   date: 2016-06-01
-  highlight: 0
+  highlight: 1
   doi: "10.3390/app6090264"
 
 - title: "Pressure-induced structural phase transitions in CrSBr"
