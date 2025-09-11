@@ -12,7 +12,6 @@ permalink: /publications/
 ## Research highlights
 
 **At the end of this page, you can find the [full list of publications](#full-list-of-publications).** You can check as well in 
-<div class="social-icons" style="margin-top: 1rem;">
   {% if site.social.googlescholar %}
     <a href="{{ site.social.googlescholar }}" target="_blank" rel="noopener noreferrer" aria-label="Google Scholar" title="Google Scholar">
       <i class="ai ai-google-scholar" style="font-size: 28px; color:#4285F4; margin-right: 10px;"></i>
@@ -56,21 +55,23 @@ permalink: /publications/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
-   if publi.authors_highlight exits
-     <p><em>{{ publi.authors_highlight}}</em></p>
-  else
-    <p><em>{{ publi.authors }}</em></p>
-   endif
-   
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
- </div>
+  <div class="well">
+    <pubtit>{{ publi.title }}</pubtit>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+    <p>{{ publi.description }}</p>
+    
+    {% if publi.authors_highlight %}
+      <p><em>{{ publi.authors_highlight }}</em></p>
+    {% else %}
+      <p><em>{{ publi.authors }}</em></p>
+    {% endif %}
+    
+    <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+    <p class="text-danger"><strong>{{ publi.news1 }}</strong></p>
+    <p>{{ publi.news2 }}</p>
+  </div>
 </div>
+
 
 {% assign number_printed = number_printed | plus: 1 %}
 
