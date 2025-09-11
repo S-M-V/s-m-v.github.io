@@ -103,7 +103,7 @@
 - title: "A Fluorinated 2D Magnetic Coordination Polymer"
   image: BSCCO_noise.png #fluorinated_2D_magnetic_cp.jpg  # Replace with actual image filename if available
   description: Discovery of a fluorinated 2D magnetic coordination polymer, expanding the family of 2D magnetic materials with tunable properties via chemical functionalization.
-  authors: "J. López-Cabrelles🟰🤝, **_Samuel Mañas-Valero_**🟰🤝, I. Vitórica-Yrezábal, P. Bereciartua, E. Coronado, G. Mínguez Espallargas"
+  authors: "J. López-Cabrelles🟰🤝, **_Samuel Mañas-Valero_**🟰🤝, I. Vitórica-Yrezábal, P. Bereciartua, E. Coronado✉️, G. Mínguez Espallargas✉️"
   link:
     url: https://doi.org/10.1039/D1DT04326G
     display: Dalton Trans. 51, 1861 (2022)
@@ -113,7 +113,7 @@
 - title: "Chemical Design and Magnetic Ordering in Thin Layers of 2D Metal–Organic Frameworks"
   image: BSCCO_noise.png #chem_design_mof_2d.jpg  # Replace with actual image filename if available
   description: A study focusing on the chemical design and magnetic ordering properties in thin layers of two-dimensional metal–organic frameworks, revealing tunable magnetic behaviors and structural control.
-  authors: "J. López-Cabrelles🟰🤝, **_Samuel Mañas-Valero_**🟰🤝, I. J. Vitórica-Yrezábal, M. Siskins, P. Steeneken, H. van der Zant, G. Mínguez Espallargas, E. Coronado"
+  authors: "J. López-Cabrelles🟰🤝, **_Samuel Mañas-Valero_**🟰🤝, I. J. Vitórica-Yrezábal, M. Siskins, P. Steeneken, H. van der Zant, G. Mínguez Espallargas✉️, E. Coronado✉️"
   link:
     url: https://doi.org/10.1021/jacs.1c08713
     display: J. Am. Chem. Soc. 143, 44, 18502 (2021)
@@ -123,7 +123,7 @@
 - title: "Quantum Phases and Spin Liquid Properties of 1T-TaS2"
   image: BSCCO_noise.png #quantum_phases_1T_TaS2.jpg  # Replace with actual image filename if available
   description: Investigation of quantum phases and spin liquid behavior in 1T-TaS2, providing insights into exotic magnetic states in low-dimensional materials.
-  authors: "**_Samuel Mañas-Valero_**, B. Huddart, T. Lancaster, E. Coronado, F. Pratt"
+  authors: "**_Samuel Mañas-Valero_**, B. Huddart, T. Lancaster, E. Coronado, F. Pratt✉️"
   link:
     url: https://doi.org/10.1038/s41535-021-00391-4
     display: npj Quantum Mater. 6, 69 (2021)
@@ -133,7 +133,7 @@
 - title: "Isoreticular Two-Dimensional Magnetic Coordination Polymers Prepared Through Pre-Synthetic Ligand Functionalization"
   image: BSCCO_noise.png #isoreticular_2D_magnetic_cp.jpg  # Replace with actual image filename if available
   description: Preparation of isoreticular two-dimensional magnetic coordination polymers via pre-synthetic ligand functionalization, enabling control over magnetic properties in 2D materials.
-  authors: "J. López-Cabrelles🟰🤝, **_Samuel Mañas-Valero_**🟰🤝, I. Vitórica-Yrezábal, P. Bereciartua, J. Rodríguez-Velamazán, J.C. Waerenborgh, B.J.C Vieira, D. Davidovikj, P. Steeneken, H. van der Zant, G. Mínguez Espallargas, E. Coronado"
+  authors: "J. López-Cabrelles🟰🤝, **_Samuel Mañas-Valero_**🟰🤝, I. Vitórica-Yrezábal, P. Bereciartua, J. Rodríguez-Velamazán, J.C. Waerenborgh, B.J.C Vieira, D. Davidovikj, P. Steeneken, H. van der Zant, G. Mínguez Espallargas✉️, E. Coronado✉️"
   link:
     url: https://doi.org/10.1038/nchem.2884
     display: Nat. Chem. 10, 1001–1007 (2018)
@@ -143,7 +143,7 @@
 - title: "Raman Spectra of ZrS2 and ZrSe2 from Bulk to Atomically Thin Layers"
   image: BSCCO_noise.png #raman_zrs2_zrse2.jpg  # Replace with actual image filename if available
   description: Study of the Raman spectra of ZrS2 and ZrSe2 from bulk crystals down to atomically thin layers, highlighting vibrational properties in 2D materials.
-  authors: **_Samuel Mañas-Valero_**, V. García-López, A. Cantarero, M. Galbiati
+  authors: "**_Samuel Mañas-Valero_**, V. García-López, A. Cantarero, M. Galbiati✉️"
   link:
     url: https://doi.org/10.3390/app6060264
     display: Applied Sciences 6, 264 (2016)
