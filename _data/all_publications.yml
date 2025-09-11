@@ -180,7 +180,8 @@
 - title: "Raman Spectra of ZrS2 and ZrSe2 from Bulk to Atomically Thin Layers"
   image: 
   description: Analysis of Raman spectra of ZrS₂ and ZrSe₂ from bulk crystals to atomically thin layers, providing insights into their vibrational properties.
-  authors: "<strong><em>S. Mañas‑Valero</em></strong>, V. García-López, A. Cantarero, M. Galbiati📧"
+  authors: "<strong><em>S. Mañas‑Valero</em></strong>, V. García-López, A. Cantarero, M. Galbiati"
+  authors_highlight: "<strong><em>S. Mañas‑Valero</em></strong>, V. García-López, A. Cantarero, M. Galbiati📧"
   link:
     url: https://doi.org/10.3390/app6090264
     display: Applied Sciences 6, 264 (2016)
