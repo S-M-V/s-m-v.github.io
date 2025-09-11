@@ -11,7 +11,9 @@ permalink: /publications/
 
 ## Research highlights
 
-**At the end of this page, you can find the [full list of publications](#full-list-of-publications).** You can check as well in 
+**At the end of this page, you can find the [full list of publications](#full-list-of-publications).**
+
+You can check as well in&nbsp;
 {% if site.social.googlescholar %}
   <a href="{{ site.social.googlescholar }}" target="_blank" rel="noopener noreferrer" aria-label="Google Scholar" title="Google Scholar">
     <i class="ai ai-google-scholar" style="font-size: 28px; color:#4285F4; margin-right: 10px;"></i>
