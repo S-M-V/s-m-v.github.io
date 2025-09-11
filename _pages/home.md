@@ -29,7 +29,7 @@ To achieve these goals, we develop new quantum sensing and quantum imaging instr
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TaS2_vdWH_slider7001400.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Video_SW_arrows_slider7001400_time01.mp4" alt="Slide 1" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TiSe2_slider7001400.jpg" alt="Slide 2" />
