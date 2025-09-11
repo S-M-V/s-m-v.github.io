@@ -26,8 +26,8 @@
     url: https://doi.org/10.1038/s41563-023-01735-6
     display: Nature Materials 23, 212‑218 (2024)
   date: 2023-11-30
-  #news1: <a style="color:#FF0000" href="https://www.nature.com/articles/s41563-023-01762-3https://www.nature.com/articles/s41563-023-01762-3">Featured as 'News&Views' in Nature Materials by Lan Wang: </a>
-  #news2: Beyond moiré in twisted two-dimensional magnets.
+  news1: <a style="color:#FF0000" href="https://www.nature.com/articles/s41563-023-01762-3https://www.nature.com/articles/s41563-023-01762-3">Featured as 'News&Views' in Nature Materials by Lan Wang: </a>
+  news2: Beyond moiré in twisted two-dimensional magnets.
   highlight: 1
 
 - title: "Probing Short‑Range Correlations in the van der Waals Magnet CrSBr by Small‑Angle Neutron Scattering"
