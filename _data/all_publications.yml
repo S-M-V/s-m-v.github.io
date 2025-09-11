@@ -12,13 +12,13 @@
 - title: "High harmonic spectroscopy reveals anisotropy of the charge-density-wave phase transition in TiSe₂"
   image: 
   description: High harmonic spectroscopy uncovers directional dependence in the charge-density-wave phase transition of TiSe₂, offering new insights into its ultrafast electronic dynamics.
-  authors: "<strong><em>I. Tyulnev</em></strong>, L. Zhang, L. Vamos, J. Poborska, U. Bhattacharya, R. W. Chhajlany, ..."
+  authors: "I. Tyulnev, L. Zhang, L. Vamos, J. Poborska, U. Bhattacharya, R. W. Chhajlany, T. Grass, <em><strong>S. Mañas-Valero</em></strong>, E. Coronado, M. Lewenstein, J. Biegert."
   link:
-    url: https://www.nature.com/articles/s43246-025-00439-7
+    url: https://www.nature.com/articles/s43246-025-00873-5
     display: Communications Materials 6 (1), 152 (2025)
   date: 2025-08-01
   highlight: 0
-  doi: "10.1038/s43246-025-00439-7"
+  doi: "10.1038/s43246-025-00873-5"
 
 - title: "Programmable Magnetic Hysteresis in Orthogonally-Twisted 2D CrSBr Magnets via Stacking Engineering"
   image: 
@@ -36,11 +36,11 @@
   description: This study reports multistep magnetization switching in orthogonally twisted ferromagnetic monolayers, revealing novel spin configurations and control mechanisms in 2D magnetic systems.
   authors: "C. Boix-Constant, S. Jenkins, R. Rama-Eiroa, E. J. Santos, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado"
   link:
-    url: https://doi.org/10.1038/s41563-023-01731-5
+    url: https://www.nature.com/articles/s41563-023-01735-6
     display: Nature Materials 23, 212 (2024)
   date: 2024-01-15
   highlight: 0
-  doi: "10.1038/s41563-023-01731-5"
+  doi: "10.1038/s41563-023-01735-6"
 
 - title: "Probing Short-Range Correlations in the van der Waals Magnet CrSBr by Small-Angle Neutron Scattering"
   image: 
@@ -146,7 +146,7 @@
   description: Investigation of quantum phases and spin liquid behavior in the layered material 1T-TaS₂, revealing novel magnetic phenomena.
   authors: "<strong><em>S. Mañas‑Valero</em></strong>, B. Huddart, T. Lancaster, E. Coronado, F. Pratt"
   link:
-    url: https://doi.org/10.1038/s41535-021-00348-7
+    url: https://www.nature.com/articles/s41467-025-60377-1
     display: npj Quantum Materials 6, 69 (2021)
   date: 2021-06-10
   highlight: 0
@@ -179,11 +179,11 @@
   description: Investigation of pressure-induced structural phase transitions in the van der Waals magnet CrSBr, shedding light on its mechanical and magnetic properties under compression.
   authors: "L.J. Langston, A.M. Ruiz, C. Boix-Constant, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado, J.J. Baldoví, Z. Liu, J. L. Musfeldt"
   link:
-    url: https://doi.org/10.1038/s41535-025-00357-x
+    url: https://www.nature.com/articles/s41535-025-00767-2
     display: npj Quantum Materials 10, 57 (2025)
   date: 2025-05-10
   highlight: 0
-  doi: "10.1038/s41535-025-00357-x"
+  doi: "10.1038/s41535-025-00767-2"
 
 - title: "Quantum Spin Hall in Magnetic Graphene"
   image: 
@@ -194,29 +194,18 @@
     display: Nature Communications 16, 5336 (2025)
   date: 2025-07-01
   highlight: 0
-  doi: "10.1038/s41467-025-15123-7"
+  doi: "10.1038/s41467-025-60377-1"
 
 - title: "Highly polarized single photon emitter from intrinsic localized excitons in a WSe2/CrSBr heterostructure"
   image: 
   description: Reports a highly polarized single photon emitter arising from intrinsic localized excitons in a WSe₂/CrSBr heterostructure, relevant for quantum photonics applications.
   authors: "V. Alapatt, F. Marques-Moros, C. Boix-Constant, <strong><em>S. Mañas‑Valero</em></strong>, K. Bolotin, J. Canet-Ferrer, E. Coronado"
   link:
-    url: https://doi.org/10.1021/acsphotonics.5c00436
+    url: https://pubs.acs.org/doi/full/10.1021/acsphotonics.5c00144
     display: ACS Photonics 12, 6, 3024 (2025)
   date: 2025-06-15
   highlight: 0
-  doi: "10.1021/acsphotonics.5c00436"
-
-- title: "High harmonic spectroscopy reveals anisotropy of the charge-density-wave phase transition in TiSe2"
-  image: 
-  description: High harmonic spectroscopy reveals anisotropy of the charge-density-wave phase transition in TiSe₂, shedding light on its ultrafast electronic dynamics.
-  authors: "I. Tyulnev, L. Zhang, L. Vamos, J. Poborska, U. Bhattacharya, R. W. Chhajlany, T. Grass, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado, M. Lewenstein, J. Biegert"
-  link:
-    url: https://doi.org/10.1038/s43246-025-00439-7
-    display: Communications Materials 6, 152 (2025)
-  date: 2025-08-01
-  highlight: 0
-  doi: "10.1038/s43246-025-00439-7"
+  doi: "10.1021/acsphotonics.5c00144"
 
 - title: "Roadmap on Quantum Magnetic Materials"
   image: 
@@ -245,22 +234,22 @@
   description: Investigation of nonlinear dynamics and magneto-elastic coupling in nanodrum devices near magnetic phase transitions.
   authors: "M. Šiškins, A. Keşkekler, M.J.A. Houmes, <strong><em>S. Mañas‑Valero</em></strong>, M. Koperski, E. Coronado, Y.M. Blanter, H.S.J. van der Zant, P.G. Steeneken, F. Alijani"
   link:
-    url: https://doi.org/10.1038/s41467-025-17415-3
+    url: https://www.nature.com/articles/s41467-025-57317-4
     display: Nature Communications 16, 2177 (2025)
   date: 2025-05-01
   highlight: 0
-  doi: "10.1038/s41467-025-17415-3"
+  doi: "10.1038/s41467-025-57317-4"
 
 - title: "Proximity-induced exchange interaction and prolonged valley lifetime in MoSe2/CrSBr van-der-Waals heterostructure with orthogonal spin-orbit fields"
   image: 
   description: Probing proximity effects and valley dynamics in MoSe₂/CrSBr heterostructures with orthogonal spin-orbit coupling fields.
   authors: "A. Beer, K. Zollner, C. Serati de Brito, P. E. Faria Junior, P. Parzefall, T. S. Ghiasi, J. Ingla-Aynés, <strong><em>S. Mañas‑Valero</em></strong>, C. Boix-Constant, K. Watanabe, T. Taniguchi, J. Fabian, H. S. J. van der Zant, Y. Galvão Gobato, C. Schüller"
   link:
-    url: https://doi.org/10.1021/acsnano.4c03100
+    url: https://pubs.acs.org/doi/full/10.1021/acsnano.4c07336
     display: ACS Nano 18, 45, 310044 (2024)
   date: 2024-11-15
   highlight: 0
-  doi: "10.1021/acsnano.4c03100"
+  doi: "10.1021/acsnano.4c07336"
 
 - title: "Laser-induced Demagnetization in van der Waals XY- and Ising-like Antiferromagnets NiPS3 and FePS3"
   image: 
@@ -278,79 +267,79 @@
   description: Demonstration of nonvolatile electric control of antiferromagnetic order in CrSBr.
   authors: "J. Jo, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado, F. Casanova, M. Gobbi, L. Hueso"
   link:
-    url: https://doi.org/10.1021/acs.nanolett.4c01529
+    url: https://pubs.acs.org/doi/10.1021/acs.nanolett.4c00348
     display: Nano Letters 24, 15, 4471 (2024)
   date: 2024-04-25
   highlight: 0
-  doi: "10.1021/acs.nanolett.4c01529"
+  doi: "10.1021/acs.nanolett.4c00348"
 
 - title: "Tunable, multifunctional opto-electrical response in multilayer FePS3/single-layer MoS2 van der Waals p-n heterojunctions"
   image: 
   description: Investigation of opto-electrical properties in FePS₃/MoS₂ van der Waals heterojunctions with multifunctional tunability.
   authors: "M. Ramos, M. Gadea, <strong><em>S. Mañas‑Valero</em></strong>, C. Boix-Constant, E. Henríquez-Guerra, M.A. Díaz-García, E. Coronado, M.R. Calvo"
   link:
-    url: https://doi.org/10.1039/d3na00055f
+    url: https://pubs.rsc.org/en/content/articlelanding/2024/na/d3na01134h
     display: Nanoscale Advances 6, 1909 (2024)
   date: 2024-03-10
   highlight: 0
-  doi: "10.1039/d3na00055f"
+  doi: "10.1039/D3NA01134H"
 
 - title: "Local control of superconductivity in a NbSe2/CrSBr van der Waals heterostructure"
   image: 
   description: Demonstration of local tuning of superconductivity in NbSe₂/CrSBr heterostructures.
   authors: "J. Jo, Y. Peisen, H. Yang, <strong><em>S. Mañas‑Valero</em></strong>, J.J. Baldoví, Y. Lu, E. Coronado, F. Casanova, S. Bergeret, M. Gobbi, L. Hueso"
   link:
-    url: https://doi.org/10.1038/s41467-023-41933-y
+    url: https://www.nature.com/articles/s41467-023-43111-7
     display: Nature Communications 14, 7253 (2023)
   date: 2023-09-18
   highlight: 0
-  doi: "10.1038/s41467-023-41933-y"
+  doi: "10.1038/s41467-023-43111-7"
 
-- title: "Magnetic order in 2D antiferromagnets revealed by spontaneous anisotropic magnetostriction."
+- title: "Magnetic order in 2D antiferromagnets revealed by spontaneous anisotropic magnetostriction"
   image: 
   description: Study revealing magnetic order in 2D antiferromagnets via anisotropic magnetostriction.
   authors: "M.J.A. Houmes, G. Baglioni, M. Šiškins, M. Lee, D.L. Esteras, A.M. Ruiz, <strong><em>S. Mañas‑Valero</em></strong>, C. Boix-Constant, J.J. Baldoví, E. Coronado, Y.M. Blanter, P.G. Steeneken, H.S.J. van der Zant"
   link:
-    url: https://doi.org/10.1038/s41467-023-40514-5
+    url: https://www.nature.com/articles/s41467-023-44180-4
     display: Nature Communications 14, 8503 (2023)
   date: 2023-11-07
   highlight: 0
-  doi: "10.1038/s41467-023-40514-5"
+  doi: "10.1038/s41467-023-44180-4"
 
-- title: "Charge transfer and asymmetric coupling of MoSe2 valleys to the magnetic order of CrSBr."
+- title: "Charge transfer and asymmetric coupling of MoSe2 valleys to the magnetic order of CrSBr"
   image: 
   description: Exploration of charge transfer effects and valley coupling in MoSe2/CrSBr heterostructures.
   authors: "C.S. Brito, P.E. Junior, T.S. Ghiasi, J. Ingla-Aynés, C.R. Rabahi, C. Cavalini, F. Dirnberger, <strong><em>S. Mañas‑Valero</em></strong>, K. Watanabe, T. Taniguchi, K. Zollner, J. Fabian, C. Schüller, H.S.J. van der Zant, Y. Galvão Gobato"
   link:
-    url: https://doi.org/10.1021/acs.nanolett.3c03152
+    url: https://pubs.acs.org/doi/10.1021/acs.nanolett.3c03431
     display: Nano Letters 23, 11073 (2023)
   date: 2023-09-20
   highlight: 0
-  doi: "10.1021/acs.nanolett.3c03152"
+  doi: "10.1021/acs.nanolett.3c03431"
 
-- title: "Thermo-Magnetostrictive Effect for Driving Antiferromagnetic Two-Dimensional Material Resonators."
+- title: "Thermo-Magnetostrictive Effect for Driving Antiferromagnetic Two-Dimensional Material Resonators"
   image: 
   description: Demonstration of thermo-magnetostrictive effects driving resonators made from 2D antiferromagnets.
   authors: "G. Baglioni, M. Šiškins, M. Houmes, M. Lee, D.H. Shin, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado, Y.M. Blanter, H.S.J. van der Zant, P.G. Steeneken"
   link:
-    url: https://doi.org/10.1021/acs.nanolett.3c01537
+    url: https://pubs.acs.org/doi/10.1021/acs.nanolett.3c01610
     display: Nano Letters 23, 6973 (2023)
   date: 2023-08-10
   highlight: 0
-  doi: "10.1021/acs.nanolett.3c01537"
+  doi: "10.1021/acs.nanolett.3c01610"
 
-- title: "Nitrogen-vacancy magnetometry of CrSBr by diamond membrane transfer."
+- title: "Nitrogen-vacancy magnetometry of CrSBr by diamond membrane transfer"
   image: 
   description: Application of nitrogen-vacancy magnetometry via diamond membranes to study CrSBr.
   authors: "T.S. Ghiasi, M. Borst, S. Kurdi, B.G. Simon, I. Bertelli, C. Boix-Constant, <strong><em>S. Mañas‑Valero</em></strong>, H.S.J. van der Zant, T. van der Sar"
   link:
-    url: https://doi.org/10.1038/s41699-023-00418-z
+    url: https://www.nature.com/articles/s41699-023-00423-y
     display: npj 2D Materials and Applications 7, 62 (2023)
   date: 2023-06-15
   highlight: 0
-  doi: "10.1038/s41699-023-00418-z"
+  doi: "10.1038/s41699-023-00423-y"
 
-- title: "Controlling magnetism with light in a zero orbital angular momentum antiferromagnet."
+- title: "Controlling magnetism with light in a zero orbital angular momentum antiferromagnet"
   image: 
   description: Investigation of light-induced control of magnetism in an antiferromagnet with zero orbital angular momentum.
   authors: "M. Matthiesen, J. R. Hortensius, <strong><em>S. Mañas‑Valero</em></strong>, M. Šiškins, B. A. Ivanov, H.S.J. van der Zant, E. Coronado, D. Afanasiev, A. D. Caviglia"
@@ -361,51 +350,51 @@
   highlight: 0
   doi: "10.1103/PhysRevLett.130.076702"
 
-- title: "Valence band electronic structure of the van der Waals antiferromagnet FePS3."
+- title: "Valence band electronic structure of the van der Waals antiferromagnet FePS3"
   image: 
   description: Analysis of the valence band electronic structure in the van der Waals antiferromagnet FePS3.
   authors: "J.E. Nitschke, D.L. Esteras, M. Gutnikov, K. Schiller, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado, M. Stupar, G. Zamborlini, S. Ponzoni, J.J. Baldoví, M. Cinchetti"
   link:
-    url: https://doi.org/10.1016/j.mtelectronics.2023.100061
+    url: https://www.sciencedirect.com/science/article/pii/S2772949423000372
     display: Materials Today Electronics 6, 100061 (2023)
   date: 2023-04-10
   highlight: 0
-  doi: "10.1016/j.mtelectronics.2023.100061"
+  doi: "10.1016/j.mtelec.2023.100061"
 
-- title: "Interplay between optical emission and magnetism in the van der Waals magnetic semiconductor CrSBr in the two-dimensional limit."
+- title: "Interplay between optical emission and magnetism in the van der Waals magnetic semiconductor CrSBr in the two-dimensional limit"
   image: 
   description: Study on the relationship between optical emission and magnetism in 2D CrSBr.
   authors: "F. Marques-Moros, C. Boix-Constant, <strong><em>S. Mañas‑Valero</em></strong>, J. Canet-Ferrer, E. Coronado"
   link:
-    url: https://doi.org/10.1021/acsnano.3c05384
+    url: https://pubs.acs.org/doi/10.1021/acsnano.3c00375
     display: ACS Nano 17, 13224 (2023)
   date: 2023-08-08
   highlight: 0
-  doi: "10.1021/acsnano.3c05384"
+  doi: "10.1021/acsnano.3c00375"
 
-- title: "Nanomechanical absorption spectroscopy of 2D materials with femtowatt sensitivity."
+- title: "Nanomechanical absorption spectroscopy of 2D materials with femtowatt sensitivity"
   image: 
   description: High-sensitivity nanomechanical absorption spectroscopy applied to 2D materials.
   authors: "J. N. Kirchhof, Y. Yu, D. Yagodkin, N. Stetzuhn, D.B. de Araújo, K. Kanellopulos, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado, H. van der Zant, S. Reich, S. Schmid, K.I. Bolotin"
   link:
-    url: https://doi.org/10.1088/2053-1583/ac5c52
+    url: https://iopscience.iop.org/article/10.1088/2053-1583/acd0bf
     display: 2D Materials 10, 3 (2023)
   date: 2023-03-10
   highlight: 0
-  doi: "10.1088/2053-1583/ac5c52"
+  doi: "0.1088/2053-1583/acd0bf"
 
-- title: "Ultrafast laser-induced spin–lattice dynamics in the van der Waals antiferromagnet CoPS3."
+- title: "Ultrafast laser-induced spin–lattice dynamics in the van der Waals antiferromagnet CoPS3"
   image: 
   description: Investigation of ultrafast spin–lattice dynamics triggered by laser pulses in CoPS3.
   authors: "D. Khusyainov, T. Gareev, V. Radovskaia, K. Sampathkumar, S. Acharya, M. Šiškins, <strong><em>S. Mañas‑Valero</em></strong>, B.A. Ivanov, E. Coronado, T. Rasing, A.V. Kimel, D. Afanasiev"
   link:
-    url: https://doi.org/10.1063/5.0143279
+    url: https://doi.org/10.1063/5.0146128
     display: APL Materials 11, 071104 (2023)
   date: 2023-07-05
   highlight: 0
-  doi: "10.1063/5.0143279"
+  doi: "10.1063/5.0146128"
 
-- title: "Tweaking the optoelectronic properties of s‐doped polycyclic aromatic hydrocarbons by chemical oxidation."
+- title: "Tweaking the optoelectronic properties of s‐doped polycyclic aromatic hydrocarbons by chemical oxidation"
   image: 
   description: Chemical oxidation to modulate optoelectronic properties of sulfur-doped polycyclic aromatic hydrocarbons.
   authors: "O. Matuszewska, T. Battisti, R.R. Ferreira, N. Biot, N. Demitri, C. Mézière, M. Allain, M. Sallé, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado, E. Fresta, R.D. Costa, D. Bonifazi"
@@ -416,18 +405,18 @@
   highlight: 0
   doi: "10.1002/chem.202203115"
 
-- title: "A quantum spin liquid candidate isolated in a two-dimensional CoIIRhIII bimetallic oxalate network."
+- title: "A quantum spin liquid candidate isolated in a two-dimensional CoIIRhIII bimetallic oxalate network"
   image: 
   description: Identification of a quantum spin liquid candidate in a 2D CoIIRhIII bimetallic oxalate system.
   authors: "E. Burzurí, M.J. Martínez-Pérez, C. Martí-Gastaldo, M. Evangelisti, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado, J.I. Martínez, J.R. Galan-Mascaros, F. Luis"
   link:
-    url: https://doi.org/10.1039/D2SC06985A
+    url: https://pubs.rsc.org/en/content/articlelanding/2023/sc/d2sc06407c
     display: Chemical Science 14, 3899 (2023)
   date: 2023-03-15
   highlight: 0
-  doi: "10.1039/D2SC06985A"
+  doi: "10.1039/D2SC06407C"
 
-- title: "Studying spin diffusion and quantum entanglement with LF-µSR."
+- title: "Studying spin diffusion and quantum entanglement with LF-µSR"
   image: 
   description: Investigation of spin diffusion and quantum entanglement using low-field muon spin rotation techniques.
   authors: "F.L. Pratt, F. Lang, S.J. Blundell, W. Steinhardt, S. Haravifard, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado, B.M. Huddart, T. Lancaster"
@@ -438,7 +427,7 @@
   highlight: 0
   doi: "10.1088/1742-6596/2462/1/012038"
 
-- title: "Ultrafast coherent THz lattice dynamics coupled to spins in a van der Waals antiferromagnetic flake."
+- title: "Ultrafast coherent THz lattice dynamics coupled to spins in a van der Waals antiferromagnetic flake"
   image: 
   description: Study of THz lattice dynamics coupled to spins in van der Waals antiferromagnetic flakes.
   authors: "F. Mertens, D. Mönkebüscher, E. Coronado, <strong><em>S. Mañas‑Valero</em></strong>, C. Boix-Constant, A. Bonanni, M. Matzer, R. Adhikari, A. M. Kalashnikova, D. Bossini, M. Cinchetti"
@@ -449,40 +438,40 @@
   highlight: 0
   doi: "10.1002/adma.202208355"
 
-- title: "Photoluminescence Enhancement by Band Alignment Engineering in MoS2/FePS3 van der Waals Heterostructures."
+- title: "Photoluminescence Enhancement by Band Alignment Engineering in MoS2/FePS3 van der Waals Heterostructures"
   image: 
   description: Enhancement of photoluminescence through band alignment engineering in MoS2/FePS3 heterostructures.
   authors: "M. Ramos, F. Marques-Moros, D. L. Esteras, <strong><em>S. Mañas‑Valero</em></strong>, E. Henríquez-Guerra, M. Gadea, J. J. Baldoví, J. Canet-Ferrer, E. Coronado, M. R. Calvo"
   link:
-    url: https://doi.org/10.1021/acsami.2c11340
+    url: https://pubs.acs.org/doi/10.1021/acsami.2c05464
     display: ACS Applied Materials & Interfaces 14, 33482 (2022)
   date: 2022-07-29
   highlight: 0
-  doi: "10.1021/acsami.2c11340"
+  doi: "10.1021/acsami.2c05464"
 
-- title: "Nanomechanical probing and strain tuning of the Curie temperature in suspended Cr2Ge2Te6 heterostructures."
+- title: "Nanomechanical probing and strain tuning of the Curie temperature in suspended Cr2Ge2Te6 heterostructures"
   image:
   description: Probing and tuning the Curie temperature via nanomechanical methods in suspended Cr2Ge2Te6.
   authors: "M. Siskins, S. Kurdi, M. Lee, B. J. M. Slotboom, W. Xing, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado, S. Jia, W. Han, T. van der Sar, H. S. J. van der Zant, P. Steeneken"
   link:
-    url: https://doi.org/10.1038/s41699-022-00326-x
+    url: https://www.nature.com/articles/s41699-022-00315-7
     display: npj 2D Materials and Applications 6, 41 (2022)
   date: 2022-08-03
   highlight: 0
-  doi: "10.1038/s41699-022-00326-x"
+  doi: "10.1038/s41699-022-00315-7"
 
-- title: "Tunable strong coupling of mechanical resonance between spatially separated FePS3 nanodrums."
+- title: "Tunable strong coupling of mechanical resonance between spatially separated FePS3 nanodrums"
   image:
   description: Demonstration of tunable mechanical resonance coupling between FePS3 nanodrum resonators.
   authors: "M. Siskins, E. Sokolovskaya, M. Lee, <strong><em>S. Mañas‑Valero</em></strong>, D. Davidovikj, H. S. J. van der Zant, P. Steeneken"
   link:
-    url: https://doi.org/10.1021/acs.nanolett.1c04530
+    url: https://pubs.acs.org/doi/10.1021/acs.nanolett.1c03010
     display: Nano Letters 22, 36 (2022)
   date: 2022-01-05
   highlight: 0
-  doi: "10.1021/acs.nanolett.1c04530"
+  doi: "10.1021/acs.nanolett.1c03010"
 
-- title: "Quantum Rescaling, Domain Metastability, and Hybrid Domain-Walls in 2D CrI3 Magnets."
+- title: "Quantum Rescaling, Domain Metastability, and Hybrid Domain-Walls in 2D CrI3 Magnets"
   image:
   description: Analysis of quantum scaling effects, metastable domains, and hybrid domain walls in 2D CrI3 magnets.
   authors: "D.A. Wahab, M. Augustin, <strong><em>S. Mañas‑Valero</em></strong>, W. Kuang, S. Jenkins, E. Coronado, I.V. Grigorieva, I.J. Vera-Marun, E. Navarro-Moratalla, R.F. Evans, K.S. Novoselov, E. Santos"
@@ -493,62 +482,62 @@
   highlight: 0
   doi: "10.1002/adma.202004138"
 
-- title: "Proximity Effects on the Charge Density Wave Order and Superconductivity in Single-Layer NbSe2."
+- title: "Proximity Effects on the Charge Density Wave Order and Superconductivity in Single-Layer NbSe2"
   image:
   description: Study of proximity-induced modifications in charge density wave and superconductivity in NbSe2 monolayers.
   authors: "P. Dreher, W. Wan, A. Chikina, M. Bianchi, H. Guo, R. Harsh, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado, A. J. Martínez-Galera, P. Hofmann, J. A. Miwa, M. M. Ugeda"
   link:
-    url: https://doi.org/10.1021/acsnano.1c06488
+    url: https://pubs.acs.org/doi/10.1021/acsnano.1c06012
     display: ACS Nano 15, 19430 (2021)
   date: 2021-12-14
   highlight: 0
-  doi: "10.1021/acsnano.1c06488"
+  doi: "10.1021/acsnano.1c06012"
 
-- title: "Attosecond state-resolved carrier motion in quantum materials probed by soft X-ray XANES."
+- title: "Attosecond state-resolved carrier motion in quantum materials probed by soft X-ray XANES"
   image:
   description: Probing ultrafast carrier dynamics in quantum materials using soft X-ray absorption near-edge structure (XANES).
   authors: "B. Buades, A. Picon, E. Berger, I. Leon, N. Di Palo, S. Cousin, C. Cocchi, E. Pellegrin, J. Herrero-Martin, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado, T. Danz, C. Draxl, M. Uemoto, K. Yabana, M. Schultze, S. Wall, M. Zürch, J. Biegert"
   link:
-    url: https://doi.org/10.1063/5.0024574
+    url: https://doi.org/10.1063/5.0020649
     display: Applied Physics Reviews 8, 011408 (2021)
   date: 2021-02-19
   highlight: 0
-  doi: "10.1063/5.0024574"
+  doi: "10.1063/5.0020649"
 
-- title: "Ultra-broad spectral photo-response in FePS3 air-stable devices."
+- title: "Ultra-broad spectral photo-response in FePS3 air-stable devices"
   image:
   description: Demonstration of ultra-broad spectral photoresponse in air-stable FePS3 devices.
   authors: "M. Ramos, F. Carrascoso, R. Frisenda, P. Gant, <strong><em>S. Mañas‑Valero</em></strong>, D. Esteras, J.J. Baldovi, E. Coronado, A. Castellanos-Gomez, M. Reyes-Calvo"
   link:
-    url: https://doi.org/10.1038/s41699-021-00189-3
+    url: https://www.nature.com/articles/s41699-021-00199-z
     display: npj 2D Materials and Applications 5, 19 (2021)
   date: 2021-04-15
   highlight: 0
-  doi: "10.1038/s41699-021-00189-3"
+  doi: "10.1038/s41699-021-00199-z"
 
-- title: "Coherent coupling between vortex bound states and magnetic impurities in 2D layered superconductors."
+- title: "Coherent coupling between vortex bound states and magnetic impurities in 2D layered superconductors"
   image:
   description: Observation of coherent interactions between vortex bound states and magnetic impurities in 2D superconductors.
   authors: "S. Park, V. Barrena, <strong><em>S. Mañas‑Valero</em></strong>, J. J. Baldoví, A. Fente, E. Herrera, F. Mompeán, M. García-Hernández, Á. Rubio, E. Coronado, I. Guillamón, A. L. Yeyati, H. Suderow"
   link:
-    url: https://doi.org/10.1038/s41467-021-24967-4
+    url: https://www.nature.com/articles/s41467-021-24531-9
     display: Nature Communications 12, 4668 (2021)
   date: 2021-08-23
   highlight: 0
-  doi: "10.1038/s41467-021-24967-4"
+  doi: "10.1038/s41467-021-24531-9"
 
-- title: "Study of charge density waves in suspended 2H-TaS2 and 2H-TaSe2 by nanomechanical resonance."
+- title: "Study of charge density waves in suspended 2H-TaS2 and 2H-TaSe2 by nanomechanical resonance"
   image:
   description: Nanomechanical resonance studies revealing charge density waves in suspended 2H-TaS2 and 2H-TaSe2.
   authors: "M. Lee, M. Siskins, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado, P. Steeneken, H. S. J. van der Zant"
   link:
-    url: https://doi.org/10.1063/5.0044222
+    url: https://doi.org/10.1063/5.0051112
     display: Applied Physics Letters 118, 193105 (2021)
   date: 2021-05-10
   highlight: 0
-  doi: "10.1063/5.0044222"
+  doi: "10.1063/5.0051112"
 
-- title: "Controlling the anisotropy of a van der Waals antiferromagnet with light."
+- title: "Controlling the anisotropy of a van der Waals antiferromagnet with light"
   image:
   description: Manipulation of magnetic anisotropy in van der Waals antiferromagnets using light.
   authors: "D. Afanasiev, J. R. Hortensius, M. Matthiesen, <strong><em>S. Mañas‑Valero</em></strong>, M. Šiškins, M. Lee, E. Lesne, H. S. J. van der Zant, P. G. Steeneken, B. A. Ivanov, E. Coronado, A. D. Caviglia"
@@ -559,18 +548,18 @@
   highlight: 0
   doi: "10.1126/sciadv.abf3096"
 
-- title: "Simplified feedback control system for Scanning Tunneling Microscopy."
+- title: "Simplified feedback control system for Scanning Tunneling Microscopy"
   image:
   description: Development of a simplified feedback control system for STM applications.
   authors: "F. Martín-Vega, V. Barrena, R. Sánchez-Barquilla, M. Fernández-Lomana, J. Benito Llorens, B. Wu, A. Fente, D. Perconte Duplain, I. Horcas, R. López, J. Blanco, J. A. Higuera, <strong><em>S. Mañas‑Valero</em></strong>, N. Hyun Jo, J. Schmidt, P. C. Canfield, G. Rubio-Bollinger, J. G. Rodrigo, E. Herrera, I. Guillamón, H. Suderow"
   link:
-    url: https://doi.org/10.1063/5.0052299
+    url: https://pubs.aip.org/aip/rsi/article/92/10/103705/956891/Simplified-feedback-control-system-for-scanning
     display: Review of Scientific Instruments 92, 103705 (2021)
   date: 2021-10-12
   highlight: 0
-  doi: "10.1063/5.0052299"
+  doi: "10.1063/5.0064511"
 
-- title: "Molecular stabilization of chemically exfoliated bare MnPS3 layers."
+- title: "Molecular stabilization of chemically exfoliated bare MnPS3 layers"
   image:
   description: Stabilization of bare MnPS3 layers after chemical exfoliation via molecular methods.
   authors: "I. Brotons-Alcázar, R. Torres-Cavanillas, M. Morant-Giner, M. Cvikl, <strong><em>S. Mañas‑Valero</em></strong>, A. Forment-Aliaga, E. Coronado"
@@ -581,18 +570,18 @@
   highlight: 0
   doi: "10.1039/D1DT02738A"
 
-- title: "Magnetic and electronic phase transitions probed by nanomechanical resonators."
+- title: "Magnetic and electronic phase transitions probed by nanomechanical resonators"
   image:
   description: Investigation of magnetic and electronic phase transitions using nanomechanical resonator techniques.
   authors: "M. Šiškins, M. Lee, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado, Y. Blanter, H. van der Zant, P. Steeneken"
   link:
-    url: https://doi.org/10.1038/s41467-020-16478-1
+    url: https://www.nature.com/articles/s41467-020-16430-2
     display: Nature Communications 11, 2698 (2020)
   date: 2020-07-15
   highlight: 0
-  doi: "10.1038/s41467-020-16478-1"
+  doi: "10.1038/s41467-020-16430-2"
 
-- title: "Low-Frequency Imaginary Impedance at the Superconducting Transition of 2H-NbSe2."
+- title: "Low-Frequency Imaginary Impedance at the Superconducting Transition of 2H-NbSe2"
   image:
   description: Analysis of low-frequency imaginary impedance behavior near the superconducting transition in 2H-NbSe2.
   authors: "D. Perconte, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado, I. Guillamón, H. Suderow"
@@ -603,18 +592,18 @@
   highlight: 0
   doi: "10.1103/PhysRevApplied.13.054040"
 
-- title: "O-Doped Nanographenes: A Pyrano/Pyrylium Route Towards Semiconducting Cationic Mixed-Valence Complexes."
+- title: "O-Doped Nanographenes: A Pyrano/Pyrylium Route Towards Semiconducting Cationic Mixed-Valence Complexes"
   image:
   description: Synthesis of O-doped nanographenes via pyrano/pyrylium chemistry yielding semiconducting mixed-valence complexes.
   authors: "L. Ðorđević, C. Valentini, N. Demitri, C. Mézière, A. Allain, M. Sallé, A. Folli, D. Murphy, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado, D. Bonifazi"
   link:
-    url: https://doi.org/10.1002/anie.201913863
+    url: https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201914025
     display: Angewandte Chemie International Edition 59, 4106 (2020)
   date: 2020-03-02
   highlight: 0
-  doi: "10.1002/anie.201913863"
+  doi: "10.1002/anie.201914025"
 
-- title: "Path to Overcome Material and Fundamental Obstacles in Spin Valves Based on MoS2 and Other Transition-Metal Dichalcogenides."
+- title: "Path to Overcome Material and Fundamental Obstacles in Spin Valves Based on MoS2 and Other Transition-Metal Dichalcogenides"
   image:
   description: Strategies to overcome material and fundamental challenges in spin valves using MoS2 and related TMDCs.
   authors: "M. Galbiati, S. Tatay, S.M.-M. Dubois, F. Godel, R. Galceran, <strong><em>S. Mañas‑Valero</em></strong>, M. Piquemal-Banci, A. Vecchiola, J.-C. Charlier, A. Forment-Aliaga, E. Coronado, B. Dlubak, P. Seneor"
@@ -625,29 +614,29 @@
   highlight: 0
   doi: "10.1103/PhysRevApplied.12.044022"
 
-- title: "Electronic, Structural and Functional Versatility in Tetrathiafulvalene-Lanthanide Metal–Organic Frameworks."
+- title: "Electronic, Structural and Functional Versatility in Tetrathiafulvalene-Lanthanide Metal–Organic Frameworks"
   image:
   description: Exploring the multifunctional electronic, structural, and functional properties of TTF-lanthanide MOFs.
   authors: "J. Castells-Gil, <strong><em>S. Mañas‑Valero</em></strong>, I.J. Vitórica-Yrezábal, D. Ananias, J. Rocha, R. Santiago, S.T. Bromley, J.J. Baldoví, E. Coronado, M. Souto, G. Mínguez Espallargas"
   link:
-    url: https://doi.org/10.1002/chem.201901866
+    url: https://doi.org/10.1002/chem.201902855
     display: Chemistry – A European Journal 25, 12636 (2019)
   date: 2019-09-23
   highlight: 0
-  doi: "10.1002/chem.201901866"
+  doi: "10.1002/chem.201902855"
 
 - title: "Charge-transfer interactions between fullerenes and a mesoporous tetrathiafulvalene-based metal-organic framework."
   image:
   description: Investigation of charge-transfer interactions in fullerene-MOF composites based on tetrathiafulvalene frameworks.
   authors: "M. Souto, J. Calbo, <strong><em>S. Mañas‑Valero</em></strong>, A. Walsh, G.M. Mínguez Espallargas"
   link:
-    url: https://doi.org/10.3762/bjnano.10.180
+    url: https://doi.org/10.3762/bjnano.10.183
     display: Beilstein Journal of Nanotechnology 10, 1883 (2019)
   date: 2019-08-07
   highlight: 0
-  doi: "10.3762/bjnano.10.180"
+  doi: "10.3762/bjnano.10.183"
 
-- title: "Pressure-induced collapse of the charge density wave and Higgs mode visibility in 2H-TaS2."
+- title: "Pressure-induced collapse of the charge density wave and Higgs mode visibility in 2H-TaS2"
   image:
   description: Study of pressure effects on charge density wave collapse and Higgs mode detection in 2H-TaS2.
   authors: "R. Grasset, Y. Gallais, A. Sacuto, M. Cazayous, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado, M.-A. Méasson"
@@ -658,18 +647,18 @@
   highlight: 0
   doi: "10.1103/PhysRevLett.122.127001"
 
-- title: "A local study of the transport mechanisms in MoS2 layers for magnetic tunnel junctions."
+- title: "A local study of the transport mechanisms in MoS2 layers for magnetic tunnel junctions"
   image:
   description: Local transport mechanism characterization in MoS2 layers integrated in magnetic tunnel junctions.
   authors: "M. Galbiati, A. Vecchiola, <strong><em>S. Mañas‑Valero</em></strong>, J. Canet-Ferrer, R. Galceran, M. Piquemal-Banci, F. Godel, A. Forment-Aliaga, B. Dlubak, P. Seneor, E. Coronado"
   link:
-    url: https://doi.org/10.1021/acsami.8b08812
+    url: https://pubs.acs.org/doi/10.1021/acsami.8b08853
     display: ACS Applied Materials & Interfaces 10, 30017 (2018)
   date: 2018-09-21
   highlight: 0
-  doi: "10.1021/acsami.8b08812"
+  doi: "10.1021/acsami.8b08853"
 
-- title: "Force-free state in a superconducting single crystal and angle-dependent vortex helical instability."
+- title: "Force-free state in a superconducting single crystal and angle-dependent vortex helical instability"
   image:
   description: Study of force-free states and angle-dependent vortex helical instabilities in superconducting single crystals.
   authors: "J. del Valle, A. Gomez, E. M. Gonzalez, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado, J. L. Vicent"
@@ -680,7 +669,7 @@
   highlight: 0
   doi: "10.1103/PhysRevB.95.224510"
 
-- title: "Local Oxidation Nanolithography on Metallic Transition Metal Dichalcogenides Surfaces."
+- title: "Local Oxidation Nanolithography on Metallic Transition Metal Dichalcogenides Surfaces"
   image:
   description: Application of local oxidation nanolithography on metallic TMDC surfaces.
   authors: "E. Pinilla-Cienfuegos, <strong><em>S. Mañas‑Valero</em></strong>, E. Navarro-Moratalla, S. Tatay, A. Forment-Aliaga, E. Coronado"
@@ -691,7 +680,7 @@
   highlight: 0
   doi: "10.3390/app6090250"
 
-- title: "Field dependence of the vortex core size probed by scanning tunneling microscopy."
+- title: "Field dependence of the vortex core size probed by scanning tunneling microscopy"
   image:
   description: Investigation of vortex core size variation with field strength using STM techniques.
   authors: "A. Fente, E. Herrera, I. Guillamon, H. Suderow, <strong><em>S. Mañas‑Valero</em></strong>, M. Galbiati, E. Coronado, V. G. Kogan"
@@ -702,18 +691,18 @@
   highlight: 0
   doi: "10.1103/PhysRevB.94.014517"
 
-- title: "Switching the magnetic vortex core in a single nanoparticle."
+- title: "Switching the magnetic vortex core in a single nanoparticle"
   image:
   description: Demonstration of controlled switching of magnetic vortex cores in individual nanoparticles.
   authors: "E. Pinilla-Cienfuegos, <strong><em>S. Mañas‑Valero</em></strong>, A. Forment-Aliaga, E. Coronado"
   link:
-    url: https://doi.org/10.1021/acsnano.5b06757
+    url: https://pubs.acs.org/doi/10.1021/acsnano.5b06776
     display: ACS Nano 10, 1764-1770 (2016)
   date: 2016-02-23
   highlight: 0
-  doi: "10.1021/acsnano.5b06757"
+  doi: "10.1021/acsnano.5b06776"
 
-- title: "Enhanced superconductivity in atomically thin TaS2."
+- title: "Enhanced superconductivity in atomically thin TaS2"
   image:
   description: Observation of enhanced superconductivity in atomically thin tantalum disulfide layers.
   authors: "E. Navarro-Moratalla, J. Island, <strong><em>S. Mañas‑Valero</em></strong>, E. Pinilla-Cienfuegos, A. Castellanos-Gómez, J. Quereda, G. Rubio-Bollinger, L. Chirolli, J.A. Silva-Guillén, N. Agrait, G.A. Steele, F. Guinea, H.S.J. van der Zant, E. Coronado"
@@ -724,38 +713,38 @@
   highlight: 0
   doi: "10.1038/ncomms11043"
 
-- title: "Graphene related magnetic materials: micromechanical exfoliation of 2D layered magnets based on bimetallic anilate complexes with inserted [FeIII(acac2-trien)]+ and [FeIII(sal2-trien)]+ molecules."
+- title: "Graphene related magnetic materials: micromechanical exfoliation of 2D layered magnets based on bimetallic anilate complexes with inserted [FeIII(acac2-trien)]+ and [FeIII(sal2-trien)]+ molecules"
   image:
   description: Fabrication and magnetic characterization of 2D layered magnets based on bimetallic anilate complexes.
   authors: "A. Abhervé, <strong><em>S. Mañas‑Valero</em></strong>, M. Clemente-León, E. Coronado"
   link:
-    url: https://doi.org/10.1039/C5SC00926H
-    display: Chemical Science 6, 4664-4673 (2015)
+    url: https://doi.org/10.1039/C5SC00957J
+    display: Chemical Science 6, 4665-4673 (2015)
   date: 2015-06-30
   highlight: 0
-  doi: "10.1039/C5SC00926H"
+  doi: "10.1039/C5SC00957J"
 
-- title: "Imaging the Magnetic Reversal of Isolated and Organized Molecular-Based Nanoparticles using Magnetic Force Microscopy."
+- title: "Imaging the Magnetic Reversal of Isolated and Organized Molecular-Based Nanoparticles using Magnetic Force Microscopy"
   image:
   description: Magnetic force microscopy visualization of magnetic reversal in molecular-based nanoparticles.
   authors: "E. Pinilla-Cienfuegos, S. Kumar, <strong><em>S. Mañas‑Valero</em></strong>, J. Canet-Ferrer, L. Catala, T. Mallah, A. Forment-Aliaga, E. Coronado"
   link:
-    url: https://doi.org/10.1002/ppsc.201400258
+    url: https://doi.org/10.1002/ppsc.201400224
     display: Particle & Particle Systems Characterization 32, 693–700 (2015)
   date: 2015-08-01
   highlight: 0
-  doi: "10.1002/ppsc.201400258"
+  doi: "10.1002/ppsc.201400224"
 
-- title: "Recovering ferromagnetic metal surfaces to fully exploit chemistry in molecular spintronics."
+- title: "Recovering ferromagnetic metal surfaces to fully exploit chemistry in molecular spintronics"
   image:
   description: Techniques to restore ferromagnetic metal surfaces aimed at advancing molecular spintronics.
   authors: "M. Galbiati, S. Delprat, M. Mattera, <strong><em>S. Mañas‑Valero</em></strong>, A. Forment-Aliaga, S. Tatay, C. Deranlot, P. Seneor, R. Mattana, F. Petroff"
   link:
-    url: https://doi.org/10.1063/1.4917381
+    url: https://doi.org/10.1063/1.4921241
     display: AIP Advances 5, 057131 (2015)
   date: 2015-05-20
   highlight: 0
-  doi: "10.1063/1.4917381"
+  doi: "10.1063/1.4921241"
 
 
 
