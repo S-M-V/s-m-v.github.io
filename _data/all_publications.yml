@@ -102,11 +102,11 @@
   description: Investigates out-of-plane charge transport in 1T-TaS₂/graphene van der Waals heterostructures, providing insights into layered material electronic coupling.
   authors: "C. Boix-Constant, <strong><em>S. Mañas‑Valero</em></strong>, R. Córdoba, José J. Baldoví, A. Rubio, E. Coronado"
   link:
-    url: https://doi.org/10.1021/acsnano.1c04207
+    url: https://doi.org/10.1021/acsnano.1c03012
     display: ACS Nano 15, 7, 11898-11907 (2021)
   date: 2021-07-14
   highlight: 0
-  doi: "10.1021/acsnano.1c04207"
+  doi: "10.1021/acsnano.1c03012"
 
 - title: "van der Waals heterostructures based on atomically-thin superconductors"
   image: 
@@ -124,55 +124,55 @@
   description: Introduction of a fluorinated 2D magnetic coordination polymer, highlighting its unique magnetic properties and structural features.
   authors: "J. López-Cabrelles, <strong><em>S. Mañas‑Valero</em></strong>, I. Vitórica-Yrezábal, P. Bereciartua, E. Coronado, G. Mínguez Espallargas"
   link:
-    url: https://doi.org/10.1039/D1DT03925A
+    url: DOI	https://doi.org/10.1039/D1DT03734J
     display: Dalton Transactions 51, 1861 (2022)
   date: 2022-01-20
   highlight: 0
-  doi: "10.1039/D1DT03925A"
+  doi: "10.1039/D1DT03734J"
 
 - title: "Chemical Design and Magnetic Ordering in Thin Layers of 2D Metal–Organic Frameworks"
   image: 
   description: Study on the chemical design and magnetic ordering of thin layers of 2D metal–organic frameworks, elucidating their structural and magnetic properties.
   authors: "J. López-Cabrelles, <strong><em>S. Mañas‑Valero</em></strong>, I. J. Vitórica-Yrezábal, M. Siskins, P. Steeneken, H. van der Zant, G. Mínguez Espallargas, E. Coronado"
   link:
-    url: https://doi.org/10.1021/jacs.1c08443
+    url: https://pubs.acs.org/doi/10.1021/jacs.1c07802
     display: Journal of the American Chemical Society 143, 44, 18502 (2021)
   date: 2021-11-03
   highlight: 0
-  doi: "10.1021/jacs.1c08443"
+  doi: "10.1021/jacs.1c07802"
 
 - title: "Quantum phases and spin liquid properties of 1T-TaS2"
   image: 
   description: Investigation of quantum phases and spin liquid behavior in the layered material 1T-TaS₂, revealing novel magnetic phenomena.
   authors: "<strong><em>S. Mañas‑Valero</em></strong>, B. Huddart, T. Lancaster, E. Coronado, F. Pratt"
   link:
-    url: https://www.nature.com/articles/s41467-025-60377-1
+    url:https://www.nature.com/articles/s41535-021-00367-w
     display: npj Quantum Materials 6, 69 (2021)
   date: 2021-06-10
   highlight: 0
-  doi: "10.1038/s41535-021-00348-7"
+  doi: "10.1038/s41535-021-00367-w"
 
 - title: "Isoreticular two-dimensional magnetic coordination polymers prepared through pre-synthetic ligand functionalization"
   image: 
   description: Synthesis and characterization of isoreticular 2D magnetic coordination polymers via pre-synthetic ligand functionalization, expanding the design of layered magnetic materials.
   authors: "J. López-Cabrelles, <strong><em>S. Mañas‑Valero</em></strong>, I. Vitórica-Yrezábal, P. Bereciartua, J. Rodríguez-Velamazán, J.C. Waerenborgh, B.J.C. Vieira, D. Davidovikj, P. Steeneken, H. van der Zant, G. Mínguez Espallargas, E. Coronado"
   link:
-    url: https://doi.org/10.1038/s41557-018-0058-8
+    url: https://www.nature.com/articles/s41557-018-0113-9
     display: Nature Chemistry 10, 1001–1007 (2018)
   date: 2018-08-20
   highlight: 0
-  doi: "10.1038/s41557-018-0058-8"
+  doi: "10.1038/s41557-018-0113-9"
 
 - title: "Raman Spectra of ZrS2 and ZrSe2 from Bulk to Atomically Thin Layers"
   image: 
   description: Analysis of Raman spectra of ZrS₂ and ZrSe₂ from bulk crystals to atomically thin layers, providing insights into their vibrational properties.
   authors: "<strong><em>S. Mañas‑Valero</em></strong>, V. García-López, A. Cantarero, M. Galbiati"
   link:
-    url: https://doi.org/10.3390/app6060264
+    url: https://doi.org/10.3390/app6090264
     display: Applied Sciences 6, 264 (2016)
   date: 2016-06-01
   highlight: 0
-  doi: "10.3390/app6060264"
+  doi: "10.3390/app6090264"
 
 - title: "Pressure-induced structural phase transitions in CrSBr"
   image: 
