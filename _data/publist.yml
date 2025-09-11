@@ -1,10 +1,11 @@
-- title: "Signatures of Amorphous Shiba State in FeTe0.55Se0.45"
-  image: shiba_cover.jpg
-  description: Can superconducting coherence peaks form impurity-like ring patterns? And how can such features appear across the entire surface?  We suggest an an amorphous Shiba state located outside the superconducting gap – a Shiba liquid.
-  authors: Jinwon Lee* & Sanghun Lee*, Andreas Kreisel, Jens Paaske, Brian M. Andersen, Koen M. Bastiaans, Damianos Chatzopoulosm Genda GuDoohee Cho, Milan P. Allan
+- title: "Fundamentals and Applications of van der Waals Magnets in Magnon Spintronics"
+  image: BSCCO_noise.png#vdw_magnets.jpg  # Replace with actual image filename or remove if none
+  description: An overview of the fundamental properties of van der Waals magnets and their emerging role in magnon-based spintronics, discussing theoretical insights and practical applications.
+  authors: S. Mañas-Valero*, T. van der Sar, R. Duine, B. van Wees
   link:
-    url: https://pubs.acs.org/doi/full/10.1021/acs.nanolett.4c05650
-    display: Nano Lett. 25, 4227 (2025)
+    url: https://www.sciencedirect.com/science/article/pii/S2950636025000106  # Replace with correct DOI URL if available
+    display: Newton 1, 1, 100018 (2025)
+  date: 2025-03-25 
   highlight: 1
 
 - title: "Equivalence of pseudogap and pairing energy in a cuprate high-temperature superconductor"
