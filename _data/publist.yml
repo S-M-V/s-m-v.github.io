@@ -1,15 +1,160 @@
 - title: "Fundamentals and Applications of van der Waals Magnets in Magnon Spintronics"
-  image: BSCCO_noise.png#vdw_magnets.jpg  # Replace with actual image filename or remove if none
-  description: An overview of the fundamental properties of van der Waals magnets and their emerging role in magnon-based spintronics, discussing theoretical insights and practical applications.
-  authors: S. Mañas-Valero✉️, T. van der Sar, R. Duine, B. van Wees
+  image: BSCCO_noise.png # vdw_magnets.jpg
+  description: An overview of the fundamental properties of van der Waals magnets and their emerging role in magnon‑based spintronics, discussing theoretical insights and practical applications.
+  authors: **_Samuel Mañas‑Valero_**✉️, T. van der Sar, R. Duine, B. van Wees
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S2950636025000106  # Replace with correct DOI URL if available
+    url: https://doi.org/10.1016/j.newton.2025.100018
     display: Newton 1, 1, 100018 (2025)
-  date: 2025-03-25 
+  date: 2025-03-03
+  highlight: 1
+
+- title: "Programmable Magnetic Hysteresis in Orthogonally‑Twisted 2D CrSBr Magnets via Stacking Engineering"
+  image: BSCCO_noise.png #crsbr_stacking.jpg
+  description: Twisting CrSBr monolayers and bilayers by 90° to engineer magnetic hysteresis, enabling volatile/non‑volatile switching and tuning magnetic reversal processes via layer count and direction of applied field.
+  authors: C. Boix‑Constant, A. Rybakov, C. Miranda‑Pérez, G. Martínez‑Carracedo, J. Ferrer, **_Samuel Mañas‑Valero_**✉️, E. Coronado✉️
+  link:
+    url: https://doi.org/10.1002/adma.202415774
+    display: Adv. Mater. 37, 8, 2415774 (2025)
+  date: 2025-01-08
+  highlight: 1
+
+- title: "Multistep Magnetization Switching in Orthogonally‑Twisted Ferromagnetic Monolayers"
+  image: BSCCO_noise.png #BSCCO_noise.png #crsbr_multistep.jpg
+  description: Fabrication and magnetotransport study of orthogonally twisted bilayer CrSBr monolayers, showing multistep magnetization switching with magnetic hysteresis not present in the pristine case.  
+  authors: C. Boix‑Constant, S. Jenkins, R. Rama‑Eiroa, E. J. G. Santos, **_Samuel Mañas‑Valero_**✉️, E. Coronado✉️
+  link:
+    url: https://doi.org/10.1038/s41563-023-01735-6
+    display: Nature Materials 23, 212‑218 (2024)
+  date: 2023-11-30
+  news1:   <a style="color:#FF0000" href="https://www.nature.com/articles/s41563-023-01762-3https://www.nature.com/articles/s41563-023-01762-3">Featured as 'News&Views' in Nature Materials by Lan Wang: </a>
+  news2: Beyond moiré in twisted two-dimensional magnets.
+  highlight: 1
+
+- title: "Probing Short‑Range Correlations in the van der Waals Magnet CrSBr by Small‑Angle Neutron Scattering"
+  image: BSCCO_noise.png #BSCCO_noise.png #crsbr_sans.jpg
+  description: Using SANS to show formation of short‑range magnetic regions in CrSBr with correlation lengths up to ≈3 nm near the antiferromagnetic ordering temperature (~140 K), and their evolution with temperature.  
+  authors: A. Rybakov, C. Boix‑Constant, D. Alba Venero, H. S. J. van der Zant, **_Samuel Mañas‑Valero_**✉️, E. Coronado
+  link:
+    url: https://doi.org/10.1002/smsc.202400244
+    display: Small Science 4, 8, 2400244 (2024)
+  date: 2024-06-13
+  highlight: 1
+
+- title: "Highly Anisotropic Mechanical Response of the van der Waals Magnet CrPS₄"
+  image: BSCCO_noise.png #crps4_anisotropy.jpg  # Replace with actual image name
+  description: Investigation via nanomechanical resonators of the in‑plane structural anisotropy in CrPS₄, revealing significantly different responses along crystal axes, especially across its magnetic phase transition.  
+  authors: M. J. A. Houmes, **_Samuel Mañas‑Valero_**✉️, A. Bermejillo‑Seco, E. Coronado, P. G. Steeneken, H. S. J. van der Zant✉️
+  link:
+    url: https://doi.org/10.1002/adfm.202310206
+    display: Adv. Funct. Mater. 34, 2310206 (2024)
+  date: 2023-12-20  # Approximate (issue date December 2023; the journal issue “34(3)” corresponds to early 2024)
+  highlight: 1
+
+- title: "Magnetic Imaging and Domain Nucleation in CrSBr Down to the 2D Limit"
+  image: BSCCO_noise.png #crsbr_domain_nucleation.jpg   # Replace with actual image filename if you have
+  description: Using nano‑SQUID‑on‑tip microscopy to image CrSBr flakes from monolayer up, demonstrating that ferromagnetic order, Néel domain walls, and magnetic anisotropy are preserved down to the 2D limit.  
+  authors: Y. Zur, A. Noah✉️, C. Boix‑Constant, **_Samuel Mañas‑Valero_**✉️, N. Fridman, R. Rama‑Eiroa, M. E. Huber, E. J. G. Santos✉️, E. Coronado, Y. Anahory✉️
+  link:
+    url: https://doi.org/10.1002/adma.202307195
+    display: Adv. Mater. 35, 47, 2307195 (2023)
+  date: 2023-11-23
+  highlight: 1
+
+- title: "Probing the Spin Dimensionality in Single‑Layer CrSBr van der Waals Heterostructures by Magneto‑Transport Measurements"
+  image: BSCCO_noise.png #crsbr_spin_dimensionality.jpg  # replace with actual image if available
+  description: Magneto‑transport measurements of vertical heterostructures in the 2D limit reveal that single‑layer CrSBr exhibits short‑range correlations above TC, strong in‑plane (Ising‑type) anisotropy, spin re orientation under moderate field, and spin‑valve behaviour in multilayers, offering insight into low‑dimensional magnetism and spintronics in vdW heterostructures.
+  authors: C. Boix‑Constant, **_Samuel Mañas‑Valero_**✉️, A. M. Ruiz, A. Rybakov, K. A. Konieczny, S. Pillet, J. J. Baldoví, E. Coronado✉️
+  link:
+    url: https://doi.org/10.1002/adma.202204940
+    display: Adv. Mater. 34, 2204940 (2022)
+  date: 2022-10-00  # Month known (October 2022); day not clearly indicated in source
+  highlight: 1
+
+- title: "Strain Switching in van der Waals Heterostructures Triggered by a Spin-Crossover Metal–Organic Framework"
+  image: BSCCO_noise.png #strain_switching_vdW_heterostructures.jpg  # Replace with actual image filename if available
+  description: Study demonstrating strain switching in van der Waals heterostructures driven by a spin-crossover metal–organic framework, highlighting novel tunable magnetic properties in 2D materials.
+  authors: C. Boix-Constant, V. López-García, E. Navarro-Moratalla, M. Clemente-León, J. L. Zafra, J. Casado, F. Guinea, **_Samuel Mañas-Valero_**✉️, E. Coronado✉️
+  link:
+    url: https://doi.org/10.1002/adma.202110027
+    display: Adv. Mater. 34, 11, 2110027 (2022)
+  date: 2022-03-11
+  highlight: 1
+
+- title: "Out-of-Plane Transport of 1T-TaS₂/Graphene-Based van der Waals Heterostructures"
+  image: BSCCO_noise.png #taS2_graphene_transport.jpg  # Replace with actual image filename if available
+  description: Investigation of out-of-plane electronic transport in 1T-TaS₂/graphene-based van der Waals heterostructures, revealing interlayer coupling effects and transport mechanisms in 2D material stacks.
+  authors: C. Boix-Constant, **_Samuel Mañas-Valero_**✉️, R. Córdoba, José J. Baldoví, A. Rubio, E. Coronado✉️
+  link:
+    url: https://doi.org/10.1021/acsnano.1c03012
+    display: ACS Nano 15, 7, 11898–11907 (2021)
+  date: 2021-07-13
+  highlight: 1
+
+- title: "Van der Waals Heterostructures Based on Atomically-Thin Superconductors"
+  image: BSCCO_noise.png #taS2_nbse2_vdw.jpg  # Replace with actual image filename if available
+  description: This study demonstrates the fabrication and electrical characterization of vertical van der Waals heterostructures (vdWHs) using air-unstable, atomically-thin transition metal dichalcogenides (TMDs) such as NbSe₂ and TaS₂. The vdWHs exhibit phase transitions, including the charge density wave of 1T-TaS₂ and superconductivity in NbSe₂. Notably, an enhancement in resistance due to Andreev reflections is observed below the superconducting transition temperature of NbSe₂ flakes. The field and temperature dependence of normalized conductance aligns with the Bardeen-Cooper-Schrieffer theory, analyzed within the Dynes' model.
+  authors: C. Boix-Constant, **_Samuel Mañas-Valero_**✉️, R. Córdoba, E. Coronado✉️
+  link:
+    url: https://doi.org/10.1002/aelm.202000987
+    display: Adv. Electron. Mater. 7, 2000987 (2021)
+  date: 2021-07-07
+  highlight: 1
+
+- title: "A Fluorinated 2D Magnetic Coordination Polymer"
+  image: BSCCO_noise.png #fluorinated_2D_magnetic_cp.jpg  # Replace with actual image filename if available
+  description: Discovery of a fluorinated 2D magnetic coordination polymer, expanding the family of 2D magnetic materials with tunable properties via chemical functionalization.
+  authors: J. López-Cabrelles🟰🤝*, **_Samuel Mañas-Valero_**🟰🤝*, I. Vitórica-Yrezábal, P. Bereciartua, E. Coronado, G. Mínguez Espallargas
+  link:
+    url: https://doi.org/10.1039/D1DT04326G
+    display: Dalton Trans. 51, 1861 (2022)
+  date: 2022-01-01
+  highlight: 1
+  notes: "* Equal contribution"
+
+- title: "Chemical Design and Magnetic Ordering in Thin Layers of 2D Metal–Organic Frameworks"
+  image: BSCCO_noise.png #chem_design_mof_2d.jpg  # Replace with actual image filename if available
+  description: A study focusing on the chemical design and magnetic ordering properties in thin layers of two-dimensional metal–organic frameworks, revealing tunable magnetic behaviors and structural control.
+  authors: J. López-Cabrelles🟰🤝*, **_Samuel Mañas-Valero_**🟰🤝*, I. J. Vitórica-Yrezábal, M. Siskins, P. Steeneken, H. van der Zant, G. Mínguez Espallargas, E. Coronado
+  link:
+    url: https://doi.org/10.1021/jacs.1c08713
+    display: J. Am. Chem. Soc. 143, 44, 18502 (2021)
+  date: 2021-11-03
+  highlight: 1
+  notes: "* Equal contribution"
+
+- title: "Quantum Phases and Spin Liquid Properties of 1T-TaS2"
+  image: BSCCO_noise.png #quantum_phases_1T_TaS2.jpg  # Replace with actual image filename if available
+  description: Investigation of quantum phases and spin liquid behavior in 1T-TaS2, providing insights into exotic magnetic states in low-dimensional materials.
+  authors: **_Samuel Mañas-Valero_**, B. Huddart, T. Lancaster, E. Coronado, F. Pratt
+  link:
+    url: https://doi.org/10.1038/s41535-021-00391-4
+    display: npj Quantum Mater. 6, 69 (2021)
+  date: 2021-05-14
+  highlight: 1
+
+- title: "Isoreticular Two-Dimensional Magnetic Coordination Polymers Prepared Through Pre-Synthetic Ligand Functionalization"
+  image: BSCCO_noise.png #isoreticular_2D_magnetic_cp.jpg  # Replace with actual image filename if available
+  description: Preparation of isoreticular two-dimensional magnetic coordination polymers via pre-synthetic ligand functionalization, enabling control over magnetic properties in 2D materials.
+  authors: J. López-Cabrelles🟰🤝*, **_Samuel Mañas-Valero_**🟰🤝*, I. Vitórica-Yrezábal, P. Bereciartua, J. Rodríguez-Velamazán, J.C. Waerenborgh, B.J.C Vieira, D. Davidovikj, P. Steeneken, H. van der Zant, G. Mínguez Espallargas, E. Coronado
+  link:
+    url: https://doi.org/10.1038/nchem.2884
+    display: Nat. Chem. 10, 1001–1007 (2018)
+  date: 2018-07-01
+  highlight: 1
+  notes: "* Equal contribution"
+
+- title: "Raman Spectra of ZrS2 and ZrSe2 from Bulk to Atomically Thin Layers"
+  image: BSCCO_noise.png #raman_zrs2_zrse2.jpg  # Replace with actual image filename if available
+  description: Study of the Raman spectra of ZrS2 and ZrSe2 from bulk crystals down to atomically thin layers, highlighting vibrational properties in 2D materials.
+  authors: **_Samuel Mañas-Valero_**, V. García-López, A. Cantarero, M. Galbiati
+  link:
+    url: https://doi.org/10.3390/app6060264
+    display: Applied Sciences 6, 264 (2016)
+  date: 2016-06-01
   highlight: 1
 
 - title: "Equivalence of pseudogap and pairing energy in a cuprate high-temperature superconductor"
-  image: BSCCO_noise.png
+  image: BSCCO_noise.png #BSCCO_noise.png
   description: What is the pseudogap and what is the relation between pseudogap and superconductivity? – This is likely the most discussed issue in quantum matter over the last three decades. We report a direct evidence for equivalence of pseudogap and onset energy for electron pairing with our state-of-art electron pair microscope. This may inspire hope for materials with higher Tc.
   authors: Jiasen Niu, Maialen Ortego Larrazabal, Thomas Gozlinski, Yudai Sato, Koen M. Bastiaans, Tjerk Benschop, Jian-Feng Ge, Yaroslav M. Blanter, Genda Gu, Ingmar Swart, Milan P. Allan
   link:
@@ -18,7 +163,7 @@
   highlight: 1
 
 - title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
-  image: ShotNoise.png
+  image: BSCCO_noise.png #ShotNoise.png
   description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
   authors: Jiasen Niu, Koen M. Bastiaans, Jianfeng Ge, Ruchi Tomar, John Jesudasan, Pratap Raychaudhuri, Max Karrer, Reinhold Kleiner, Dieter Koelle, Arnaud Barbier, Eduard F.C. Driessen, Yaroslav M. Blanter, Milan P. Allan
   link:
