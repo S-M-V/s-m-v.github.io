@@ -93,8 +93,8 @@ permalink: /publications/
 {% assign sorted_publications = site.data.all_publications | sort: "date" | reverse %}
 
 {% for publi in sorted_publications %}
-  {{ forloop.index }}. {{ publi.title }} <br />
+  {{ forloop.index }}. <strong>{{ publi.title }}</strong> <br />
   <em>{{ publi.authors }}</em><br />
-  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br /><br />
+  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br /> #<br />
 {% endfor %}
 
