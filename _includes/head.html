@@ -9,7 +9,22 @@
   <link rel="stylesheet" href="{{ "/css/academicons.css" | prepend: site.baseurl | prepend: site.url }}">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
   <link rel="stylesheet" href="{{ '/css/quote.css' | relative_url }}">
-  <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" type="image/x-icon">
+  
+  <!-- Apple touch icon for iOS home screen -->
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/apple-touch-icon-180x180.png' | relative_url }}">
+
+  <!-- PNG icons for various sizes -->
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/favicon-32x32.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="192x192" href="{{ '/favicon-192x192.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="512x512" href="{{ '/favicon-512x512.png' | relative_url }}">
+
+  <!-- SVG favicon (scalable vector) -->
+  <link rel="icon" type="image/svg+xml" href="{{ '/favicon_512x512.svg' | relative_url }}">
+
+  <!-- ICO favicon fallback -->
+  <link rel="icon" href="{{ '/favicon_512x512.ico' | relative_url }}" type="image/x-icon">
+
+
 
 
 {% if jekyll.environment == 'production' %}
