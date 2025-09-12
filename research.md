@@ -9,7 +9,7 @@ permalink: /research/
 <h2>Research</h2>
 <div class="highlight-quote">
 <em>"Quantum phenomena do not occur in a Hilbert space. They occur in a laboratory."</em>
-<span class="quote-author"> Asher Peres, <em>(Quantum theory: concepts and methods, 1995)</em>em></span>
+<span class="quote-author"> Asher Peres, <em>(Quantum theory: concepts and methods, 1995)</em></span>
 </div>
 
 <div style="border-left: 4px solid red; background-color: yellow; padding: 1em;">
