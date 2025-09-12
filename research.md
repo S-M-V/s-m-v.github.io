@@ -8,8 +8,12 @@ permalink: /research/
 
 <h2>Research</h2>
 <div class="highlight-quote">
-<em>"Quantum phenomena do not occur in a Hilbert space. They occur in a laboratory. 
+<em>"Quantum phenomena do not occur in a Hilbert space. They occur in a laboratory."</em>
 <span class="quote-author"> Asher Peres, <em>(Quantum theory: concepts and methods, 1995)</em>em></span>
+</div>
+
+<div style="border-left: 4px solid red; background-color: yellow; padding: 1em;">
+  Test inline style quote block.
 </div>
 
 We aim to experimentally uncover emergent quantum phenomena by exploring the delicate symbiosis between crystal growth and strongly correlated phases, as magnetism or superconductivity, ranging from bulk to the two-dimensional limit (2D materials). To do so, we use solid-state crystal growth techniques, magneto-transport measurements in 2D devices and magnetic imaging using color center magnetometry.
