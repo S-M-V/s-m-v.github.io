@@ -1,77 +1,90 @@
-/* Base quote block */
+/* Base quote styling */
 .highlight-quote {
-  border-left: 4px solid #3498db;
-  background-color: #f4faff;
   padding: 1em 1.5em;
   margin: 2em 0;
   font-style: italic;
-  color: #333;
-  font-size: 1.05em;
-  line-height: 1.6;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
   position: relative;
   transition: background-color 0.3s ease, border-color 0.3s ease;
 }
 
-/* Author block */
-.highlight-quote .quote-author {
-  display: block;
-  margin-top: 0.8em;
-  font-weight: bold;
+/* Style 1 - Soft Blue */
+.highlight-quote.blue {
+  border-left: 3px solid #5a8dee;
+  background-color: #f9fbff;
+  color: #444;
+  box-shadow: 0 2px 6px rgba(90, 141, 238, 0.15);
+}
+.highlight-quote.blue::before {
+  content: "“";
+  font-size: 2em;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  color: #5a8dee;
+  opacity: 0.12;
+  font-family: serif;
+  pointer-events: none;
+}
+.highlight-quote.blue::after {
+  content: "”";
+  font-size: 2em;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  color: #5a8dee;
+  opacity: 0.12;
+  font-family: serif;
+  pointer-events: none;
+}
+.highlight-quote.blue .quote-author {
+  color: #666;
+  font-weight: 600;
   text-align: right;
   font-style: normal;
+  display: block;
+  margin-top: 0.7em;
 }
 
-/* Optional: Hover effect */
-.highlight-quote:hover {
-  background-color: #e8f4fb;
-  border-left-color: #2b8cc4;
+/* Style 2 - Warm Beige */
+.highlight-quote.beige {
+  border-left: 3px solid #d9a066;
+  background-color: #fff8f0;
+  color: #5a4a32;
+  box-shadow: 0 2px 6px rgba(217, 160, 102, 0.15);
 }
-
-/* Optional icon (using Unicode or you can use an image/font-awesome if you prefer) */
-.highlight-quote::before {
-  content: "❝";
-  font-size: 2.5em;
+.highlight-quote.beige::before {
+  content: "“";
+  font-size: 2em;
   position: absolute;
-  top: -10px;
+  top: 10px;
   left: 10px;
-  color: #3498db;
-  opacity: 0.2;
+  color: #d9a066;
+  opacity: 0.15;
+  font-family: serif;
+  pointer-events: none;
+}
+.highlight-quote.beige::after {
+  content: "”";
+  font-size: 2em;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  color: #d9a066;
+  opacity: 0.15;
+  font-family: serif;
+  pointer-events: none;
+}
+.highlight-quote.beige .quote-author {
+  color: #7a6a50;
+  font-weight: 600;
+  text-align: right;
+  font-style: normal;
+  display: block;
+  margin-top: 0.7em;
 }
 
-/* Alternate color scheme */
-.highlight-quote.alt {
-  border-left-color: #9b59b6;
-  background-color: #faf4ff;
-}
-
-.highlight-quote.alt::before {
-  color: #9b59b6;
-}
-
-/* Dark mode variant */
-.highlight-quote.dark {
-  border-left-color: #f39c12;
-  background-color: #2c3e50;
-  color: #ecf0f1;
-}
-
-.highlight-quote.dark .quote-author {
-  color: #f1c40f;
-}
-
-.highlight-quote.dark::before {
-  color: #f39c12;
-}
-
-/* Responsive font scaling */
-@media (max-width: 600px) {
-  .highlight-quote {
-    font-size: 1em;
-    padding: 0.8em 1.2em;
-  }
-
-  .highlight-quote::before {
-    font-size: 2em;
-    top: -5px;
-  }
-}
+/* Add more styles similarly */
