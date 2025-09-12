@@ -12,7 +12,7 @@ We aim to uncover emergent quantum phenomena by exploring the delicate symbiosis
 
 **Crystal growth: <em> when everything starts with plain powders</em>** 
 
-<em>"As a rule, the substances yielded by chemical transport eeactions are in the form of well-defined crystals. 
+<em>"As a rule, the substances yielded by chemical transport reactions are in the form of well-defined crystals. 
 The satisfaction that the chemist experiences when he holds <strong>beautiful crystals</strong> instead of a plain powder in his hands merits more than slight consideration”.
 <strong>Harald Schäfer (Chemical Vapor Reactions, 1964)</strong></em>
 
