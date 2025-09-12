@@ -8,21 +8,24 @@ permalink: /research/
 
 # Research
 
+<em>"Quantum phenomena do not occur in a Hilbert space. They occur in a laboratory. 
+
+<strong>Asher Peres (Quantum theory: concepts and methods, 1995)</strong>"
+
 We aim to uncover emergent quantum phenomena by exploring the delicate symbiosis between crystal growth and strongly correlated phases, as magnetism or superconductivity, ranging from bulk to the two-dimensional limit (2D materials). To do so, we use solid-state crystal growth techniques, magneto-transport measurements in 2D devices and magnetic imaging using color center magnetometry.
 
 **Crystal growth: <em> when everything starts with plain powders</em>** 
 
 <em>"As a rule, the substances yielded by chemical transport reactions are in the form of well-defined crystals. 
 The satisfaction that the chemist experiences when he holds <strong>beautiful crystals</strong> instead of a plain powder in his hands merits more than slight consideration”.
+
 <strong>Harald Schäfer (Chemical Vapor Reactions, 1964)</strong></em>
+
 
 Our interest is to grow high-quality single crystals for exploring their physical properties (both in bulk and in the low-dimensional limit).
 
-
-**Mott physics and high-temperature superconductivity.** Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? We have worked on iridates, rhodates, and cuprates.
-
 **2D materials and van der Waals heterostructures."**
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}
+
 One of the  projects back from my job-proposal is to develop nanofabricated STM tips. The idea behind these “smart tips” is to use the technologies that were developed over decades in nanofabrication and make them available for scanning probe by using a nano-device instead of the traditional STM tungsten tip. One gains the flexibility of using different functionalities that are known from the fields of nanofabrication and mesoscopic physics. We are collaborating with the group Simon Groeblacher at TU Delft to realize this concept, benefitting from their unparalleled micro/nano fabrication know how.  A prototype of a smart tip is shown to the left. See publications in Microsyst Nanoeng, Nanotechnology, and PRB.
 
 **Josephson STM.** Josephson STM has the ability to gain insight into spatial variations of the order parameter, or superfluid density. We have managed to, for the first time, use JSTM with atomic resolution on a quantum material.
