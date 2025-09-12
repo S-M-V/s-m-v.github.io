@@ -11,6 +11,7 @@ permalink: /research/
 We aim to uncover emergent quantum phenomena by exploring the delicate symbiosis between crystal growth and strongly correlated phases, as magnetism or superconductivity, ranging from bulk to the two-dimensional limit (2D materials). To do so, we use solid-state crystal growth techniques, magneto-transport measurements in 2D devices and magnetic imaging using color center magnetometry.
 
 **Crystal growth: <em> when everything starts with plain powders</em>** 
+
 <em>"As a rule, the substances yielded by chemical transport eeactions are in the form of well-defined crystals. 
 The satisfaction that the chemist experiences when he holds <strong>beautiful crystals</strong> instead of a plain powder in his hands merits more than slight consideration”.
 <strong>Harald Schäfer (Chemical Vapor Reactions, 1964)</strong></em>
