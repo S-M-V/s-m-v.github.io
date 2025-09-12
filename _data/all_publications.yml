@@ -43,7 +43,7 @@
     display: Nature Materials 23, 212 (2024)
   date: 2024-01-15
   news1: <a style="color:#FF0000" href="https://www.nature.com/articles/s41563-023-01762-3">Featured as 'News&Views' in Nature Materials by Lan Wang</a>
-  news2: <a style="color:#FF0000" href="https://www.nature.com/articles/s41563-023-01762-3">Beyond moiré in twisted two-dimensional magnets</a>
+  news2_: <a style="color:#FF0000" href="https://www.nature.com/articles/s41563-023-01762-3">Beyond moiré in twisted two-dimensional magnets</a>
   highlight: 1
   doi: "10.1038/s41563-023-01735-6"
 
@@ -61,7 +61,7 @@
 
 - title: "Highly anisotropic mechanical response of the van der Waals magnet CrPS4"
   image: AdvFuncMater_2024_CrPS4.jpg
-  description: This study explores the highly anisotropic mechanical properties of the van der Waals magnet CrPS4, providing insights relevant for flexible spintronic applications.
+  description: "The study uncovers a highly anisotropic mechanical response in the van der Waals magnet CrPS₄, highlighting a strong interplay between its magnetic and mechanical properties through magneto-elastic coupling."
   authors: "M. J. A. Houmes, <strong><em>S. Mañas‑Valero</em></strong>, A. Bermejillo-Seco, E. Coronado, P. G. Steeneken, H. S. J. van der Zant"
   authors_highlight: "M. J. A. Houmes, <strong><em>S. Mañas‑Valero</em></strong>📧, A. Bermejillo-Seco, E. Coronado, P. G. Steeneken, H. S. J. van der Zant📧"
   link:
@@ -73,7 +73,7 @@
 
 - title: "Magnetic Imaging and Domain Nucleation in CrSBr Down to the 2D Limit"
   image: AdvancedMater2023_SOT.jpg
-  description: Magnetic imaging reveals domain nucleation processes in CrSBr as it approaches the two-dimensional limit, advancing understanding of low-dimensional magnetism.
+  description: "he study investigates magnetic imaging and domain nucleation in CrSBr down to the monolayer limit, revealing the emergence and evolution of magnetic domains and highlighting robust two-dimensional magnetism with tunable domain behavior."
   authors: "Y. Zur, A. Noah, C. Boix-Constant, <strong><em>S. Mañas‑Valero</em></strong>, N. Fridman, R. Rama-Eiroa, M. E. Huber, E. J. G. Santos, E. Coronado, Y. Anahory"
   authors_highlight: "Y. Zur, A. Noah📧, C. Boix-Constant, <strong><em>S. Mañas‑Valero</em></strong>📧, N. Fridman, R. Rama-Eiroa, M. E. Huber, E. J. G. Santos📧, E. Coronado, Y. Anahory📧"
   link:
@@ -109,7 +109,7 @@
 
 - title: "Out-of-plane transport of 1T-TaS2/graphene-based van der Waals heterostructures"
   image: AcsNano_2021.jpeg
-  description: Investigates out-of-plane charge transport in 1T-TaS₂/graphene van der Waals heterostructures, providing insights into layered material electronic coupling.
+  description: Investigates out-of-plane charge transport in 1T-TaS₂/graphene van der Waals heterostructures, providing insights into charge density waves.
   authors: "C. Boix-Constant, <strong><em>S. Mañas‑Valero</em></strong>, R. Córdoba, José J. Baldoví, A. Rubio, E. Coronado"
   authors_highlight: "C. Boix-Constant, <strong><em>S. Mañas‑Valero</em></strong>📧, R. Córdoba, José J. Baldoví, A. Rubio, E. Coronado📧"
   link:
@@ -121,7 +121,7 @@
 
 - title: "van der Waals heterostructures based on atomically-thin superconductors"
   image: AdvElecMater_2021.jpg
-  description: This article discusses van der Waals heterostructures constructed from atomically-thin superconductors, exploring their electronic properties and potential applications.
+  description: "The study showcases how the modular nature of van der Waals materials facilitates the design of multifunctional heterostructures."
   authors: "C. Boix-Constant, <strong><em>S. Mañas‑Valero</em></strong>, R. Córdoba, E. Coronado"
   authors_highlight: "C. Boix-Constant, <strong><em>S. Mañas‑Valero</em></strong>📧, R. Córdoba, E. Coronado📧"
   link:
@@ -133,7 +133,7 @@
 
 - title: "A fluorinated 2D magnetic coordination polymer"
   image: Dalton_2022.gif
-  description: "Layered coordination polymers (LCPs) are usually too fragile to withstand the ‘Scotch-tape method’ widely used to mechanically exfoliate a variety of materials. We show a family of five isoreticular crystalline, magnetic LCPs – based on Fe(II) centres and five benzimidazole derivatives – down to monolayers (an artistic representation of a single sheet is shown on the cover). The use of functionalized ligands in the bulk LCPs means that the magnetic 2D materials obtained on exfoliation are already functionalized; this approach avoids the need for a surface-engineering step which is known to introduce defects."
+  description: "The study reports the synthesis and characterization of a fluorinated 2D magnetic coordination polymer, highlighting how fluorination tunes its magnetic properties and structural stability at the atomic scale."
   authors: "J. López-Cabrelles, <strong><em>S. Mañas‑Valero</em></strong>, I. Vitórica-Yrezábal, P. Bereciartua, E. Coronado, G. Mínguez Espallargas"
   authors_highlight: "J. López-Cabrelles🤝, <strong><em>S. Mañas‑Valero</em></strong>🤝, I. Vitórica-Yrezábal, P. Bereciartua, E. Coronado, G. Mínguez Espallargas📧"
   link:
@@ -145,7 +145,7 @@
 
 - title: "Chemical Design and Magnetic Ordering in Thin Layers of 2D Metal–Organic Frameworks"
   image: JACS_2021.jpeg
-  description: Study on the chemical design and magnetic ordering of thin layers of 2D metal–organic frameworks, elucidating their structural and magnetic properties.
+  description: "The study demonstrates magnetic control in atomically-thin 2D metal–organic frameworks achieved through targeted chemical design, enabling tunable magnetic ordering via precise manipulation of molecular building blocks and coordination environments."
   authors: "J. López-Cabrelles, <strong><em>S. Mañas‑Valero</em></strong>, I. J. Vitórica-Yrezábal, M. Siskins, P. Steeneken, H. van der Zant, G. Mínguez Espallargas, E. Coronado"
   authors_highlight: "J. López-Cabrelles🤝, <strong><em>S. Mañas‑Valero</em></strong>🤝, I. J. Vitórica-Yrezábal, M. Siskins, P. Steeneken, H. van der Zant, G. Mínguez Espallargas📧, E. Coronado📧"
   link:
@@ -157,7 +157,7 @@
 
 - title: "Quantum phases and spin liquid properties of 1T-TaS2"
   image: npjQuantumMat_TaS2_2021.png
-  description: Investigation of quantum phases and spin liquid behavior in the layered material 1T-TaS₂, revealing novel magnetic phenomena.
+  description: "The study explores the emergence of quantum phases and spin liquid behavior in 1T-TaS₂, highlighting its complex electronic correlations and frustrated magnetism in the charge density wave state."
   authors: "<strong><em>S. Mañas‑Valero</em></strong>, B. Huddart, T. Lancaster, E. Coronado, F. Pratt"
   authors_highlight: "<strong><em>S. Mañas‑Valero</em></strong>, B. Huddart, T. Lancaster, E. Coronado, F. Pratt📧"
   link:
@@ -169,7 +169,7 @@
 
 - title: "Isoreticular two-dimensional magnetic coordination polymers prepared through pre-synthetic ligand functionalization"
   image: NatureChem_2018.png
-  description: Synthesis and characterization of isoreticular 2D magnetic coordination polymers via pre-synthetic ligand functionalization, expanding the design of layered magnetic materials.
+  description: "Layered coordination polymers (LCPs) are usually too fragile to withstand the ‘Scotch-tape method’ widely used to mechanically exfoliate a variety of materials. We show a family of five isoreticular crystalline, magnetic LCPs – based on Fe(II) centres and five benzimidazole derivatives – down to monolayers (an artistic representation of a single sheet is shown on the cover). The use of functionalized ligands in the bulk LCPs means that the magnetic 2D materials obtained on exfoliation are already functionalized; this approach avoids the need for a surface-engineering step which is known to introduce defects."
   authors: "J. López-Cabrelles, <strong><em>S. Mañas‑Valero</em></strong>, I. Vitórica-Yrezábal, P. Bereciartua, J. Rodríguez-Velamazán, J.C. Waerenborgh, B.J.C. Vieira, D. Davidovikj, P. Steeneken, H. van der Zant, G. Mínguez Espallargas, E. Coronado"
   authors_highlight: "J. López-Cabrelles🤝, <strong><em>S. Mañas‑Valero</em></strong>🤝, I. Vitórica-Yrezábal, P. Bereciartua, J. Rodríguez-Velamazán, J.C. Waerenborgh, B.J.C. Vieira, D. Davidovikj, P. Steeneken, H. van der Zant, G. Mínguez Espallargas📧, E. Coronado📧"
   link:
