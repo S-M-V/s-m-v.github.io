@@ -1,90 +1,112 @@
-/* Base quote styling */
+/* === Base Quote Styling === */
 .highlight-quote {
+  font-size: inherit; /* Match site font size */
+  font-style: italic;
+  line-height: 1.6;
   padding: 1em 1.5em;
   margin: 2em 0;
-  font-style: italic;
-  font-size: 1rem;
-  line-height: 1.5;
   border-radius: 6px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
   position: relative;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
   transition: background-color 0.3s ease, border-color 0.3s ease;
 }
 
-/* Style 1 - Soft Blue */
+/* === Quotation Marks === */
+.highlight-quote::before,
+.highlight-quote::after {
+  font-size: 2.5em;
+  font-family: serif;
+  position: absolute;
+  opacity: 0.12;
+  pointer-events: none;
+  z-index: 0;
+}
+.highlight-quote::before {
+  content: "“";
+  top: 5px;
+  left: 12px;
+}
+.highlight-quote::after {
+  content: "”";
+  bottom: 5px;
+  right: 12px;
+}
+
+/* === Quote Author === */
+.highlight-quote .quote-author {
+  display: block;
+  margin-top: 0.8em;
+  font-style: normal;
+  font-weight: 600;
+  text-align: right;
+  color: inherit;
+  position: relative;
+  z-index: 1;
+}
+
+/* === Color Themes === */
+
+/* --- 1. Blue (default / calm) --- */
 .highlight-quote.blue {
   border-left: 3px solid #5a8dee;
   background-color: #f9fbff;
-  color: #444;
-  box-shadow: 0 2px 6px rgba(90, 141, 238, 0.15);
+  color: #333;
 }
-.highlight-quote.blue::before {
-  content: "“";
-  font-size: 2em;
-  position: absolute;
-  top: 10px;
-  left: 10px;
-  color: #5a8dee;
-  opacity: 0.12;
-  font-family: serif;
-  pointer-events: none;
-}
+.highlight-quote.blue::before,
 .highlight-quote.blue::after {
-  content: "”";
-  font-size: 2em;
-  position: absolute;
-  bottom: 10px;
-  right: 10px;
   color: #5a8dee;
-  opacity: 0.12;
-  font-family: serif;
-  pointer-events: none;
-}
-.highlight-quote.blue .quote-author {
-  color: #666;
-  font-weight: 600;
-  text-align: right;
-  font-style: normal;
-  display: block;
-  margin-top: 0.7em;
 }
 
-/* Style 2 - Warm Beige */
+/* --- 2. Beige (warm / cozy) --- */
 .highlight-quote.beige {
   border-left: 3px solid #d9a066;
   background-color: #fff8f0;
   color: #5a4a32;
-  box-shadow: 0 2px 6px rgba(217, 160, 102, 0.15);
 }
-.highlight-quote.beige::before {
-  content: "“";
-  font-size: 2em;
-  position: absolute;
-  top: 10px;
-  left: 10px;
-  color: #d9a066;
-  opacity: 0.15;
-  font-family: serif;
-  pointer-events: none;
-}
+.highlight-quote.beige::before,
 .highlight-quote.beige::after {
-  content: "”";
-  font-size: 2em;
-  position: absolute;
-  bottom: 10px;
-  right: 10px;
   color: #d9a066;
-  opacity: 0.15;
-  font-family: serif;
-  pointer-events: none;
 }
 .highlight-quote.beige .quote-author {
   color: #7a6a50;
-  font-weight: 600;
-  text-align: right;
-  font-style: normal;
-  display: block;
-  margin-top: 0.7em;
 }
 
-/* Add more styles similarly */
+/* --- 3. Green (fresh / calm) --- */
+.highlight-quote.green {
+  border-left: 3px solid #6a9a76;
+  background-color: #f5fbf7;
+  color: #3b4a3a;
+}
+.highlight-quote.green::before,
+.highlight-quote.green::after {
+  color: #6a9a76;
+}
+.highlight-quote.green .quote-author {
+  color: #556e56;
+}
+
+/* --- 4. Lavender (elegant / soft) --- */
+.highlight-quote.lavender {
+  border-left: 3px solid #9186a0;
+  background-color: #f6f5fa;
+  color: #4a4759;
+}
+.highlight-quote.lavender::before,
+.highlight-quote.lavender::after {
+  color: #9186a0;
+}
+.highlight-quote.lavender .quote-author {
+  color: #6f6b83;
+}
+
+/* === Responsive Adjustments === */
+@media (max-width: 600px) {
+  .highlight-quote {
+    padding: 0.8em 1em;
+  }
+
+  .highlight-quote::before,
+  .highlight-quote::after {
+    font-size: 2em;
+  }
+}
