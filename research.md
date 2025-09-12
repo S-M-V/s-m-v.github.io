@@ -30,7 +30,12 @@ One of the  projects back from my job-proposal is to develop nanofabricated STM
 
 
 
-<h2>Advanced magnetic imaging</h2>
+<h2>Advanced magnetic imaging with solid-state spin-defects</h2>
+<div class="highlight-quote green">
+<em>"The more nearly an object approaches perfection, the more we notice its slightest defects."</em>
+<span class="quote-author"> Sadi Carnot <em>(Reflections on the Motive Power of Heat, 1890)</em></span>
+</div>
+
 The strange metal phase might be the most mysterious phase of high-temperature superconductors. Here, the electrical resistivity grows linearly with temperature T in large areas of the phase diagram, with a mean free path that diminishes to a fraction of the interatomic distance. T-linear resistivity is often associated with quantum critical points and marginal-Fermi-liquid physics. In strange metals, the mystery seems to go even further: we deal with something that looks like a quantum critical phase over an extended range of the phase diagram instead of cumulating in a point. There exists no consistent theory for strange metals, leading to more adventurous new approaches including the holographic theories that use insights from gravity to explain strange metals (a recent textbook on this was written by our colleagues at Leiden University, Schalm and Zaanen).
 We are part of the 'Strange Metal consortium NL' that includes the groups of Hussey, Golden, van Heumen, Zaanen, Schalm, Stoof and Vandoren. 
 
