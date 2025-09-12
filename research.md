@@ -24,7 +24,7 @@ The satisfaction that the chemist experiences when he holds <strong>beautiful cr
 Our interest is to grow high-quality single crystals for exploring their physical properties (both in bulk and in the low-dimensional limit).
 
 <h2>2D materials and van der Waals heterostructures</h2>
-<div class="highlight-quote beige">
+<div class="highlight-quote sage">
 <em>"The basic principle is simple: take, for example, a monolayer,
 put it on top of another monolayer or few-layer crystal, add another
 2D crystal and so on. The resulting stack represents an artificial
@@ -38,7 +38,7 @@ One of the  projects back from my job-proposal is to develop nanofabricated STM
 
 
 <h2>Advanced magnetic imaging with solid-state spin-defects</h2>
-<div class="highlight-quote green">
+<div class="highlight-quote slate">
 <em>"The more nearly an object approaches perfection, the more we notice its slightest defects."</em>
 <span class="quote-author"> Sadi Carnot <em>(Reflections on the Motive Power of Heat, 1890)</em></span>
 </div>
