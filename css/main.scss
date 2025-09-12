@@ -110,13 +110,17 @@ firstp {
   font-size: 28px; /* icon size */
 }
 
-.navbar-brand img {
-  height: 32px;
-  margin-right: 10px;
-  vertical-align: middle;
+.navbar-brand {
+  display: flex;
+  align-items: center;
+  font-size: 18px; /* Or larger */
+  font-weight: bold;
+  height: 50px; /* Bootstrap 3 default navbar height */
+  padding: 15px 15px; /* Match Bootstrap padding */
 }
 
-.navbar-brand {
-  font-size: 1.5rem;
-  font-weight: bold;
+.navbar-brand img {
+  height: 20px;
+  margin-right: 10px;
+  vertical-align: middle;
 }
