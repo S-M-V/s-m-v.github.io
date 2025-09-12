@@ -6,26 +6,20 @@ sitemap: false
 permalink: /research/
 ---
 
-<h2>Research</h2>
-<div class="highlight-quote blue">
+<h1>Research</h1>
+<div class="highlight-quote lavender">
 <em>"Quantum phenomena do not occur in a Hilbert space. They occur in a laboratory."</em>
-<span class="quote-author"> Asher Peres, <em>(Quantum theory: concepts and methods, 1995)</em></span>
-</div>
-
-<div style="border-left: 4px solid red; background-color: yellow; padding: 1em;">
-  Test inline style quote block.
+<span class="quote-author"> Asher Peres <em>(Quantum theory: concepts and methods, 1995)</em></span>
 </div>
 
 We aim to experimentally uncover emergent quantum phenomena by exploring the delicate symbiosis between crystal growth and strongly correlated phases, as magnetism or superconductivity, ranging from bulk to the two-dimensional limit (2D materials). To do so, we use solid-state crystal growth techniques, magneto-transport measurements in 2D devices and magnetic imaging using color center magnetometry.
 
-**Crystal growth: <em> when everything starts with plain powders</em>** 
-<div style="margin-top:10px; font-style: italic; color: #555;">
+<h2>Crystal growth: <em> when everything starts with plain powders</em></h2> 
+<div class="highlight-quote beige">
 <em>"As a rule, the substances yielded by chemical transport reactions are in the form of well-defined crystals. 
-The satisfaction that the chemist experiences when he holds <strong>beautiful crystals</strong> instead of a plain powder in his hands merits more than slight consideration”.
-
-<strong>Harald Schäfer (Chemical Vapor Reactions, 1964)</strong></em>
-<div>
-
+The satisfaction that the chemist experiences when he holds <strong>beautiful crystals</strong> instead of a plain powder in his hands merits more than slight consideration."</em>
+<span class="quote-author"> Harald Schäfer <em>(Chemical Vapor Reactions, 1964)</em></span>
+</div>
 
 Our interest is to grow high-quality single crystals for exploring their physical properties (both in bulk and in the low-dimensional limit).
 
