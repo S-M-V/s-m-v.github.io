@@ -43,7 +43,7 @@
     display: Nature Materials 23, 212 (2024)
   date: 2024-01-15
   news1: <a style="color:#FF0000" href="https://www.nature.com/articles/s41563-023-01762-3">Featured as 'News&Views' in Nature Materials by Lan Wang</a>
-  news2_: <a style="color:#FF0000" href="https://www.nature.com/articles/s41563-023-01762-3">Beyond moiré in twisted two-dimensional magnets</a>
+  news2: <a style="color:#FF0000" href="https://www.nature.com/articles/s41563-023-01762-3">Beyond moiré in twisted two-dimensional magnets</a>
   highlight: 1
   doi: "10.1038/s41563-023-01735-6"
 
@@ -133,7 +133,7 @@
 
 - title: "A fluorinated 2D magnetic coordination polymer"
   image: Dalton_2022.gif
-  description: Layered coordination polymers (LCPs) are usually too fragile to withstand the ‘Scotch-tape method’ widely used to mechanically exfoliate a variety of materials. We show a family of five isoreticular crystalline, magnetic LCPs – based on Fe(II) centres and five benzimidazole derivatives – down to monolayers (an artistic representation of a single sheet is shown on the cover). The use of functionalized ligands in the bulk LCPs means that the magnetic 2D materials obtained on exfoliation are already functionalized; this approach avoids the need for a surface-engineering step which is known to introduce defects.
+  description: "Layered coordination polymers (LCPs) are usually too fragile to withstand the ‘Scotch-tape method’ widely used to mechanically exfoliate a variety of materials. We show a family of five isoreticular crystalline, magnetic LCPs – based on Fe(II) centres and five benzimidazole derivatives – down to monolayers (an artistic representation of a single sheet is shown on the cover). The use of functionalized ligands in the bulk LCPs means that the magnetic 2D materials obtained on exfoliation are already functionalized; this approach avoids the need for a surface-engineering step which is known to introduce defects."
   authors: "J. López-Cabrelles, <strong><em>S. Mañas‑Valero</em></strong>, I. Vitórica-Yrezábal, P. Bereciartua, E. Coronado, G. Mínguez Espallargas"
   authors_highlight: "J. López-Cabrelles🤝, <strong><em>S. Mañas‑Valero</em></strong>🤝, I. Vitórica-Yrezábal, P. Bereciartua, E. Coronado, G. Mínguez Espallargas📧"
   link:
