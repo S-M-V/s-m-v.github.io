@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research
+<h2>Research</h2>
 
 <div style="margin-top:10px; font-style: italic; color: #555;">
 <em>"Quantum phenomena do not occur in a Hilbert space. They occur in a laboratory. 
