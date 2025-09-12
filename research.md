@@ -12,7 +12,7 @@ permalink: /research/
 
 <strong>Asher Peres (Quantum theory: concepts and methods, 1995)</strong>"
 
-We aim to uncover emergent quantum phenomena by exploring the delicate symbiosis between crystal growth and strongly correlated phases, as magnetism or superconductivity, ranging from bulk to the two-dimensional limit (2D materials). To do so, we use solid-state crystal growth techniques, magneto-transport measurements in 2D devices and magnetic imaging using color center magnetometry.
+We aim to experimentally uncover emergent quantum phenomena by exploring the delicate symbiosis between crystal growth and strongly correlated phases, as magnetism or superconductivity, ranging from bulk to the two-dimensional limit (2D materials). To do so, we use solid-state crystal growth techniques, magneto-transport measurements in 2D devices and magnetic imaging using color center magnetometry.
 
 **Crystal growth: <em> when everything starts with plain powders</em>** 
 
