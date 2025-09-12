@@ -37,7 +37,7 @@ One of the  projects back from my job-proposal is to develop nanofabricated STM
 
 
 
-<h2>Advanced magnetic imaging with solid-state spin-defects</h2>
+<h2>Quantum sensing with solid-state spin-defects</h2>
 <div class="highlight-quote slate">
 <em>"The more nearly an object approaches perfection, the more we notice its slightest defects."</em>
 <span class="quote-author"> Sadi Carnot <em>(Reflections on the Motive Power of Heat, 1890)</em></span>
