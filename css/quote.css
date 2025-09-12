@@ -1,6 +1,6 @@
 /* === Base Quote Styling === */
 .highlight-quote {
-  font-size: inherit; /* Match site font size */
+  font-size: inherit;
   font-style: italic;
   line-height: 1.6;
   padding: 1em 1.5em;
@@ -9,9 +9,10 @@
   position: relative;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
   transition: background-color 0.3s ease, border-color 0.3s ease;
+  color: inherit;
+  z-index: 0;
 }
 
-/* === Quotation Marks === */
 .highlight-quote::before,
 .highlight-quote::after {
   font-size: 2.5em;
@@ -19,7 +20,7 @@
   position: absolute;
   opacity: 0.12;
   pointer-events: none;
-  z-index: 0;
+  z-index: -1;
 }
 .highlight-quote::before {
   content: "“";
@@ -32,7 +33,6 @@
   right: 12px;
 }
 
-/* === Quote Author === */
 .highlight-quote .quote-author {
   display: block;
   margin-top: 0.8em;
@@ -40,24 +40,21 @@
   font-weight: 600;
   text-align: right;
   color: inherit;
-  position: relative;
   z-index: 1;
 }
 
-/* === Color Themes === */
-
-/* --- 1. Blue (default / calm) --- */
+/* === Palette 1: Blue === */
 .highlight-quote.blue {
   border-left: 3px solid #5a8dee;
   background-color: #f9fbff;
-  color: #333;
+  color: #2c3e50;
 }
 .highlight-quote.blue::before,
 .highlight-quote.blue::after {
   color: #5a8dee;
 }
 
-/* --- 2. Beige (warm / cozy) --- */
+/* === Palette 2: Beige === */
 .highlight-quote.beige {
   border-left: 3px solid #d9a066;
   background-color: #fff8f0;
@@ -71,7 +68,7 @@
   color: #7a6a50;
 }
 
-/* --- 3. Green (fresh / calm) --- */
+/* === Palette 3: Green (Classic) === */
 .highlight-quote.green {
   border-left: 3px solid #6a9a76;
   background-color: #f5fbf7;
@@ -85,7 +82,29 @@
   color: #556e56;
 }
 
-/* --- 4. Lavender (elegant / soft) --- */
+/* === Palette 4: Sage === */
+.highlight-quote.sage {
+  border-left: 3px solid #8aa399;
+  background-color: #f4f7f5;
+  color: #2d3a35;
+}
+.highlight-quote.sage::before,
+.highlight-quote.sage::after {
+  color: #8aa399;
+}
+
+/* === Palette 5: Coral === */
+.highlight-quote.coral {
+  border-left: 3px solid #e67e6f;
+  background-color: #fff5f2;
+  color: #5e3d3a;
+}
+.highlight-quote.coral::before,
+.highlight-quote.coral::after {
+  color: #e67e6f;
+}
+
+/* === Palette 6: Lavender === */
 .highlight-quote.lavender {
   border-left: 3px solid #9186a0;
   background-color: #f6f5fa;
@@ -95,11 +114,74 @@
 .highlight-quote.lavender::after {
   color: #9186a0;
 }
-.highlight-quote.lavender .quote-author {
-  color: #6f6b83;
+
+/* === Palette 7: Teal === */
+.highlight-quote.teal {
+  border-left: 3px solid #4db6ac;
+  background-color: #f0fdfd;
+  color: #1b3d3b;
+}
+.highlight-quote.teal::before,
+.highlight-quote.teal::after {
+  color: #4db6ac;
 }
 
-/* === Responsive Adjustments === */
+/* === Palette 8: Gold === */
+.highlight-quote.gold {
+  border-left: 3px solid #d4af37;
+  background-color: #fffbea;
+  color: #4e4524;
+}
+.highlight-quote.gold::before,
+.highlight-quote.gold::after {
+  color: #d4af37;
+}
+
+/* === Palette 9: Rose === */
+.highlight-quote.rose {
+  border-left: 3px solid #c96a84;
+  background-color: #fff6f8;
+  color: #5e3a46;
+}
+.highlight-quote.rose::before,
+.highlight-quote.rose::after {
+  color: #c96a84;
+}
+
+/* === Palette 10: Slate === */
+.highlight-quote.slate {
+  border-left: 3px solid #607d8b;
+  background-color: #f3f6f8;
+  color: #2e3c43;
+}
+.highlight-quote.slate::before,
+.highlight-quote.slate::after {
+  color: #607d8b;
+}
+
+/* === Palette 11: Mint === */
+.highlight-quote.mint {
+  border-left: 3px solid #9de0ad;
+  background-color: #f5fff8;
+  color: #2b4735;
+}
+.highlight-quote.mint::before,
+.highlight-quote.mint::after {
+  color: #9de0ad;
+}
+
+/* === Palette 12: Mocha === */
+.highlight-quote.mocha {
+  border-left: 3px solid #a47148;
+  background-color: #fefaf7;
+  color: #4e3b2a;
+}
+.highlight-quote.mocha::before,
+.highlight-quote.mocha::after {
+  color: #a47148;
+}
+
+/* === Responsive for Mobile === */
 @media (max-width: 600px) {
   .highlight-quote {
     padding: 0.8em 1em;
