@@ -1,5 +1,5 @@
 ---
-title: "SMV - Research"
+title: "SMV | Research"
 layout: textlay
 excerpt: "SMV -- Research"
 sitemap: false
