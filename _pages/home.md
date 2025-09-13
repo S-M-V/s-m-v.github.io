@@ -6,13 +6,13 @@ sitemap: false
 permalink: /
 ---
 
-**News: Our group moved to the University of Munich (LMU)!** Join us! 
+I am a **Kavli postdoctoral fellow** at **Delft University of Technology (The Netherlands)**, 
+working in the groups of [**Prof. Toeno van der Sar**](https://vandersarlab.tudelft.nl/) and [**Prof. Sonia Conesa-Boj**](https://conesabojlab.tudelft.nl/).
 
-We are a dynamic research group at [LMU physics](https://www.physik.lmu.de/en/index.html) and at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl/). 
-
-We have two overarching goals: first, 
-**to understand quantum materials**, including strange metals, high-temperature superconductors, and quantum critical electron matter. Second, **to make novel and useful materials** that never existed before, like possible room-temperature superconductors. 
-To achieve these goals, we develop new quantum sensing and quantum imaging instrumentation to obtain the key quantum mechanical degrees of freedom. We want to build the perfect instruments to answer the scientific questions we deem most important. 
+**Being curious about spins**, my research interest turns around **magnetism** and, in particular, in the delicate symbiosis between crystal growth and strongly correlated phases. 
+I am motivated by the synergies between **physics, material science and chemistry** towards two main goals: first, **the understanding of quantum materials**, ranging from bulk down to the two-dimensional (2D) limit, 
+andm second,  **the development of novel and hopefully useful magnetic systems**, as creating artificial magnets by simply twisting van der Waals layers. To achieve these goals, 
+I start with the crystal growth and employ advanced characterization and quantum imaging techniques to interrogate spins at the nanoscale. My approach is integrative and curiosity-driven, combining from the material synthesis to the device characterization to tackle the fundamental questions I find most compelling at any given time. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -58,14 +58,10 @@ To achieve these goals, we develop new quantum sensing and quantum imaging instr
 </div>
 
 
-We are currently building up our instruments right in the center of Munich, in the *Sommerfeldkeller*, where Sommerfeld and Röntgen worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials. We are also a proud member of the [SuperC consortium](https://superc2033.com/our-team/).
+For supporting my research, I am very grateful to the institutions below!
 
-**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://www.allanlab.org/vacancies) **!**
-
-
-
-
-
-<figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/Logos.png">
-</figure>
+<div style="position: relative; max-width: 100%; overflow: hidden;">
+  <img src="/images/Logos.png" 
+       alt="We are really thankful to all the institutions above!" 
+       style="width: 100%; height: auto; object-fit: contain;">
+</div>
