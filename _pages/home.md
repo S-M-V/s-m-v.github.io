@@ -10,9 +10,10 @@ I am a **Kavli postdoctoral fellow** at **Delft University of Technology (The Ne
 working in the groups of [**Prof. Toeno van der Sar**](https://vandersarlab.tudelft.nl/) and [**Prof. Sonia Conesa-Boj**](https://conesabojlab.tudelft.nl/).
 
 **Being curious about spins**, my research interest turns around **magnetism** and, in particular, in the delicate symbiosis between crystal growth and strongly correlated phases. 
-I am motivated by the synergies between **physics, material science and chemistry** towards two main goals: first, **the understanding of quantum materials**, ranging from bulk down to the two-dimensional (2D) limit  
-and, second,  **the development of novel and (hopefully) useful magnetic systems**, as creating artificial magnets by simply twisting van der Waals layers. To achieve these goals, 
-I start with the crystal growth and employ advanced characterization and quantum imaging techniques to interrogate spins at the nanoscale. My approach is integrative and curiosity-driven, combining from the material synthesis to the device characterization in order to tackle the fundamental questions I find most compelling at any given time. 
+
+I am motivated by the synergies between **physics, material science and chemistry** towards two main goals: first, **the understanding of quantum materials**, ranging from bulk down to the two-dimensional (2D) limit and, second, **the development of novel and (hopefully) useful magnetic systems**, as creating artificial magnets by simply twisting van der Waals layers. 
+
+My approach to reach these goals is **integrative and curiosity-driven**, combining from the material synthesis to the advanced device characterization and quantum imaging techniques in order to tackle the fundamental questions I find most compelling at any given time. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
