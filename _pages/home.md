@@ -6,8 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-I am a **Kavli postdoctoral fellow** at **Delft University of Technology (The Netherlands)**, 
-working in the groups of [**Prof. Toeno van der Sar**](https://vandersarlab.tudelft.nl/) and [**Prof. Sonia Conesa-Boj**](https://conesabojlab.tudelft.nl/).
+I am a **Kavli postdoctoral fellow** in the [**Quantum Nanoscience Department @ Delft University of Technology (The Netherlands)**](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/quantum-nanoscience), working in the groups of [**Prof. Toeno van der Sar**](https://vandersarlab.tudelft.nl/) and [**Prof. Sonia Conesa-Boj**](https://conesabojlab.tudelft.nl/).
 
 **Being curious about spins**, my research interest turns around **magnetism** and, in particular, in the delicate symbiosis between crystal growth and strongly correlated phases. 
 
