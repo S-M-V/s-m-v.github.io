@@ -17,13 +17,14 @@ We aim to experimentally uncover emergent quantum phenomena by exploring the del
 <!-- This is a comment -->
 <!-- For having controls -->
 <!-- <video autoplay muted loop playsinline controls style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">-->
-<div style="position: relative; aspect-ratio: 16 / 9; max-width: 100%; overflow: hidden;">
-  <video autoplay muted loop playsinline style="width: 100%; height: 100%; object-fit: cover;">
+<div style="position: relative; aspect-ratio: 5.6 / 1; max-width: 100%; overflow: hidden;">
+  <video autoplay muted loop playsinline style="width: 100%; height: 100%; object-fit: contain;">
     <source src="{{ '/images/researchpic/Video_SW_arrows_size2501400_time01_WHITE.mp4' | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
   </video>
 </div>
 <p style="text-align: center; font-style: italic;">
-  "The spins don’t stand still. They dance, precess, fluctuate. We watch them move, measure, and make sense of their rhythm."
+  A quantum ballet: spins don’t stand still. They dance, precess, fluctuate. We watch them move, measure them, and make sense of their rhythm."
 </p>
 
 <h2>Crystal growth: <em> when everything starts with plain powders</em></h2> 
