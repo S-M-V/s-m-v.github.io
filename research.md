@@ -64,7 +64,7 @@ We are part of the 'Strange Metal consortium NL' that includes the groups of Hus
 <!-- <video autoplay muted loop playsinline controls style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">-->
 <div style="position: relative; aspect-ratio: 16 / 9; max-width: 100%; overflow: hidden;">
   <video autoplay muted loop playsinline style="width: 100%; height: 100%; object-fit: contain;">
-    <source src="{{ '/images/researchpic/NV_SW.mp4' | relative_url }}" type="video/mp4">
+    <source src="{{ '/images/researchpic/NV_SW_time500.mp4' | relative_url }}" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
