@@ -1,5 +1,5 @@
 ---
-title: "SMV - CV"
+title: "SMV | CV"
 layout: gridlay
 excerpt: "SMV: CV"
 sitemap: false
