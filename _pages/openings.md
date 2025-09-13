@@ -1,5 +1,5 @@
 ---
-title: "SMV - Vacancies"
+title: "SMV | Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
