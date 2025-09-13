@@ -6,13 +6,13 @@ sitemap: false
 permalink: /
 ---
 
-I am a **Kavli postdoctoral fellow** in the [**Quantum Nanoscience Department @ Delft University of Technology (The Netherlands)**](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/quantum-nanoscience), working in the groups of [**Prof. Toeno van der Sar**](https://vandersarlab.tudelft.nl/) and [**Prof. Sonia Conesa-Boj**](https://conesabojlab.tudelft.nl/).
+I am a **Kavli postdoctoral fellow** in the [**Quantum Nanoscience Department at Delft University of Technology (The Netherlands)**](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/quantum-nanoscience), working in the groups of [**Prof. Toeno van der Sar**](https://vandersarlab.tudelft.nl/) and [**Prof. Sonia Conesa-Boj**](https://conesabojlab.tudelft.nl/).
 
-**Being curious about spins**, my research interest turns around **magnetism** and, in particular, in the delicate symbiosis between crystal growth and strongly correlated phases. 
+**Driven by a curiosity for spins**, my research interest <em>turns around</em> **magnetism** and, in particular, around the delicate interplay between crystal growth and strongly correlated phases. Through this perpective, I aim to push the boundaries of **spins and materials** to the forefront of discovery — **the ultimate vanguard!** 
 
-I am motivated by the synergies between **physics, material science and chemistry** towards two main goals: first, **the understanding of quantum materials**, ranging from bulk down to the two-dimensional (2D) limit and, second, **the development of novel and (hopefully) useful magnetic devices**, as creating artificial magnetic memories by simply twisting 2D van der Waals magnets. 
+I am motivated by the synergies between **physics, material science and chemistry**, pursuing two main goals: first, **the understanding of quantum materials**, ranging from bulk down to the two-dimensional (2D) limit and, second, **the development of novel and (hopefully) useful magnetic devices**, as creating artificial magnetic memories by simply twisting 2D van der Waals magnets. 
 
-My approach to reach these goals is **integrative and curiosity-driven**, combining from the material synthesis to the advanced device characterization and quantum imaging techniques in order to tackle the fundamental questions I find most compelling at any given time. 
+My approach to reaching these goals is **integrative and curiosity-driven**, starting from material synthesis and following the passionate (though often truly challenging) journey towards advanced device characterization, in order to tackle the fundamental questions I find most compelling at any given time. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
