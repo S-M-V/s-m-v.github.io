@@ -1,5 +1,5 @@
 ---
-title: "SMV - Team"
+title: "SMV | Team"
 layout: gridlay
 excerpt: "SMV: Team members"
 sitemap: false
