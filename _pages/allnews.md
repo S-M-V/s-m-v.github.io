@@ -1,5 +1,5 @@
 ---
-title: "SMV - News"
+title: "SMV | News"
 layout: textlay
 excerpt: "SMV - News"
 sitemap: false
