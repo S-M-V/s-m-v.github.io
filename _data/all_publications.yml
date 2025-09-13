@@ -137,7 +137,7 @@
   authors: "J. López-Cabrelles, <strong><em>S. Mañas‑Valero</em></strong>, I. Vitórica-Yrezábal, P. Bereciartua, E. Coronado, G. Mínguez Espallargas"
   authors_highlight: "J. López-Cabrelles🤝, <strong><em>S. Mañas‑Valero</em></strong>🤝, I. Vitórica-Yrezábal, P. Bereciartua, E. Coronado, G. Mínguez Espallargas📧"
   link:
-    url: DOI	https://doi.org/10.1039/D1DT03734J
+    url: https://doi.org/10.1039/D1DT03734J
     display: Dalton Transactions 51, 1861 (2022)
   date: 2022-01-20
   highlight: 1
@@ -207,7 +207,7 @@
   description: Demonstration of the Quantum Spin Hall effect in magnetic graphene, offering new perspectives for topological quantum materials and spintronics.
   authors: "T.S. Ghiasi, D. Petrosyan, J. Ingla-Aynés, T. Bras, K. Watanabe, T. Taniguchi, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado, K. Zollner, J. Fabian, P. Kim, H.S.J. van der Zant"
   link:
-    url: https://doi.org/10.1038/s41467-025-15123-7
+    url: https://doi.org/10.1038/s41467-025-60377-1
     display: Nature Communications 16, 5336 (2025)
   date: 2025-07-01
   highlight: 0
