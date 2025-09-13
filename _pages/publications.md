@@ -91,6 +91,8 @@ permalink: /publications/
 {% assign current_year = "" %}
 {% assign counter = 0 %}
 
+---
+
 <h2>Full List of Publications</h2>
 
 {% for publi in sorted_publications %}
