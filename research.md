@@ -46,7 +46,7 @@ Our synthesis methods include solid-state crystal growth techniques such as chem
   From plain powders to beauty — van der Waals crystals shaped by thermal gradients.
 </p>
 
-<h2>2D materials and van der Waals heterostructures</h2>
+<h2>2D materials and van der Waals heterostructures: <em> designing artificial properties</em></h2>
 <div class="highlight-quote sage">
 <em>"The basic principle is simple: take, for example, a monolayer,
 put it on top of another monolayer or few-layer crystal, add another
@@ -70,7 +70,7 @@ as twisted magnets with tunable spin reversal and hysteresis, born of design rat
   Twist-control of the spin-reversal in 2D magnets.
 </p>
 
-<h2>Quantum sensing with solid-state spin-defects</h2>
+<h2>Quantum sensing with scolor centers: <em> the perfection of defects</em></h2>
 <div class="highlight-quote slate">
 <em>"The more nearly an object approaches perfection, the more we notice its slightest defects."</em>
 <span class="quote-author"> Sadi Carnot <em>(Reflections on the Motive Power of Heat, 1890)</em></span>
