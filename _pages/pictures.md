@@ -1,5 +1,5 @@
 ---
-title: "SMV - Pictures"
+title: "SMV | Pictures"
 layout: piclay
 excerpt: "SMV -- Pictures"
 permalink: /pictures/
