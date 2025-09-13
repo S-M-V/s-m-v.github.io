@@ -14,6 +14,20 @@ permalink: /research/
 
 We aim to experimentally uncover emergent quantum phenomena by exploring the delicate symbiosis between crystal growth and strongly correlated phases, as magnetism or superconductivity, ranging from bulk to the two-dimensional limit (2D materials). To do so, we use solid-state crystal growth techniques, magneto-transport measurements in 2D devices and magnetic imaging using color center magnetometry.
 
+<!-- This is a comment -->
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+  <!-- For having controls -->
+  <!-- <video autoplay muted loop playsinline controls style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">-->
+  <video autoplay muted loop playsinline style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    <source src="{{ '/images/researchpic/Video_SW_arrows_size2501400_time01_WHITE.mp4' | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+<p style="text-align: center; font-style: italic;">
+  Demonstration of our sliding window method.
+</p>
+
 <h2>Crystal growth: <em> when everything starts with plain powders</em></h2> 
 <div class="highlight-quote beige">
 <em>"As a rule, the substances yielded by chemical transport reactions are in the form of well-defined crystals. 
@@ -42,18 +56,6 @@ One of the  projects back from my job-proposal is to develop nanofabricated STM
 <em>"The more nearly an object approaches perfection, the more we notice its slightest defects."</em>
 <span class="quote-author"> Sadi Carnot <em>(Reflections on the Motive Power of Heat, 1890)</em></span>
 </div>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-  <video autoplay muted loop playsinline controls style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-    <source src="{{ '/images/slider7001400/Video_SW_arrows_slider7001400_time01.mp4' | relative_url }}" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
-
-<p style="text-align: center; font-style: italic;">
-  Demonstration of our sliding window method.
-</p>
-
 
 The strange metal phase might be the most mysterious phase of high-temperature superconductors. Here, the electrical resistivity grows linearly with temperature T in large areas of the phase diagram, with a mean free path that diminishes to a fraction of the interatomic distance. T-linear resistivity is often associated with quantum critical points and marginal-Fermi-liquid physics. In strange metals, the mystery seems to go even further: we deal with something that looks like a quantum critical phase over an extended range of the phase diagram instead of cumulating in a point. There exists no consistent theory for strange metals, leading to more adventurous new approaches including the holographic theories that use insights from gravity to explain strange metals (a recent textbook on this was written by our colleagues at Leiden University, Schalm and Zaanen).
 We are part of the 'Strange Metal consortium NL' that includes the groups of Hussey, Golden, van Heumen, Zaanen, Schalm, Stoof and Vandoren. 
