@@ -11,7 +11,7 @@ permalink: /publications/
 
 <h2>Research highlights</h2>
 
-**At the end of this page, you can find the [full list of publications](#Full-list-of-publications).**
+**At the end of this page, you can find the [full list of publications](#full-list-of-publications).**
 
 <p>
   You can check as well in&nbsp;
