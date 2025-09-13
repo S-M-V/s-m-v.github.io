@@ -1,5 +1,5 @@
 ---
-title: "SMV - Instruments"
+title: "SMV | Instruments"
 layout: textlay
 excerpt: "AOA"
 sitemap: false
