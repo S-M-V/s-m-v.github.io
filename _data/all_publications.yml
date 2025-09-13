@@ -1,6 +1,6 @@
 - title: "Fundamentals and Applications of van der Waals Magnets in Magnon Spintronics"
   image: Newton2025.png
-  description: An overview of the fundamental properties of van der Waals magnets and their emerging role in magnon‑based spintronics, discussing theoretical insights and practical applications.
+  description: "An overview of the fundamental properties of van der Waals magnets and their emerging role in magnon‑based spintronics, discussing theoretical insights and practical applications."
   authors: "<strong><em>S. Mañas‑Valero</em></strong>, T. van der Sar, R. Duine, B. van Wees"
   authors_highlight: "<strong><em>S. Mañas‑Valero</em></strong>📧, T. van der Sar, R. Duine, B. van Wees"
   link:
@@ -23,7 +23,7 @@
 
 - title: "Programmable Magnetic Hysteresis in Orthogonally-Twisted 2D CrSBr Magnets via Stacking Engineering"
   image: AdvMater2025_Twist.png
-  description: We how stacking engineering in twisted 2D CrSBr magnets enables programmable magnetic hysteresis, advancing control in 2D magnetism for spintronic applications.
+  description: "We how stacking engineering in twisted 2D CrSBr magnets enables programmable magnetic hysteresis, advancing control in 2D magnetism for spintronic applications."
   authors: "C. Boix-Constant, A. Rybakov, C. Miranda-Pérez, G. Martínez-Carracedo, J. Ferrer, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado"
   authors_highlight: "C. Boix-Constant, A. Rybakov, C. Miranda-Pérez, G. Martínez-Carracedo, J. Ferrer, <strong><em>S. Mañas‑Valero</em></strong>📧, E. Coronado📧"
   link:
@@ -49,7 +49,7 @@
 
 - title: "Probing Short-Range Correlations in the van der Waals Magnet CrSBr by Small-Angle Neutron Scattering"
   image: SmallScience_2024.png
-  description: Small-angle neutron scattering reveals the presence of short-range magnetic correlations in the van der Waals magnet CrSBr, shedding light on its low-dimensional magnetic behavior.
+  description: "Small-angle neutron scattering reveals the presence of short-range magnetic correlations in the van der Waals magnet CrSBr, shedding light on its low-dimensional magnetic behavior."
   authors: "A. Rybakov, C. Boix-Constant, D. Alba Venero, H. S. J. van der Zant, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado"
   authors_highlight: "A. Rybakov, C. Boix-Constant, D. Alba Venero, H. S. J. van der Zant, <strong><em>S. Mañas‑Valero</em></strong>📧, E. Coronado"
   link:
@@ -85,7 +85,7 @@
 
 - title: "Probing the spin dimensionality in single-layer CrSBr van der Waals heterostructures by magneto-transport measurements"
   image: AdvancedMater2022_CrSBr.jpg
-  description: Magneto-transport measurements reveal the spin dimensionality in single-layer CrSBr van der Waals heterostructures, providing key insights into low-dimensional spin physics.
+  description: "Magneto-transport measurements reveal the spin dimensionality in single-layer CrSBr van der Waals heterostructures, providing key insights into low-dimensional spin physics."
   authors: "C. Boix-Constant, <strong><em>S. Mañas‑Valero</em></strong>, A. M. Ruiz, A. Rybakov, K. A. Konieczny, S. Pillet, J. J. Baldoví, E. Coronado"
   authors_highlight: "C. Boix-Constant, <strong><em>S. Mañas‑Valero</em></strong>📧, A. M. Ruiz, A. Rybakov, K. A. Konieczny, S. Pillet, J. J. Baldoví, E. Coronado📧"
   link:
@@ -97,7 +97,7 @@
 
 - title: "Strain switching in van der Waals heterostructures triggered by a spin-crossover metal organic framework"
   image: AdvMater_2022_SCO.jpg
-  description: Molecular straintronics: the spin-crossover transition in an exfoliable metal-organic framework allows strain-induced switching phenomena in van der Waals heterostructures.
+  description: "Molecular straintronics: the spin-crossover transition in an exfoliable metal-organic framework allows strain-induced switching phenomena in van der Waals heterostructures."
   authors: "C. Boix-Constant, V. López-García, E. Navarro-Moratalla, M. Clemente-León, J. L. Zafra, J. Casado, F. Guinea, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado"
   authors_highlight: "C. Boix-Constant, V. López-García, E. Navarro-Moratalla, M. Clemente-León, J. L. Zafra, J. Casado, F. Guinea, <strong><em>S. Mañas‑Valero</em></strong>📧, E. Coronado📧"
   link:
@@ -109,7 +109,7 @@
 
 - title: "Out-of-plane transport of 1T-TaS2/graphene-based van der Waals heterostructures"
   image: AcsNano_2021.jpeg
-  description: We investigate the out-of-plane charge transport in 1T-TaS₂/graphene van der Waals heterostructures, showing the anisotropic behaviour of the charge density waves.
+  description: "We investigate the out-of-plane charge transport in 1T-TaS₂/graphene van der Waals heterostructures, showing the anisotropic behaviour of the charge density waves."
   authors: "C. Boix-Constant, <strong><em>S. Mañas‑Valero</em></strong>, R. Córdoba, José J. Baldoví, A. Rubio, E. Coronado"
   authors_highlight: "C. Boix-Constant, <strong><em>S. Mañas‑Valero</em></strong>📧, R. Córdoba, José J. Baldoví, A. Rubio, E. Coronado📧"
   link:
@@ -181,7 +181,7 @@
 
 - title: "Raman Spectra of ZrS2 and ZrSe2 from Bulk to Atomically Thin Layers"
   image: ApplScience_2016.png
-  description: Analysis of Raman spectra of ZrS₂ and ZrSe₂ from bulk crystals to atomically thin layers, providing insights into their vibrational properties.
+  description: "Analysis of Raman spectra of ZrS₂ and ZrSe₂ from bulk crystals to atomically thin layers, providing insights into their vibrational properties."
   authors: "<strong><em>S. Mañas‑Valero</em></strong>, V. García-López, A. Cantarero, M. Galbiati"
   authors_highlight: "<strong><em>S. Mañas‑Valero</em></strong>, V. García-López, A. Cantarero, M. Galbiati📧"
   link:
