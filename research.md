@@ -34,7 +34,8 @@ The satisfaction that the chemist experiences when he holds <strong>beautiful cr
 <span class="quote-author"> Harald Schäfer <em>(Chemical Vapor Reactions, 1964)</em></span>
 </div>
 
-Our interest is to grow high-quality single crystals for exploring their physical properties (both in bulk and in the low-dimensional limit).
+We grow high-quality single crystals to explore their physical properties, both in bulk and in the low-dimensional limit.
+Our synthesis methods include solid-state crystal growth techniques such as chemical vapor transport, direct vapor transport or flux growth.
 <!-- Image (Crystals.png) with caption -->
 <div style="position: relative; max-width: 100%; overflow: hidden;">
   <img src="/images/researchpic/Crystals.png" 
