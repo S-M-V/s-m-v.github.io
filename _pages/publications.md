@@ -1,5 +1,5 @@
 ---
-title: "SMV - Publications"
+title: "SMV | Publications"
 layout: gridlay
 excerpt: "SMV -- Publications."
 sitemap: false
