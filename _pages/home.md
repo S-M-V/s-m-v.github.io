@@ -59,7 +59,7 @@ My approach to reach these goals is **integrative and curiosity-driven**, combin
 </div>
 
 
-For supporting my research, I am very grateful to the institutions below!
+For supporting my research, **I am very grateful to the institutions below!**
 
 <div style="position: relative; max-width: 100%; overflow: hidden;">
   <img src="/images/Logos.png" 
