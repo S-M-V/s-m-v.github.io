@@ -43,7 +43,7 @@ Our synthesis methods include solid-state crystal growth techniques such as chem
        style="width: 100%; height: auto; object-fit: contain;">
 </div>
 <p style="text-align: center; font-style: italic;">
-  From plain powders to beauty — van der Waals crystals shaped by thermal gradients.
+  From plain powders to beauty: van der Waals crystals shaped by thermal gradients.
 </p>
 
 <h2>2D materials and van der Waals heterostructures: <em> designing artificial properties</em></h2>
@@ -67,7 +67,7 @@ as twisted magnets with tunable spin reversal and hysteresis, born of design rat
        style="width: 100%; height: auto; object-fit: contain;">
 </div>
 <p style="text-align: center; font-style: italic;">
-  Twist-control of the spin-reversal in 2D magnets.
+  Creating artificial properties: twist-control of the spin-reversal in 2D magnets.
 </p>
 
 <h2>Quantum sensing with scolor centers: <em> the perfection of defects</em></h2>
@@ -91,7 +91,7 @@ revealing magnetic textures and imaging spin waves with nanometer precision.
   </video>
 </div>
 <p style="text-align: center; font-style: italic;">
-  Spin wave imaging in permalloy using a single-spin sensor in diamond.
+  The beauty of defects: with just a single spin in diamond, we capture the nanoscopic choreography of spin waves in permalloy.
 </p>
 
 <h2>... and more.</h2>
