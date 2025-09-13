@@ -1,5 +1,5 @@
 ---
-title: "SMV - Home"
+title: "SMV | Home"
 layout: homelay
 excerpt: "SMV - Home"
 sitemap: false
