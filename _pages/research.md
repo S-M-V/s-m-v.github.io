@@ -27,6 +27,8 @@ We aim to experimentally uncover emergent quantum phenomena by exploring the del
   A quantum ballet: spins don’t stand still. They dance, precess, fluctuate. We watch them move, measure them, and make sense of their rhythm."
 </p>
 
+---
+
 <h2>Crystal growth: <em> when everything starts with plain powders</em></h2> 
 <div class="highlight-quote beige">
 <em>"As a rule, the substances yielded by chemical transport reactions are in the form of well-defined crystals. 
@@ -45,6 +47,8 @@ Our synthesis methods include solid-state crystal growth techniques such as chem
 <p style="text-align: center; font-style: italic;">
   From plain powders to beauty: van der Waals crystals shaped by thermal gradients.
 </p>
+
+---
 
 <h2>2D materials and van der Waals heterostructures: <em> designing artificial properties</em></h2>
 <div class="highlight-quote sage">
@@ -69,6 +73,8 @@ as twisted magnets with tunable spin reversal and hysteresis, born of design rat
 <p style="text-align: center; font-style: italic;">
   Creating artificial properties: twist-control of the spin-reversal in 2D magnets.
 </p>
+
+---
 
 <h2>Quantum sensing with color centers: <em> the perfection of defects</em></h2>
 <div class="highlight-quote slate">
