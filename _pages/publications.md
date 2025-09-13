@@ -11,7 +11,7 @@ permalink: /publications/
 
 <h2>Research highlights</h2>
 
-**At the end of this page, you can find the [full list of publications](<h2>Full List of Publications</h2>).**
+**At the end of this page, you can find the [full list of publications](##Full-list-of-publications).**
 
 <p>
   You can check as well in&nbsp;
@@ -93,8 +93,7 @@ permalink: /publications/
 
 ---
 
-<h2>Full List of Publications</h2>
-
+## Full List of Publications
 {% for publi in sorted_publications %}
   {% assign year = publi.date | date: "%Y" %}
   {{ forloop.index }}. <strong>{{ publi.title }}</strong><br />
