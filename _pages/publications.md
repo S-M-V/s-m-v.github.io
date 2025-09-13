@@ -92,8 +92,8 @@ permalink: /publications/
 {% assign counter = 0 %}
 
 ---
-
-## Full List of Publications
+<a id="full-list-of-publications"></a>
+<h2>Full List of Publications</h2>h2>
 {% for publi in sorted_publications %}
   {% assign year = publi.date | date: "%Y" %}
   {{ forloop.index }}. <strong>{{ publi.title }}</strong><br />
