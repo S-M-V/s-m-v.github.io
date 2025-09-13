@@ -54,8 +54,9 @@ material assembled in a chosen sequence —as in building with Lego—
 with blocks defined with one-atomic-plane precision."</em>
 <span class="quote-author"> A. K. Geim & I. V. Grigorieva <em>(Nature 499, 419–425, 2013)</em></span>
 </div>
-One of the  projects back from my job-proposal is to develop nanofabricated STM tips. The idea behind these “smart tips” is to use the technologies that were developed over decades in nanofabrication and make them available for scanning probe by using a nano-device instead of the traditional STM tungsten tip. One gains the flexibility of using different functionalities that are known from the fields of nanofabrication and mesoscopic physics. We are collaborating with the group Simon Groeblacher at TU Delft to realize this concept, benefitting from their unparalleled micro/nano fabrication know how.  A prototype of a smart tip is shown to the left. See publications in Microsyst Nanoeng, Nanotechnology, and PRB.
-
+Like building with atomic Lego, we isolate 2D crystals and assemble them one layer at a time into custom-made structures. 
+These van der Waals heterostructures unlock new physical behaviors and enable the design of artificial magnets, 
+as twisted magnets with tunable spin reversal and hysteresis, born of design rather than chance.
 <!-- Image (CrSBr_twist.png) with caption -->
 <div style="position: relative; max-width: 100%; overflow: hidden;">
   <img src="/images/researchpic/CrSBr_twist.png" 
