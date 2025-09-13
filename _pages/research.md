@@ -100,6 +100,8 @@ revealing magnetic textures and imaging spin waves with nanometer precision.
   The perfection of defects: with just a single spin in diamond, we capture the nanoscopic choreography of spin waves in permalloy.
 </p>
 
+---
+
 <h2>... and more.</h2>
 <div class="highlight-quote green">
 <em>"But still try, for who knows what is possible?"</em>
