@@ -35,7 +35,15 @@ The satisfaction that the chemist experiences when he holds <strong>beautiful cr
 </div>
 
 Our interest is to grow high-quality single crystals for exploring their physical properties (both in bulk and in the low-dimensional limit).
-
+<!-- Image (Crystals.png) with caption -->
+<div style="position: relative; max-width: 100%; overflow: hidden;">
+  <img src="/images/researchpic/Crystals.png" 
+       alt="Van der Waals crystals" 
+       style="width: 100%; height: auto; object-fit: contain;">
+</div>
+<p style="text-align: center; font-style: italic;">
+  From plain powders to beauty — van der Waals crystals shaped by thermal gradients.
+</p>
 <h2>2D materials and van der Waals heterostructures</h2>
 <div class="highlight-quote sage">
 <em>"The basic principle is simple: take, for example, a monolayer,
@@ -53,6 +61,16 @@ One of the  projects back from my job-proposal is to develop nanofabricated STM
        alt="Twist-control of the spin-reversal in 2D magnets." 
        style="max-width: 100%; height: auto;">
 </figure>
+
+<!-- Image (CrSbr_twist.png) with caption -->
+<div style="position: relative; max-width: 100%; overflow: hidden;">
+  <img src="/images/researchpic/CrSbr_twist.png" 
+       alt="Twisted magnets" 
+       style="width: 100%; height: auto; object-fit: contain;">
+</div>
+<p style="text-align: center; font-style: italic;">
+  Twist-control of the spin-reversal in 2D magnets.
+</p>
 
 
 <h2>Quantum sensing with solid-state spin-defects</h2>
