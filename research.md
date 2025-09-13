@@ -70,7 +70,7 @@ as twisted magnets with tunable spin reversal and hysteresis, born of design rat
   Creating artificial properties: twist-control of the spin-reversal in 2D magnets.
 </p>
 
-<h2>Quantum sensing with scolor centers: <em> the perfection of defects</em></h2>
+<h2>Quantum sensing with color centers: <em> the perfection of defects</em></h2>
 <div class="highlight-quote slate">
 <em>"The more nearly an object approaches perfection, the more we notice its slightest defects."</em>
 <span class="quote-author"> Sadi Carnot <em>(Reflections on the Motive Power of Heat, 1890)</em></span>
@@ -91,7 +91,7 @@ revealing magnetic textures and imaging spin waves with nanometer precision.
   </video>
 </div>
 <p style="text-align: center; font-style: italic;">
-  The beauty of defects: with just a single spin in diamond, we capture the nanoscopic choreography of spin waves in permalloy.
+  The perfection of defects: with just a single spin in diamond, we capture the nanoscopic choreography of spin waves in permalloy.
 </p>
 
 <h2>... and more.</h2>
