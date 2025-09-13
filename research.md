@@ -45,6 +45,7 @@ Our synthesis methods include solid-state crystal growth techniques such as chem
 <p style="text-align: center; font-style: italic;">
   From plain powders to beauty — van der Waals crystals shaped by thermal gradients.
 </p>
+
 <h2>2D materials and van der Waals heterostructures</h2>
 <div class="highlight-quote sage">
 <em>"The basic principle is simple: take, for example, a monolayer,
@@ -54,9 +55,11 @@ material assembled in a chosen sequence —as in building with Lego—
 with blocks defined with one-atomic-plane precision."</em>
 <span class="quote-author"> A. K. Geim & I. V. Grigorieva <em>(Nature 499, 419–425, 2013)</em></span>
 </div>
+
 Like building with atomic Lego, we isolate 2D crystals and assemble them one layer at a time into custom-made structures. 
 These van der Waals heterostructures unlock new physical behaviors and enable the design of artificial magnets, 
 as twisted magnets with tunable spin reversal and hysteresis, born of design rather than chance.
+
 <!-- Image (CrSBr_twist.png) with caption -->
 <div style="position: relative; max-width: 100%; overflow: hidden;">
   <img src="/images/researchpic/CrSBr_twist.png" 
@@ -67,15 +70,16 @@ as twisted magnets with tunable spin reversal and hysteresis, born of design rat
   Twist-control of the spin-reversal in 2D magnets.
 </p>
 
-
 <h2>Quantum sensing with solid-state spin-defects</h2>
 <div class="highlight-quote slate">
 <em>"The more nearly an object approaches perfection, the more we notice its slightest defects."</em>
 <span class="quote-author"> Sadi Carnot <em>(Reflections on the Motive Power of Heat, 1890)</em></span>
 </div>
 
-The strange metal phase might be the most mysterious phase of high-temperature superconductors. Here, the electrical resistivity grows linearly with temperature T in large areas of the phase diagram, with a mean free path that diminishes to a fraction of the interatomic distance. T-linear resistivity is often associated with quantum critical points and marginal-Fermi-liquid physics. In strange metals, the mystery seems to go even further: we deal with something that looks like a quantum critical phase over an extended range of the phase diagram instead of cumulating in a point. There exists no consistent theory for strange metals, leading to more adventurous new approaches including the holographic theories that use insights from gravity to explain strange metals (a recent textbook on this was written by our colleagues at Leiden University, Schalm and Zaanen).
-We are part of the 'Strange Metal consortium NL' that includes the groups of Hussey, Golden, van Heumen, Zaanen, Schalm, Stoof and Vandoren. 
+Defects can be useful — and even beautiful! — once you look with the right eyes. 
+We harness solid-state spin defects, such as nitrogen-vacancy centers in diamond or boron vacancies in hBN, as quantum sensors. 
+With them, we unravel the quantum dance of spins in thin-film magnetic layers, 
+revealing magnetic textures and imaging spin waves with nanometer precision.
 
 <!-- This is a comment -->
 <!-- For having controls -->
