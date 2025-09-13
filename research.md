@@ -15,17 +15,15 @@ permalink: /research/
 We aim to experimentally uncover emergent quantum phenomena by exploring the delicate symbiosis between crystal growth and strongly correlated phases, as magnetism or superconductivity, ranging from bulk to the two-dimensional limit (2D materials). To do so, we use solid-state crystal growth techniques, magneto-transport measurements in 2D devices and magnetic imaging using color center magnetometry.
 
 <!-- This is a comment -->
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-  <!-- For having controls -->
-  <!-- <video autoplay muted loop playsinline controls style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">-->
-  <video autoplay muted loop playsinline style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+<!-- For having controls -->
+<!-- <video autoplay muted loop playsinline controls style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">-->
+<div style="position: relative; aspect-ratio: 16 / 9; max-width: 100%; overflow: hidden;">
+  <video autoplay muted loop playsinline style="width: 100%; height: 100%; object-fit: cover;">
     <source src="{{ '/images/researchpic/Video_SW_arrows_size2501400_time01_WHITE.mp4' | relative_url }}" type="video/mp4">
-    Your browser does not support the video tag.
   </video>
 </div>
-
 <p style="text-align: center; font-style: italic;">
-  Demonstration of our sliding window method.
+  "The spins don’t stand still. They dance, precess, fluctuate. We watch them move, measure, and make sense of their rhythm."
 </p>
 
 <h2>Crystal growth: <em> when everything starts with plain powders</em></h2> 
