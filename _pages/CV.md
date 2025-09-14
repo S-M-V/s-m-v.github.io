@@ -103,6 +103,7 @@ permalink: /CV/
 ### Invited Talks
 
 **2025**
+- Invited seminar (Theme 3 seminar), Radboud Universiteit, Nijmegen, The Netherlands. 
 - International Conference on Layered Materials & Devices: From Atoms to Chips! Braga, Portugal
 - 16th International Symposium on Crystalline Organic Metals, Superconductors and Magnets (ISCOM 2025). Okazaki, Japan
 - Quantum Functionalities of Nanomagnets - SPICE workshop. Mainz, Germany
