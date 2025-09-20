@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-<h1>🔎Research</h1>
+<h1>🔎 Research</h1>
 <div class="highlight-quote lavender">
 <em>"Quantum phenomena do not occur in a Hilbert space. They occur in a laboratory."</em>
 <span class="quote-author"> Asher Peres <em>(Quantum theory: concepts and methods, 1995)</em></span>
@@ -29,7 +29,7 @@ We aim to experimentally uncover emergent quantum phenomena by exploring the del
 
 ---
 
-<h2>💎Crystal growth: <em> when everything starts with plain powders</em></h2> 
+<h2>💎 Crystal growth: <em> when everything starts with plain powders</em></h2> 
 <div class="highlight-quote beige">
 <em>"As a rule, the substances yielded by chemical transport reactions are in the form of well-defined crystals. 
 The satisfaction that the chemist experiences when he holds <strong>beautiful crystals</strong> instead of a plain powder in his hands merits more than slight consideration."</em>
@@ -50,7 +50,7 @@ Our synthesis methods include solid-state crystal growth techniques such as chem
 
 ---
 
-<h2>🧩2D materials and van der Waals heterostructures: <em> designing artificial properties</em></h2>
+<h2>🧩 2D materials and van der Waals heterostructures: <em> designing artificial properties</em></h2>
 <div class="highlight-quote sage">
 <em>"The basic principle is simple: take, for example, a monolayer,
 put it on top of another monolayer or few-layer crystal, add another
@@ -76,7 +76,7 @@ as twisted magnets with tunable spin reversal and hysteresis, born of design rat
 
 ---
 
-<h2>🔬Quantum sensing with color centers: <em> the perfection of defects</em></h2>
+<h2>🔬 Quantum sensing with color centers: <em> the perfection of defects</em></h2>
 <div class="highlight-quote slate">
 <em>"The more nearly an object approaches perfection, the more we notice its slightest defects."</em>
 <span class="quote-author"> Sadi Carnot <em>(Reflections on the Motive Power of Heat, 1890)</em></span>
