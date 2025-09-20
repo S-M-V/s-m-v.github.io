@@ -23,6 +23,11 @@
   type: "Talk"
   headline: "🎤 Imaging and Control of Spin-Waves using Spins in Diamond at <a href='https://www.spice.uni-mainz.de/quantumf-talks/'>SPICE</a>. 🌊🧲"
 
+- date: 2025-03-12
+  display_date: "March 12, 2025"
+  type: "Talk"
+  headline: "🎤 Tailoring spins in low-dimensional systems at <a href='https://www.icmol.es/esam2025/program.php?menu=program'>ESAM2025</a>. 🌊🧲"
+
 - date: 2025-03-03
   display_date: "March 3, 2025"
   type: "Publication"
