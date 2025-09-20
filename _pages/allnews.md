@@ -3,10 +3,10 @@ title: "SMV | News"
 layout: textlay
 excerpt: "SMV - News"
 sitemap: false
-permalink: /allnews.html
+permalink: /allnews.md
 ---
 
-<h1>📰 News</h1>
+# 📰 News
 
 <div class="news-container">
   {% assign sorted_news = site.data.news | sort: 'date' | reverse %}
@@ -17,7 +17,8 @@ permalink: /allnews.html
           {% when "Event" %} 📢 Event
           {% when "Research" %} 🧪 Research
           {% when "Publication" %} 📚 Publication
-          {% else %} 🔖 Other
+          {% when "Talk" %} 🎤 Talk
+          {% else %} 📝 Info
         {% endcase %}
       </div>
       <div class="news-date">📅 {{ article.display_date | markdownify }}</div>
