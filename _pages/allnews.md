@@ -6,14 +6,14 @@ sitemap: false
 permalink: /allnews/
 ---
 
-# 📰 News
+<h1>📰 News</h1>
 
 <div class="news-container">
-{% assign sorted_news = site.data.news | sort: 'date' | reverse %}
-{% for article in sorted_news %}
-  <div class="news-card {{ article.type | downcase }}">
-    <div class="news-date">📅 <b>{{ article.display_date }}</b></div>
-    <div class="news-headline">{{ article.headline | markdownify }}</div>
-  </div>
-{% endfor %}
+  {% assign sorted_news = site.data.news | sort: 'date' | reverse %}
+  {% for article in sorted_news %}
+    <div class="news-card {{ article.type | downcase }}">
+      <div class="news-date">📅 <b>{{ article.display_date }}</b></div>
+      <div class="news-headline">{{ article.headline }}</div>
+    </div>
+  {% endfor %}
 </div>
