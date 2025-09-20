@@ -6,7 +6,7 @@ sitemap: false
 permalink: /CV/
 ---
 
-# CV
+<h1>👔CV</h1>
 {% assign number_printed = 0 %}
 {% for member in site.data.CV_members %}
 
