@@ -20,7 +20,7 @@ permalink: /allnews.html
           {% else %} 🔖 Other
         {% endcase %}
       </div>
-      <div class="news-date">📅 {{ article.display_date }}</div>
+      <div class="news-date">📅 {{ article.display_date | markdownify }}</div>
       <div class="news-headline">{{ article.headline | markdownify }}</div>
     </div>
   {% endfor %}
