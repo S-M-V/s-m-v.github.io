@@ -1,27 +1,34 @@
 - date: 2025-09-16
   display_date: "<b>September 16, 2025</b>"
+  type: "Event"
   headline: "Seminar at Radboud University – <a href='https://www.ru.nl/en/about-us/events/imm-theme-3-colloquium-imaging-and-control-of-spin-waves-using-color-center-magnetometry'>IMM Theme 3 colloquium</a> 🌊🧲"
 
 - date: 2025-08-26
   display_date: "<b>August 26, 2025</b>"
+  type: "Publication"
   headline: "Spin-wave imaging using color center magnetometry for magnon spintronics. Have a look on <a href='https://arxiv.org/abs/2508.18775'>arXiv:2508.18775</a>. 🌊🧲"
 
 - date: 2025-08-25
   display_date: "<b>August 25, 2025</b>"
+  type: "Publication"
   headline: "Twisted van der Waals layered MOFs offer a tunable platform for creating and controlling 1D materials. See on <a href='https://arxiv.org/abs/2508.18005'>arXiv:2508.18005</a>. 🔄💡"
 
 - date: 2025-07-08
   display_date: "<b>July 8, 2025</b>"
+  type: "Event"
   headline: "You can see the talks of our workshop here! <a href='https://www.spice.uni-mainz.de/yrlgw-2025-home/'>Young Research Leaders Group Workshop: Magnetism in van der Waals materials: current challenges and future directions</a>."
 
 - date: 2025-06-17
   display_date: "<b>June 17, 2025</b>"
+  type: "Event"
   headline: "Imaging and Control of Spin-Waves using Spins in Diamond at <a href='https://www.spice.uni-mainz.de/quantumf-talks/'>SPICE</a>. 🌊🧲"
 
 - date: 2025-03-03
   display_date: "<b>March 3, 2025</b>"
+  type: "Publication"
   headline: "Our perspective on van der Waals magnets in the first issue of Newton! 📝👉 <a href='https://www.cell.com/newton/fulltext/S2950-6360(25)00010-6'>Newton 1, 1, 100018, 2025</a>."
 
 - date: 2025-01-08
   display_date: "<b>January 8, 2025</b>"
+  type: "Publication"
   headline: "Stacking engineering in orthogonally-twisted 2D magnets enables programmable magnetic hysteresis! 📝👉 <a href='https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adma.202415774'>Advanced Materials 37, 2415774, 2025</a>."
