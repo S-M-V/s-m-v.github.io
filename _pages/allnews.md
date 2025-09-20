@@ -3,7 +3,7 @@ title: "SMV | News"
 layout: textlay
 excerpt: "SMV - News"
 sitemap: false
-permalink: /news/
+permalink: /allnews/
 ---
 
 # 📰 News
