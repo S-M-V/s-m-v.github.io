@@ -9,8 +9,6 @@ permalink: /publications/
 
 <h1>📚 Publications</h1>
 
-<h2>Research highlights</h2>
-
 **At the end of this page, you can find the [full list of publications](#full-list-of-publications).**
 
 <p>
@@ -70,6 +68,8 @@ permalink: /publications/
   <p> {{ publi.news2 }}</p>
  </div>
 </div>
+
+<h2>Research highlights</h2>
 
 {% assign number_printed = number_printed | plus: 1 %}
 
