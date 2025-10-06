@@ -46,7 +46,7 @@ permalink: /publications/
     {% endif %}
   </span>
 </p>
-
+---
 <h2>Research highlights</h2>
 
 {% assign number_printed = 0 %}
