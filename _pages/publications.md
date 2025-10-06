@@ -9,6 +9,8 @@ permalink: /publications/
 
 <h1>📚 Publications</h1>
 
+---
+
 **At the end of this page, you can find the [full list of publications](#full-list-of-publications).**
 
 <p>
