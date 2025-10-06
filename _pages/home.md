@@ -12,7 +12,7 @@ I am a **Kavli postdoctoral fellow** in the [**Quantum Nanoscience Department at
 
 I am motivated by the synergies between **physics, material science and chemistry**, pursuing two main goals: first, **the understanding of quantum materials**, ranging from bulk down to the two-dimensional (2D) limit and, second, **the development of novel and (hopefully) useful magnetic devices**, as creating artificial magnetic memories by simply twisting 2D van der Waals magnets. 
 
-My approach to reaching these goals is **integrative and curiosity-driven**, starting from material synthesis and following the passionate (though often truly challenging) journey towards advanced device characterization, in order to tackle the fundamental questions I find most compelling at any given time. 
+My approach to reaching these goals is **integrative**, starting from material synthesis and following the passionate (though often truly challenging) journey towards advanced device characterization, in order to tackle the fundamental questions I find most compelling at any given time. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
