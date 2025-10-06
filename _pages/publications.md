@@ -12,7 +12,7 @@ permalink: /publications/
 **At the end of this page, you can find the [full list of publications](#full-list-of-publications).**
 
 <p>
-  You can check as well in&nbsp;
+  You can check them as well in&nbsp;
   <span style="display: inline-flex; gap: 10px; align-items: center;">
     {% if site.social.googlescholar %}
       <a href="{{ site.social.googlescholar }}" target="_blank" rel="noopener noreferrer" aria-label="Google Scholar" title="Google Scholar" style="display: inline-block;">
@@ -47,6 +47,8 @@ permalink: /publications/
   </span>
 </p>
 
+<h2>Research highlights</h2>
+
 {% assign number_printed = 0 %}
 {% for publi in site.data.all_publications %}
 
@@ -68,8 +70,6 @@ permalink: /publications/
   <p> {{ publi.news2 }}</p>
  </div>
 </div>
-
-<h2>Research highlights</h2>
 
 {% assign number_printed = number_printed | plus: 1 %}
 
