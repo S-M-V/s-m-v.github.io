@@ -1,4 +1,4 @@
-- title: "Fundamentals and Applications of van der Waals Magnets in Magnon Spintronics"
+- title: "Fundamentals and applications of van der Waals magnets in magnon spintronics"
   image: Newton2025.png
   description: "An overview of the fundamental properties of van der Waals magnets and their emerging role in magnon‑based spintronics, discussing theoretical insights and practical applications."
   authors: "<strong><em>S. Mañas‑Valero</em></strong>, T. van der Sar, R. Duine, B. van Wees"
@@ -21,7 +21,7 @@
   highlight: 0
   doi: "10.1038/s43246-025-00873-5"
 
-- title: "Programmable Magnetic Hysteresis in Orthogonally-Twisted 2D CrSBr Magnets via Stacking Engineering"
+- title: "Programmable magnetic hysteresis in orthogonally-twisted 2D CrSBr magnets via stacking engineering"
   image: AdvMater2025_Twist.png
   description: "Stacking engineering in twisted 2D CrSBr magnets enables programmable magnetic hysteresis, advancing control in 2D magnetism for spintronic applications."
   authors: "C. Boix-Constant, A. Rybakov, C. Miranda-Pérez, G. Martínez-Carracedo, J. Ferrer, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado"
@@ -47,7 +47,7 @@
   highlight: 1
   doi: "10.1038/s41563-023-01735-6"
 
-- title: "Probing Short-Range Correlations in the van der Waals Magnet CrSBr by Small-Angle Neutron Scattering"
+- title: "Probing short-range correlations in the van der Waals magnet CrSBr by Small-Angle Neutron Scattering"
   image: SmallScience_2024.png
   description: "Small-angle neutron scattering reveals the presence of short-range magnetic correlations in the van der Waals magnet CrSBr, shedding light on its low-dimensional magnetic behavior."
   authors: "A. Rybakov, C. Boix-Constant, D. Alba Venero, H. S. J. van der Zant, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado"
@@ -71,7 +71,7 @@
   highlight: 1
   doi: "10.1002/adfm.202310206"
 
-- title: "Magnetic Imaging and Domain Nucleation in CrSBr Down to the 2D Limit"
+- title: "Magnetic imaging and domain nucleation in CrSBr down to the 2D limit"
   image: AdvancedMater2023_SOT.jpg
   description: "We show magnetic imaging and domain nucleation in CrSBr down to the monolayer limit, revealing the emergence and evolution of magnetic domains and highlighting robust two-dimensional magnetism with tunable domain behavior."
   authors: "Y. Zur, A. Noah, C. Boix-Constant, <strong><em>S. Mañas‑Valero</em></strong>, N. Fridman, R. Rama-Eiroa, M. E. Huber, E. J. G. Santos, E. Coronado, Y. Anahory"
@@ -179,7 +179,7 @@
   highlight: 1
   doi: "10.1038/s41557-018-0113-9"
 
-- title: "Raman Spectra of ZrS<sub>2</sub> and ZrSe<sub>2</sub> from Bulk to Atomically Thin Layers"
+- title: "Raman Spectra of ZrS<sub>2</sub> and ZrSe<sub>2</sub> from bulk to atomically thin layers"
   image: ApplScience_2016.png
   description: "Analysis of Raman spectra of ZrS₂ and ZrSe₂ from bulk crystals to atomically thin layers, providing insights into their vibrational properties."
   authors: "<strong><em>S. Mañas‑Valero</em></strong>, V. García-López, A. Cantarero, M. Galbiati"
@@ -202,7 +202,7 @@
   highlight: 0
   doi: "10.1038/s41535-025-00767-2"
 
-- title: "Quantum Spin Hall in Magnetic Graphene"
+- title: "Quantum spin Hall in magnetic graphene"
   image: 
   description: Demonstration of the Quantum Spin Hall effect in magnetic graphene, offering new perspectives for topological quantum materials and spintronics.
   authors: "T.S. Ghiasi, D. Petrosyan, J. Ingla-Aynés, T. Bras, K. Watanabe, T. Taniguchi, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado, K. Zollner, J. Fabian, P. Kim, H.S.J. van der Zant"
@@ -224,7 +224,7 @@
   highlight: 0
   doi: "10.1021/acsphotonics.5c00144"
 
-- title: "Roadmap on Quantum Magnetic Materials"
+- title: "Roadmap on quantum magnetic materials"
   image: 
   description: Comprehensive roadmap outlining the current state and future directions in quantum magnetic materials research.
   authors: "A. Grubišić-Čabo, M.H.D. Guimarães, D. Afanasiev, J.H. Garcia Aguilar, I. Aguilera, M.N. Ali, S. Bhattacharyya, Y.M. Blanter, R. Bosma, Z. Cheng, Z. Dan, S.P. Dash, J. Medina Dueñas, J. Fernandez-Rossier, M. Gibertini, S. Grytsiuk, M.J.A. Houmes, A. Isaeva, C. Knekna, A.H. Kole, S. Kurdi, J. Lado, <strong><em>S. Mañas‑Valero</em></strong>, J.M.J. Lopes, D. Marian, M. Na, F. Pabst, S.B. Pierantoni, M. Regout, R. Reho, M. Rösner, D. Sanz, T. van der Sar, J. Sławińska, M.J. Verstraete, M. Waseem, H.S.J. van der Zant, Z. Zanolli, D. Soriano"
@@ -235,7 +235,7 @@
   highlight: 0
   doi: "10.1088/2053-1583/adbe89"
 
-- title: "Anomalous Nonlinear Magnetoconductivity in van der Waals Magnet CrSBr"
+- title: "Anomalous nonlinear magnetoconductivity in van der Waals magnet CrSBr"
   image: 
   description: Study of anomalous nonlinear magnetoconductivity phenomena in the van der Waals magnet CrSBr.
   authors: "J. Jo, M. Suárez-Rodríguez, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado, I. Souza, F. Juan, F. Casanova, M. Gobbi, L. Hueso"
@@ -268,7 +268,7 @@
   highlight: 0
   doi: "10.1021/acsnano.4c07336"
 
-- title: "Laser-induced Demagnetization in van der Waals XY- and Ising-like Antiferromagnets NiPS<sub>3</sub> and FePS<sub>3</sub>"
+- title: "Laser-induced demagnetization in van der Waals XY- and Ising-like antiferromagnets NiPS<sub>3</sub> and FePS<sub>3</sub>"
   image: 
   description: Study of laser-induced ultrafast demagnetization in layered antiferromagnets NiPS₃ and FePS₃.
   authors: "D. V. Kuntu, E. A. Arkhipova, L. A. Shelukhin, F. Mertens, M. A. Prosnikov, I. A. Eliseyev, A. N. Smirnov, V. Yu. Davydov, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado, M. Cinchetti, A. M. Kalashnikova"
@@ -279,7 +279,7 @@
   highlight: 0
   doi: "10.1103/PhysRevMaterials.8.014408"
 
-- title: "Nonvolatile Electric Control of Antiferromagnet CrSBr"
+- title: "Nonvolatile electric control of antiferromagnet CrSBr"
   image: 
   description: Demonstration of nonvolatile electric control of antiferromagnetic order in CrSBr.
   authors: "J. Jo, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado, F. Casanova, M. Gobbi, L. Hueso"
@@ -334,7 +334,7 @@
   highlight: 0
   doi: "10.1021/acs.nanolett.3c03431"
 
-- title: "Thermo-Magnetostrictive Effect for Driving Antiferromagnetic Two-Dimensional Material Resonators"
+- title: "Thermo-magnetostrictive effect for driving antiferromagnetic two-dimensional material resonators"
   image: 
   description: Demonstration of thermo-magnetostrictive effects driving resonators made from 2D antiferromagnets.
   authors: "G. Baglioni, M. Šiškins, M. Houmes, M. Lee, D.H. Shin, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado, Y.M. Blanter, H.S.J. van der Zant, P.G. Steeneken"
@@ -455,7 +455,7 @@
   highlight: 0
   doi: "10.1002/adma.202208355"
 
-- title: "Photoluminescence Enhancement by Band Alignment Engineering in MoS<sub>2</sub>/FePS<sub>3</sub> van der Waals Heterostructures"
+- title: "Photoluminescence enhancement by band alignment engineering in MoS<sub>2</sub>/FePS<sub>3</sub> van der Waals heterostructures"
   image: 
   description: Enhancement of photoluminescence through band alignment engineering in MoS2/FePS3 heterostructures.
   authors: "M. Ramos, F. Marques-Moros, D. L. Esteras, <strong><em>S. Mañas‑Valero</em></strong>, E. Henríquez-Guerra, M. Gadea, J. J. Baldoví, J. Canet-Ferrer, E. Coronado, M. R. Calvo"
@@ -488,7 +488,7 @@
   highlight: 0
   doi: "10.1021/acs.nanolett.1c03010"
 
-- title: "Quantum Rescaling, Domain Metastability, and Hybrid Domain-Walls in 2D CrI<sub>3</sub> Magnets"
+- title: "Quantum rescaling, domain metastability, and hybrid domain-walls in 2D CrI<sub>3</sub> magnets"
   image:
   description: Analysis of quantum scaling effects, metastable domains, and hybrid domain walls in 2D CrI3 magnets.
   authors: "D.A. Wahab, M. Augustin, <strong><em>S. Mañas‑Valero</em></strong>, W. Kuang, S. Jenkins, E. Coronado, I.V. Grigorieva, I.J. Vera-Marun, E. Navarro-Moratalla, R.F. Evans, K.S. Novoselov, E. Santos"
@@ -499,7 +499,7 @@
   highlight: 0
   doi: "10.1002/adma.202004138"
 
-- title: "Proximity Effects on the Charge Density Wave Order and Superconductivity in Single-Layer NbSe<sub>2</sub>"
+- title: "Proximity effects on the charge density wave order and superconductivity in single-layer NbSe<sub>2</sub>"
   image:
   description: Study of proximity-induced modifications in charge density wave and superconductivity in NbSe2 monolayers.
   authors: "P. Dreher, W. Wan, A. Chikina, M. Bianchi, H. Guo, R. Harsh, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado, A. J. Martínez-Galera, P. Hofmann, J. A. Miwa, M. M. Ugeda"
@@ -598,7 +598,7 @@
   highlight: 0
   doi: "10.1038/s41467-020-16430-2"
 
-- title: "Low-Frequency Imaginary Impedance at the Superconducting Transition of 2H-NbSe<sub>2</sub>"
+- title: "Low-frequency imaginary impedance at the superconducting transition of 2H-NbSe<sub>2</sub>"
   image:
   description: Analysis of low-frequency imaginary impedance behavior near the superconducting transition in 2H-NbSe2.
   authors: "D. Perconte, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado, I. Guillamón, H. Suderow"
@@ -609,7 +609,7 @@
   highlight: 0
   doi: "10.1103/PhysRevApplied.13.054040"
 
-- title: "O-Doped Nanographenes: A Pyrano/Pyrylium Route Towards Semiconducting Cationic Mixed-Valence Complexes"
+- title: "O-doped nanographenes: a pyrano/pyrylium route towards semiconducting cationic mixed-valence complexes"
   image:
   description: Synthesis of O-doped nanographenes via pyrano/pyrylium chemistry yielding semiconducting mixed-valence complexes.
   authors: "L. Ðorđević, C. Valentini, N. Demitri, C. Mézière, A. Allain, M. Sallé, A. Folli, D. Murphy, <strong><em>S. Mañas‑Valero</em></strong>, E. Coronado, D. Bonifazi"
@@ -620,7 +620,7 @@
   highlight: 0
   doi: "10.1002/anie.201914025"
 
-- title: "Path to Overcome Material and Fundamental Obstacles in Spin Valves Based on MoS<sub>2</sub> and Other Transition-Metal Dichalcogenides"
+- title: "Path to overcome material and fundamental obstacles in spin valves based on MoS<sub>2</sub> and other transition-metal dichalcogenides"
   image:
   description: Strategies to overcome material and fundamental challenges in spin valves using MoS2 and related TMDCs.
   authors: "M. Galbiati, S. Tatay, S.M.-M. Dubois, F. Godel, R. Galceran, <strong><em>S. Mañas‑Valero</em></strong>, M. Piquemal-Banci, A. Vecchiola, J.-C. Charlier, A. Forment-Aliaga, E. Coronado, B. Dlubak, P. Seneor"
@@ -631,7 +631,7 @@
   highlight: 0
   doi: "10.1103/PhysRevApplied.12.044022"
 
-- title: "Electronic, Structural and Functional Versatility in Tetrathiafulvalene-Lanthanide Metal–Organic Frameworks"
+- title: "Electronic, structural and functional versatility in tetrathiafulvalene-lanthanide Metal–Organic Frameworks"
   image:
   description: Exploring the multifunctional electronic, structural, and functional properties of TTF-lanthanide MOFs.
   authors: "J. Castells-Gil, <strong><em>S. Mañas‑Valero</em></strong>, I.J. Vitórica-Yrezábal, D. Ananias, J. Rocha, R. Santiago, S.T. Bromley, J.J. Baldoví, E. Coronado, M. Souto, G. Mínguez Espallargas"
@@ -686,7 +686,7 @@
   highlight: 0
   doi: "10.1103/PhysRevB.95.224510"
 
-- title: "Local Oxidation Nanolithography on Metallic Transition Metal Dichalcogenides Surfaces"
+- title: "Local oxidation nanolithography on metallic transition metal dichalcogenides surfaces"
   image:
   description: Application of local oxidation nanolithography on metallic TMDC surfaces.
   authors: "E. Pinilla-Cienfuegos, <strong><em>S. Mañas‑Valero</em></strong>, E. Navarro-Moratalla, S. Tatay, A. Forment-Aliaga, E. Coronado"
@@ -741,7 +741,7 @@
   highlight: 0
   doi: "10.1039/C5SC00957J"
 
-- title: "Imaging the Magnetic Reversal of Isolated and Organized Molecular-Based Nanoparticles using Magnetic Force Microscopy"
+- title: "Imaging the magnetic reversal of isolated and organized molecular-based nanoparticles using magnetic force microscopy"
   image:
   description: Magnetic force microscopy visualization of magnetic reversal in molecular-based nanoparticles.
   authors: "E. Pinilla-Cienfuegos, S. Kumar, <strong><em>S. Mañas‑Valero</em></strong>, J. Canet-Ferrer, L. Catala, T. Mallah, A. Forment-Aliaga, E. Coronado"
