@@ -99,6 +99,13 @@ permalink: /publications/
 <a id="full-list-of-publications"></a>
 <h2>Full List of Publications</h2>
 
+<small>
+  This section includes both the 
+  <a href="#highlights">highlighted publications</a> and the 
+  <a href="#remaining-publications">remaining peer-reviewed publications</a>.
+</small>
+
+<a id="highlights"></a>
 <h3>
   Highlights <small>(<span title="Corresponding Author">📧</span> = corresponding author, <span title="Equal Contribution">🤝</span> = equal contribution)</small>
 </h3>
@@ -115,6 +122,7 @@ permalink: /publications/
 {% endfor %}
 </ol>
 
+<a id="remaining-publications"></a>
 <h3>All Publications</h3>
 <ol start="{{ sorted_publications | where: 'highlight', 1 | size | plus: 1 }}">
 {% for publi in sorted_publications %}
