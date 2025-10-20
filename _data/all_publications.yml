@@ -8,7 +8,7 @@
     display: "arXiv:2508.18775 (2025)"
   date: 2025-08-26
   highlight: 0
-  principal_publication: 0
+  principal_publication: 1
   doi: "10.48550/arXiv.2508.18775"
 
 - title: "Ferromagnetism above 200 K in Organic-Ion Intercalated CrSBr"
