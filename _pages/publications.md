@@ -101,13 +101,13 @@ permalink: /publications/
 
 <small>
   This section includes both the 
-  <a href="#highlights">highlighted publications</a> and the 
-  <a href="#remaining-publications">remaining peer-reviewed publications</a>.
+  <a href="#principal">Principal Publications</a> and the 
+  <a href="#collaborative">Collaborative Publications</a>.
 </small>
 
-<a id="highlights"></a>
+<a id="principal"></a>
 <h3>
-  Highlights <small>(<span title="Corresponding Author">📧</span> = corresponding author, <span title="Equal Contribution">🤝</span> = equal contribution)</small>
+  Principal Publications <small>(<span title="Corresponding Author">📧</span> = corresponding author, <span title="Equal Contribution">🤝</span> = equal contribution)</small>
 </h3>
 
 <ol>
@@ -122,8 +122,8 @@ permalink: /publications/
 {% endfor %}
 </ol>
 
-<a id="remaining-publications"></a>
-<h3>All Publications</h3>
+<a id="collaborative"></a>
+<h3>Collaborative Publications</h3>
 <ol start="{{ sorted_publications | where: 'highlight', 1 | size | plus: 1 }}">
 {% for publi in sorted_publications %}
   {% if publi.highlight == 0 %}
