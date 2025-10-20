@@ -112,7 +112,7 @@ permalink: /publications/
 
 <ol>
 {% for publi in sorted_publications %}
-  {% if publi.highlight == 1 %}
+  {% if publi.principal_publication == 1 %}
     <li>
       <strong>{{ publi.title }}</strong><br />
       <em>{{ publi.authors_highlight }}</em><br />
@@ -124,9 +124,9 @@ permalink: /publications/
 
 <a id="collaborative"></a>
 <h3>Collaborative Publications</h3>
-<ol start="{{ sorted_publications | where: 'highlight', 1 | size | plus: 1 }}">
+<ol start="{{ sorted_publications | where: 'principal_publication', 1 | size | plus: 1 }}">
 {% for publi in sorted_publications %}
-  {% if publi.highlight == 0 %}
+  {% if publi.principal_publication == 0 %}
     <li>
       <strong>{{ publi.title }}</strong><br />
       <em>{{ publi.authors }}</em><br />
