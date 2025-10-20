@@ -96,9 +96,30 @@ permalink: /publications/
 ---
 <a id="full-list-of-publications"></a>
 <h2>Full List of Publications</h2>
+
+<h3>Highlights (<span title="Corresponding Author">📧</span>: corresponding author, <span title="Equal Contribution">🤝</span>: equally contributed)</h3>
+
+<ol>
 {% for publi in sorted_publications %}
-  {% assign year = publi.date | date: "%Y" %}
-  {{ forloop.index }}. <strong>{{ publi.title }}</strong><br />
-  <em>{{ publi.authors }}</em><br />
-  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br />
+  {% if publi.highlight == 1 %}
+    <li>
+      <strong>{{ publi.title }}</strong><br />
+      <em>{{ publi.authors_highlight }}</em><br />
+      <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+    </li>
+  {% endif %}
 {% endfor %}
+</ol>
+
+<h3>All Publications</h3>
+<ol start="{{ sorted_publications | where: 'highlight', 1 | size | plus: 1 }}">
+{% for publi in sorted_publications %}
+  {% if publi.highlight == 0 %}
+    <li>
+      <strong>{{ publi.title }}</strong><br />
+      <em>{{ publi.authors }}</em><br />
+      <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+    </li>
+  {% endif %}
+{% endfor %}
+</ol>
