@@ -11,7 +11,7 @@ permalink: /publications/
 
 ---
 
-**At the end of this page, you can find the [full list of publications](#full-list-of-publications).**
+**At the end of this page, you can find the [Full List of Publications](#full-list-of-publications).**
 
 <p>
   You can check them as well in&nbsp;
@@ -101,8 +101,8 @@ permalink: /publications/
 
 <small>
   This section includes both the 
-  <a href="#principal">Principal Publications</a> and the 
-  <a href="#collaborative">Collaborative Publications</a>.
+  **<a href="#principal">Principal Publications</a>** and the 
+  **<a href="#collaborative">Collaborative Publications</a>**.
 </small>
 
 <a id="principal"></a>
