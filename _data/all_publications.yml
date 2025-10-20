@@ -8,6 +8,7 @@
     display: "ACS Nano (2025), DOI: 10.1021/acsnano.5c08747"
   date: 2025-10-09
   highlight: 0
+  principal_publication: 0
   doi: "10.1021/acsnano.5c08747"
 
 - title: "Fundamentals and applications of van der Waals magnets in magnon spintronics"
@@ -20,6 +21,7 @@
     display: Newton 1, 1, 100018 (2025)
   date: 2025-03-03
   highlight: 1
+  principal_publication: 1
   doi: "10.1016/j.newton.2025.100018"
 
 - title: "High harmonic spectroscopy reveals anisotropy of the charge-density-wave phase transition in TiSe₂"
@@ -31,6 +33,7 @@
     display: Communications Materials 6 (1), 152 (2025)
   date: 2025-08-01
   highlight: 0
+  principal_publication: 0
   doi: "10.1038/s43246-025-00873-5"
 
 - title: "Programmable magnetic hysteresis in orthogonally-twisted 2D CrSBr magnets via stacking engineering"
@@ -43,6 +46,7 @@
     display: Advanced Materials 37, 8, 2415774 (2025)
   date: 2025-02-13
   highlight: 1
+  principal_publication: 1
   doi: "10.1002/adma.202415774"
 
 - title: "Multistep magnetization switching in orthogonally-twisted ferromagnetic monolayers"
@@ -57,6 +61,7 @@
   news1: <a style="color:#FF0000" href="https://www.nature.com/articles/s41563-023-01762-3">Featured as 'News&Views' in Nature Materials by Lan Wang</a>
   news2_: <a style="color:#FF0000" href="https://www.nature.com/articles/s41563-023-01762-3">Beyond moiré in twisted two-dimensional magnets</a>
   highlight: 1
+  principal_publication: 1
   doi: "10.1038/s41563-023-01735-6"
 
 - title: "Probing short-range correlations in the van der Waals magnet CrSBr by Small-Angle Neutron Scattering"
@@ -69,6 +74,7 @@
     display: Small Science 4, 8, 2400244 (2024)
   date: 2024-08-01
   highlight: 1
+  principal_publication: 1
   doi: "10.1002/smsc.202400244"
 
 - title: "Highly anisotropic mechanical response of the van der Waals magnet CrPS<sub>4</sub>"
@@ -81,6 +87,7 @@
     display: Advanced Functional Materials 34, 2310206 (2024)
   date: 2024-01-12
   highlight: 1
+  principal_publication: 1
   doi: "10.1002/adfm.202310206"
 
 - title: "Magnetic imaging and domain nucleation in CrSBr down to the 2D limit"
@@ -93,6 +100,7 @@
     display: Advanced Materials 35, 2307195 (2023)
   date: 2023-12-01
   highlight: 1
+  principal_publication: 1
   doi: "10.1002/adma.202307195"
 
 - title: "Probing the spin dimensionality in single-layer CrSBr van der Waals heterostructures by magneto-transport measurements"
@@ -105,6 +113,7 @@
     display: Advanced Materials 34, 2204940 (2022)
   date: 2022-08-15
   highlight: 1
+  principal_publication: 1
   doi: "10.1002/adma.202204940"
 
 - title: "Strain switching in van der Waals heterostructures triggered by a spin-crossover metal organic framework"
@@ -117,6 +126,7 @@
     display: Advanced Materials 34, 11, 2110027 (2022)
   date: 2022-03-15
   highlight: 1
+  principal_publication: 1
   doi: "10.1002/adma.202110027"
 
 - title: "Out-of-plane transport of 1T-TaS<sub>2</sub>/graphene-based van der Waals heterostructures"
@@ -129,6 +139,7 @@
     display: ACS Nano 15, 7, 11898-11907 (2021)
   date: 2021-07-14
   highlight: 1
+  principal_publication: 1
   doi: "10.1021/acsnano.1c03012"
 
 - title: "van der Waals heterostructures based on atomically-thin superconductors"
@@ -141,6 +152,7 @@
     display: Advanced Electronic Materials 7, 7, 2000987 (2021)
   date: 2021-07-01
   highlight: 1
+  principal_publication: 1
   doi: "10.1002/aelm.202000987"
 
 - title: "A fluorinated 2D magnetic coordination polymer"
@@ -153,6 +165,7 @@
     display: Dalton Transactions 51, 1861 (2022)
   date: 2022-01-20
   highlight: 1
+  principal_publication: 1
   doi: "10.1039/D1DT03734J"
 
 - title: "Chemical design and magnetic ordering in thin layers of 2D Metal–Organic Frameworks"
@@ -165,6 +178,7 @@
     display: Journal of the American Chemical Society 143, 44, 18502 (2021)
   date: 2021-11-03
   highlight: 1
+  principal_publication: 1
   doi: "10.1021/jacs.1c07802"
 
 - title: "Quantum phases and spin liquid properties of 1T-TaS<sub>2</sub>"
@@ -177,6 +191,7 @@
     display: npj Quantum Materials 6, 69 (2021)
   date: 2021-06-10
   highlight: 1
+  principal_publication: 1
   doi: "10.1038/s41535-021-00367-w"
 
 - title: "Isoreticular two-dimensional magnetic coordination polymers prepared through pre-synthetic ligand functionalization"
@@ -189,6 +204,7 @@
     display: Nature Chemistry 10, 1001–1007 (2018)
   date: 2018-08-20
   highlight: 1
+  principal_publication: 1
   doi: "10.1038/s41557-018-0113-9"
 
 - title: "Raman Spectra of ZrS<sub>2</sub> and ZrSe<sub>2</sub> from bulk to atomically thin layers"
@@ -201,6 +217,7 @@
     display: Applied Sciences 6, 264 (2016)
   date: 2016-06-01
   highlight: 1
+  principal_publication: 1
   doi: "10.3390/app6090264"
 
 - title: "Pressure-induced structural phase transitions in CrSBr"
@@ -212,6 +229,7 @@
     display: npj Quantum Materials 10, 57 (2025)
   date: 2025-05-10
   highlight: 0
+  principal_publication: 0
   doi: "10.1038/s41535-025-00767-2"
 
 - title: "Quantum spin Hall in magnetic graphene"
@@ -223,6 +241,7 @@
     display: Nature Communications 16, 5336 (2025)
   date: 2025-07-01
   highlight: 0
+  principal_publication: 0
   doi: "10.1038/s41467-025-60377-1"
 
 - title: "Highly polarized single photon emitter from intrinsic localized excitons in a WSe<sub>2</sub>/CrSBr heterostructure"
@@ -234,6 +253,7 @@
     display: ACS Photonics 12, 6, 3024 (2025)
   date: 2025-06-15
   highlight: 0
+  principal_publication: 0
   doi: "10.1021/acsphotonics.5c00144"
 
 - title: "Roadmap on quantum magnetic materials"
@@ -245,6 +265,7 @@
     display: 2D Materials 12, 031501 (2025)
   date: 2025-03-15
   highlight: 0
+  principal_publication: 0
   doi: "10.1088/2053-1583/adbe89"
 
 - title: "Anomalous nonlinear magnetoconductivity in van der Waals magnet CrSBr"
@@ -256,6 +277,7 @@
     display: Advanced Materials 37, 16, 2419283 (2025)
   date: 2025-04-15
   highlight: 0
+  principal_publication: 0
   doi: "10.1002/adma.202419283"
 
 - title: "Nonlinear dynamics and magneto-elasticity of nanodrums near the phase transition"
@@ -267,6 +289,7 @@
     display: Nature Communications 16, 2177 (2025)
   date: 2025-05-01
   highlight: 0
+  principal_publication: 0
   doi: "10.1038/s41467-025-57317-4"
 
 - title: "Proximity-induced exchange interaction and prolonged valley lifetime in MoSe<sub>2</sub>/CrSBr van-der-Waals heterostructure with orthogonal spin-orbit fields"
@@ -278,6 +301,7 @@
     display: ACS Nano 18, 45, 310044 (2024)
   date: 2024-11-15
   highlight: 0
+  principal_publication: 0
   doi: "10.1021/acsnano.4c07336"
 
 - title: "Laser-induced demagnetization in van der Waals XY- and Ising-like antiferromagnets NiPS<sub>3</sub> and FePS<sub>3</sub>"
@@ -289,6 +313,7 @@
     display: Physical Review Materials 8, 014408 (2024)
   date: 2024-01-12
   highlight: 0
+  principal_publication: 0
   doi: "10.1103/PhysRevMaterials.8.014408"
 
 - title: "Nonvolatile electric control of antiferromagnet CrSBr"
@@ -300,6 +325,7 @@
     display: Nano Letters 24, 15, 4471 (2024)
   date: 2024-04-25
   highlight: 0
+  principal_publication: 0
   doi: "10.1021/acs.nanolett.4c00348"
 
 - title: "Tunable, multifunctional opto-electrical response in multilayer FePS<sub>3</sub>/single-layer MoS<sub>2</sub> van der Waals p-n heterojunctions"
@@ -311,6 +337,7 @@
     display: Nanoscale Advances 6, 1909 (2024)
   date: 2024-03-10
   highlight: 0
+  principal_publication: 0
   doi: "10.1039/D3NA01134H"
 
 - title: "Local control of superconductivity in a NbSe<sub>2</sub>/CrSBr van der Waals heterostructure"
@@ -322,6 +349,7 @@
     display: Nature Communications 14, 7253 (2023)
   date: 2023-09-18
   highlight: 0
+  principal_publication: 0
   doi: "10.1038/s41467-023-43111-7"
 
 - title: "Magnetic order in 2D antiferromagnets revealed by spontaneous anisotropic magnetostriction"
@@ -333,6 +361,7 @@
     display: Nature Communications 14, 8503 (2023)
   date: 2023-11-07
   highlight: 0
+  principal_publication: 0
   doi: "10.1038/s41467-023-44180-4"
 
 - title: "Charge transfer and asymmetric coupling of MoSe<sub>2</sub> valleys to the magnetic order of CrSBr"
@@ -344,6 +373,7 @@
     display: Nano Letters 23, 11073 (2023)
   date: 2023-09-20
   highlight: 0
+  principal_publication: 0
   doi: "10.1021/acs.nanolett.3c03431"
 
 - title: "Thermo-magnetostrictive effect for driving antiferromagnetic two-dimensional material resonators"
@@ -355,6 +385,7 @@
     display: Nano Letters 23, 6973 (2023)
   date: 2023-08-10
   highlight: 0
+  principal_publication: 0
   doi: "10.1021/acs.nanolett.3c01610"
 
 - title: "Nitrogen-vacancy magnetometry of CrSBr by diamond membrane transfer"
@@ -366,6 +397,7 @@
     display: npj 2D Materials and Applications 7, 62 (2023)
   date: 2023-06-15
   highlight: 0
+  principal_publication: 0
   doi: "10.1038/s41699-023-00423-y"
 
 - title: "Controlling magnetism with light in a zero orbital angular momentum antiferromagnet"
@@ -377,6 +409,7 @@
     display: Physical Review Letters 130, 076702 (2023)
   date: 2023-02-15
   highlight: 0
+  principal_publication: 0
   doi: "10.1103/PhysRevLett.130.076702"
 
 - title: "Valence band electronic structure of the van der Waals antiferromagnet FePS<sub>3</sub>"
@@ -388,6 +421,7 @@
     display: Materials Today Electronics 6, 100061 (2023)
   date: 2023-04-10
   highlight: 0
+  principal_publication: 0
   doi: "10.1016/j.mtelec.2023.100061"
 
 - title: "Interplay between optical emission and magnetism in the van der Waals magnetic semiconductor CrSBr in the two-dimensional limit"
@@ -399,6 +433,7 @@
     display: ACS Nano 17, 13224 (2023)
   date: 2023-08-08
   highlight: 0
+  principal_publication: 0
   doi: "10.1021/acsnano.3c00375"
 
 - title: "Nanomechanical absorption spectroscopy of 2D materials with femtowatt sensitivity"
@@ -410,6 +445,7 @@
     display: 2D Materials 10, 3 (2023)
   date: 2023-03-10
   highlight: 0
+  principal_publication: 0
   doi: "0.1088/2053-1583/acd0bf"
 
 - title: "Ultrafast laser-induced spin–lattice dynamics in the van der Waals antiferromagnet CoPS<sub>3</sub>"
@@ -421,6 +457,7 @@
     display: APL Materials 11, 071104 (2023)
   date: 2023-07-05
   highlight: 0
+  principal_publication: 0
   doi: "10.1063/5.0146128"
 
 - title: "Tweaking the optoelectronic properties of S‐doped polycyclic aromatic hydrocarbons by chemical oxidation"
@@ -432,6 +469,7 @@
     display: Chemistry–A European Journal 29, e202203115 (2023)
   date: 2023-03-22
   highlight: 0
+  principal_publication: 0
   doi: "10.1002/chem.202203115"
 
 - title: "A quantum spin liquid candidate isolated in a two-dimensional Co<sup>II</sup>Rh<sup>III</sup> bimetallic oxalate network"
@@ -443,6 +481,7 @@
     display: Chemical Science 14, 3899 (2023)
   date: 2023-03-15
   highlight: 0
+  principal_publication: 0
   doi: "10.1039/D2SC06407C"
 
 - title: "Studying spin diffusion and quantum entanglement with LF-µSR"
@@ -454,6 +493,7 @@
     display: "Journal of Physics: Conference Series 2462, 012038 (2023)"
   date: 2023-01-10
   highlight: 0
+  principal_publication: 0
   doi: "10.1088/1742-6596/2462/1/012038"
 
 - title: "Ultrafast coherent THz lattice dynamics coupled to spins in a van der Waals antiferromagnetic flake"
@@ -465,6 +505,7 @@
     display: Advanced Materials 35, 2208355 (2022)
   date: 2022-12-01
   highlight: 0
+  principal_publication: 0
   doi: "10.1002/adma.202208355"
 
 - title: "Photoluminescence enhancement by band alignment engineering in MoS<sub>2</sub>/FePS<sub>3</sub> van der Waals heterostructures"
@@ -476,6 +517,7 @@
     display: ACS Applied Materials & Interfaces 14, 33482 (2022)
   date: 2022-07-29
   highlight: 0
+  principal_publication: 0
   doi: "10.1021/acsami.2c05464"
 
 - title: "Nanomechanical probing and strain tuning of the Curie temperature in suspended Cr<sub>2</sub>Ge<sub>2</sub>Te<sub>6</sub> heterostructures"
@@ -487,6 +529,7 @@
     display: npj 2D Materials and Applications 6, 41 (2022)
   date: 2022-08-03
   highlight: 0
+  principal_publication: 0
   doi: "10.1038/s41699-022-00315-7"
 
 - title: "Tunable strong coupling of mechanical resonance between spatially separated FePS<sub>3</sub> nanodrums"
@@ -498,6 +541,7 @@
     display: Nano Letters 22, 36 (2022)
   date: 2022-01-05
   highlight: 0
+  principal_publication: 0
   doi: "10.1021/acs.nanolett.1c03010"
 
 - title: "Quantum rescaling, domain metastability, and hybrid domain-walls in 2D CrI<sub>3</sub> magnets"
@@ -509,6 +553,7 @@
     display: Advanced Materials 33, 2004138 (2021)
   date: 2021-01-20
   highlight: 0
+  principal_publication: 0
   doi: "10.1002/adma.202004138"
 
 - title: "Proximity effects on the charge density wave order and superconductivity in single-layer NbSe<sub>2</sub>"
@@ -520,6 +565,7 @@
     display: ACS Nano 15, 19430 (2021)
   date: 2021-12-14
   highlight: 0
+  principal_publication: 0
   doi: "10.1021/acsnano.1c06012"
 
 - title: "Attosecond state-resolved carrier motion in quantum materials probed by soft X-ray XANES"
@@ -531,6 +577,7 @@
     display: Applied Physics Reviews 8, 011408 (2021)
   date: 2021-02-19
   highlight: 0
+  principal_publication: 0
   doi: "10.1063/5.0020649"
 
 - title: "Ultra-broad spectral photo-response in FePS<sub>3</sub> air-stable devices"
@@ -542,6 +589,7 @@
     display: npj 2D Materials and Applications 5, 19 (2021)
   date: 2021-04-15
   highlight: 0
+  principal_publication: 0
   doi: "10.1038/s41699-021-00199-z"
 
 - title: "Coherent coupling between vortex bound states and magnetic impurities in 2D layered superconductors"
@@ -553,6 +601,7 @@
     display: Nature Communications 12, 4668 (2021)
   date: 2021-08-23
   highlight: 0
+  principal_publication: 0
   doi: "10.1038/s41467-021-24531-9"
 
 - title: "Study of charge density waves in suspended 2H-TaS<sub>2</sub> and 2H-TaSe<sub>2</sub> by nanomechanical resonance"
@@ -564,6 +613,7 @@
     display: Applied Physics Letters 118, 193105 (2021)
   date: 2021-05-10
   highlight: 0
+  principal_publication: 0
   doi: "10.1063/5.0051112"
 
 - title: "Controlling the anisotropy of a van der Waals antiferromagnet with light"
@@ -575,6 +625,7 @@
     display: Science Advances 7, eabf3096 (2021)
   date: 2021-06-11
   highlight: 0
+  principal_publication: 0
   doi: "10.1126/sciadv.abf3096"
 
 - title: "Simplified feedback control system for Scanning Tunneling Microscopy"
@@ -586,6 +637,7 @@
     display: Review of Scientific Instruments 92, 103705 (2021)
   date: 2021-10-12
   highlight: 0
+  principal_publication: 0
   doi: "10.1063/5.0064511"
 
 - title: "Molecular stabilization of chemically exfoliated bare MnPS<sub>3</sub> layers"
@@ -597,6 +649,7 @@
     display: Dalton Transactions 50, 16281 (2021)
   date: 2021-07-22
   highlight: 0
+  principal_publication: 0
   doi: "10.1039/D1DT02536H"
 
 - title: "Magnetic and electronic phase transitions probed by nanomechanical resonators"
@@ -608,6 +661,7 @@
     display: Nature Communications 11, 2698 (2020)
   date: 2020-07-15
   highlight: 0
+  principal_publication: 0
   doi: "10.1038/s41467-020-16430-2"
 
 - title: "Low-frequency imaginary impedance at the superconducting transition of 2H-NbSe<sub>2</sub>"
@@ -619,6 +673,7 @@
     display: Physical Review Applied 13, 054040 (2020)
   date: 2020-05-12
   highlight: 0
+  principal_publication: 0
   doi: "10.1103/PhysRevApplied.13.054040"
 
 - title: "O-doped nanographenes: a pyrano/pyrylium route towards semiconducting cationic mixed-valence complexes"
@@ -630,6 +685,7 @@
     display: Angewandte Chemie International Edition 59, 4106 (2020)
   date: 2020-03-02
   highlight: 0
+  principal_publication: 0
   doi: "10.1002/anie.201914025"
 
 - title: "Path to overcome material and fundamental obstacles in spin valves based on MoS<sub>2</sub> and other transition-metal dichalcogenides"
@@ -641,6 +697,7 @@
     display: Physical Review Applied 12, 044022 (2019)
   date: 2019-10-21
   highlight: 0
+  principal_publication: 0
   doi: "10.1103/PhysRevApplied.12.044022"
 
 - title: "Electronic, structural and functional versatility in tetrathiafulvalene-lanthanide Metal–Organic Frameworks"
@@ -652,6 +709,7 @@
     display: Chemistry – A European Journal 25, 12636 (2019)
   date: 2019-09-23
   highlight: 0
+  principal_publication: 0
   doi: "10.1002/chem.201902855"
 
 - title: "Charge-transfer interactions between fullerenes and a mesoporous tetrathiafulvalene-based metal-organic framework."
@@ -663,6 +721,7 @@
     display: Beilstein Journal of Nanotechnology 10, 1883 (2019)
   date: 2019-08-07
   highlight: 0
+  principal_publication: 0
   doi: "10.3762/bjnano.10.183"
 
 - title: "Pressure-induced collapse of the charge density wave and Higgs mode visibility in 2H-TaS<sub>2</sub>"
@@ -674,6 +733,7 @@
     display: Physical Review Letters 122, 127001 (2019)
   date: 2019-03-22
   highlight: 0
+  principal_publication: 0
   doi: "10.1103/PhysRevLett.122.127001"
 
 - title: "A local study of the transport mechanisms in MoS<sub>2</sub> layers for magnetic tunnel junctions"
@@ -685,6 +745,7 @@
     display: ACS Applied Materials & Interfaces 10, 30017 (2018)
   date: 2018-09-21
   highlight: 0
+  principal_publication: 0
   doi: "10.1021/acsami.8b08853"
 
 - title: "Force-free state in a superconducting single crystal and angle-dependent vortex helical instability"
@@ -696,6 +757,7 @@
     display: Physical Review B 95, 224510 (2017)
   date: 2017-06-27
   highlight: 0
+  principal_publication: 0
   doi: "10.1103/PhysRevB.95.224510"
 
 - title: "Local oxidation nanolithography on metallic transition metal dichalcogenides surfaces"
@@ -707,6 +769,7 @@
     display: Applied Sciences 6 (9), 250 (2016)
   date: 2016-09-15
   highlight: 0
+  principal_publication: 0
   doi: "10.3390/app6090250"
 
 - title: "Field dependence of the vortex core size probed by scanning tunneling microscopy"
@@ -718,6 +781,7 @@
     display: Physical Review B 94, 014517 (2016)
   date: 2016-07-15
   highlight: 0
+  principal_publication: 0
   doi: "10.1103/PhysRevB.94.014517"
 
 - title: "Switching the magnetic vortex core in a single nanoparticle"
@@ -729,6 +793,7 @@
     display: ACS Nano 10, 1764-1770 (2016)
   date: 2016-02-23
   highlight: 0
+  principal_publication: 0
   doi: "10.1021/acsnano.5b06776"
 
 - title: "Enhanced superconductivity in atomically thin TaS<sub>2</sub>"
@@ -740,6 +805,7 @@
     display: Nature Communications 7, 11043 (2016)
   date: 2016-03-02
   highlight: 0
+  principal_publication: 0
   doi: "10.1038/ncomms11043"
 
 - title: "Graphene related magnetic materials: micromechanical exfoliation of 2D layered magnets based on bimetallic anilate complexes with inserted [Fe<sup>III</sup>(acac<sub>2</sub>-trien)]<sup>+</sup> and [Fe<sup>III</sup>(sal<sub>2</sub>-trien)]<sup>+</sup> molecules"
@@ -751,6 +817,7 @@
     display: Chemical Science 6, 4665-4673 (2015)
   date: 2015-06-30
   highlight: 0
+  principal_publication: 0
   doi: "10.1039/C5SC00957J"
 
 - title: "Imaging the magnetic reversal of isolated and organized molecular-based nanoparticles using magnetic force microscopy"
@@ -762,6 +829,7 @@
     display: Particle & Particle Systems Characterization 32, 693–700 (2015)
   date: 2015-08-01
   highlight: 0
+  principal_publication: 0
   doi: "10.1002/ppsc.201400224"
 
 - title: "Recovering ferromagnetic metal surfaces to fully exploit chemistry in molecular spintronics"
@@ -773,6 +841,7 @@
     display: AIP Advances 5, 057131 (2015)
   date: 2015-05-20
   highlight: 0
+  principal_publication: 0
   doi: "10.1063/1.4921241"
 
 
