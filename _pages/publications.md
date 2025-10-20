@@ -97,7 +97,9 @@ permalink: /publications/
 <a id="full-list-of-publications"></a>
 <h2>Full List of Publications</h2>
 
-<h3>Highlights (<span title="Corresponding Author">📧</span>: corresponding author, <span title="Equal Contribution">🤝</span>: equally contributed)</h3>
+<h3>
+  Highlights <small>(<span title="Corresponding Author">📧</span> = corresponding author, <span title="Equal Contribution">🤝</span> = equal contribution)</small>
+</h3>
 
 <ol>
 {% for publi in sorted_publications %}
