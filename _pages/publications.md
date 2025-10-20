@@ -49,7 +49,9 @@ permalink: /publications/
   </span>
 </p>
 ---
-<h2>Research highlights</h2>
+<h2>
+  Research highlights <small>(<span title="Corresponding Author">📧</span> = corresponding author, <span title="Equal Contribution">🤝</span> = equal contribution)</small>
+</h2>
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.all_publications %}
