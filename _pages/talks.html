@@ -7,30 +7,31 @@ permalink: /talks/
 <h1>Talks</h1>
 <p>EMA 2023 Seminar Recording — Hosted on Vimeo</p>
 
-<div class="video-wrapper">
-  <iframe 
-    src="https://player.vimeo.com/video/790343937?h=pl&autoplay=0&title=0&byline=0&portrait=0"
-    width="800"
-    height="450"
-    frameborder="0"
-    allow="autoplay; fullscreen; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
+<!-- Optional thumbnail (replace with your own image if desired) -->
+<img 
+  src="https://i.vimeocdn.com/video/1584630401-abc123xyz-640x360.jpg"
+  alt="EMA Talk Thumbnail"
+  style="max-width:600px;width:100%;border-radius:8px;">
+
+<p style="margin-top:1em;">
+  <a href="https://vimeo.com/790343937?fl=pl&fe=vl"
+     class="popup-link"
+     onclick="window.open(this.href,'popup','width=1000,height=700,left='+((screen.width-1000)/2)+',top='+((screen.height-700)/2)); return false;">
+    ▶️ Watch the Talk (open popup)
+  </a>
+</p>
 
 <style>
-.video-wrapper {
-  position: relative;
-  padding-bottom: 56.25%; /* 16:9 aspect ratio */
-  height: 0;
-  overflow: hidden;
-  max-width: 100%;
+.popup-link {
+  display:inline-block;
+  background:#007acc;
+  color:white;
+  padding:10px 20px;
+  border-radius:6px;
+  text-decoration:none;
+  font-weight:600;
 }
-.video-wrapper iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
+.popup-link:hover {
+  background:#005fa3;
 }
 </style>
