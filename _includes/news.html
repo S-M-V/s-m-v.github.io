@@ -1,12 +1,95 @@
-
 <div class="well">
-<h4>📰 <strong>News</strong></h4>
-<hr>
-{% for article in site.data.news limit:5 %}
-<p><strong>{{ article.display_date }}</strong><br>{{ article.headline | markdownify}}</p> 
-<hr>
-{% endfor %}
+  <h4 style="display:flex; align-items:center; gap:0.3em; margin-bottom:0.5em;">
+    📰 <strong>News</strong>
+  </h4>
+  <hr class="well-divider">
 
-<h4><a href="{{ '/allnews/' | relative_url }}">... see all News</a></h4>
-
+  {% for article in site.data.news limit:5 %}
+    <div class="well-news-item">
+      <p>
+        <span class="well-news-date"><strong>{{ article.display_date }}</strong></span><br>
+        <span class="well-news-headline">{{ article.headline | markdownify }}</span>
+      </p>
+      {% unless forloop.last %}
+        <hr class="well-divider">
+      {% endunless %}
     </div>
+  {% endfor %}
+
+  <h4 style="margin-top:0.8em;">
+    <a href="{{ '/allnews/' | relative_url }}" class="well-news-link">... see all News</a>
+  </h4>
+</div>
+
+<style>
+/* Well container styling */
+.well {
+  background-color: #f9f9f9; /* subtle newspaper grey */
+  padding: 1em 1.2em;
+  border-radius: 8px;
+  box-shadow: 0 1px 6px rgba(0,0,0,0.08);
+  margin-bottom: 1.5em;
+  width: 100%;
+  box-sizing: border-box;
+  border-left: 4px solid #007acc; /* subtle sidebar accent */
+}
+
+/* Divider styling */
+.well-divider {
+  border: none;
+  border-top: 1px solid #e0e0e0;
+  margin: 0.4em 0;
+}
+
+/* Individual news items */
+.well-news-item {
+  margin-bottom: 0.5em;
+}
+
+.well-news-date {
+  font-size: 0.85em;
+  color: #666;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.well-news-headline {
+  font-size: 0.95em;
+  color: #111;
+  line-height: 1.4;
+}
+
+/* Link styling */
+.well-news-link {
+  color: #007acc;
+  font-weight: 600;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.well-news-link:hover {
+  color: #005fa3;
+}
+
+/* Sidebar / responsive layout */
+@media(min-width: 768px){
+  .well {
+    max-width: 300px; /* fit nicely in sidebar */
+    margin-left: 1em;
+  }
+}
+
+@media(max-width: 768px){
+  .well {
+    max-width: 100%; /* full width on tablet/mobile */
+    margin-left: 0;
+    border-left: none; /* remove accent on mobile */
+  }
+}
+
+@media(max-width:480px){
+  .well h4 { font-size: 1.2em; gap:0.2em; }
+  .well-news-date { font-size: 0.8em; }
+  .well-news-headline { font-size: 0.93em; }
+}
+</style>
