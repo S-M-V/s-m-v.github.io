@@ -6,7 +6,11 @@ sitemap: false
 permalink: /allnews/
 ---
 
-<h1>📰 News</h1>
+<!-- Top header and other layout elements remain unchanged -->
+
+<h1 style="font-size:2em; line-height:1.2; display:inline-flex; align-items:center; gap:0.3em;">
+  📰 News
+</h1>
 
 <div class="news-container">
   {% assign sorted_news = site.data.news | sort: 'date' | reverse %}
@@ -23,16 +27,6 @@ permalink: /allnews/
 </div>
 
 <style>
-/* ===== Page layout ===== */
-body {
-  padding: 1em;
-  max-width: 900px;
-  margin: 0 auto;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #222;
-  background-color: #fafafa;
-}
-
 /* ===== News grid ===== */
 .news-container {
   display: grid;
@@ -95,7 +89,9 @@ body {
 }
 
 @media(max-width:480px){
-  h1 { font-size: 1.5em; }
+  h1[style] { font-size: 1.5em; gap:0.2em; }
   .news-container { grid-template-columns: 1fr; }
 }
 </style>
+
+<!-- Bottom footer remains unchanged -->
