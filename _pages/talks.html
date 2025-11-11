@@ -5,13 +5,41 @@ permalink: /talks/
 ---
 
 <h1>Talks</h1>
+
+<!-- ===== SUMMARY LINKS ===== -->
+<h2>Summary</h2>
+<ul>
+  <li><a href="#talk2024">2024 – Attocube 2D Materials Conference, Munich, Germany</a></li>
+  <li><a href="#talk2023">2023 – EMA Early-Career Seminars</a></li>
+</ul>
+
+<hr>
+
+<!-- ===== 2024 TALK ===== -->
+<h2 id="talk2024">2024 – Attocube 2D Materials Conference, Munich, Germany</h2>
+
+<div class="video-wrapper">
+  <iframe 
+    width="800"
+    height="450"
+    src="https://www.youtube.com/embed/TZqNF9ARwP0"
+    title="Attocube 2D Materials Conference 2024"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
+<hr>
+
+<!-- ===== 2023 TALK ===== -->
+<h2 id="talk2023">2023 – EMA Early-Career Seminars</h2>
 <p>EMA 2023 Seminar Recording — Hosted on Vimeo</p>
 
-<!-- Optional thumbnail (replace with your own image if desired) -->
 <img 
   src="{{ site.baseurl }}/images/talks/EMA.png"
   alt="EMA Talk Thumbnail"
-  style="max-width:600px;width:100%;border-radius:8px;">
+  style="max-width:600px;width:100%;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15);">
 
 <p style="margin-top:1em;">
   <a href="https://vimeo.com/790343937?fl=pl&fe=vl"
@@ -22,16 +50,40 @@ permalink: /talks/
 </p>
 
 <style>
+/* Responsive YouTube player */
+.video-wrapper {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  margin-bottom: 1.5em;
+}
+.video-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* Popup link styling */
 .popup-link {
-  display:inline-block;
-  background:#007acc;
-  color:white;
-  padding:10px 20px;
-  border-radius:6px;
-  text-decoration:none;
-  font-weight:600;
+  display: inline-block;
+  background: #007acc;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: background 0.3s ease;
 }
 .popup-link:hover {
-  background:#005fa3;
+  background: #005fa3;
+}
+
+/* Headings spacing */
+h2 {
+  margin-top: 2em;
 }
 </style>
