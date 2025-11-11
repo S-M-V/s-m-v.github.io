@@ -3,7 +3,7 @@ title: "SMV | News"
 layout: textlay
 excerpt: "SMV - News"
 sitemap: false
-permalink: /allnews/
+permalink: /news/
 ---
 
 <h1>📰 News</h1>
@@ -17,3 +17,65 @@ permalink: /allnews/
     </div>
   {% endfor %}
 </div>
+
+<style>
+/* ===== General page padding and max width ===== */
+body {
+  padding-left: 1em;
+  padding-right: 1em;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ===== News container ===== */
+.news-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1em;
+  margin-top: 1em;
+}
+
+/* ===== News card styling ===== */
+.news-card {
+  padding: 1em 1.2em;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  background-color: #fff;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.news-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+}
+
+.news-date {
+  font-size: 0.85em;
+  color: #555;
+  margin-bottom: 0.4em;
+}
+
+.news-headline {
+  font-size: 1.05em;
+  font-weight: 600;
+  color: #222;
+}
+
+/* Optional: color-code by type */
+.news-card.research { border-left: 4px solid #007acc; }
+.news-card.event    { border-left: 4px solid #28a745; }
+.news-card.award    { border-left: 4px solid #ffc107; }
+
+/* ===== Mobile adjustments ===== */
+@media(max-width:768px){
+  .news-card { padding: 0.8em 1em; }
+  .news-headline { font-size: 1em; }
+  .news-date { font-size: 0.8em; }
+}
+
+@media(max-width:480px){
+  h1 { font-size: 1.5em; }
+  .news-container { grid-template-columns: 1fr; }
+}
+</style>
