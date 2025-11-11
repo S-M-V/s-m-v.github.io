@@ -30,32 +30,31 @@ permalink: /allnews/
 /* ===== News grid ===== */
 .news-container {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   gap: 1em;
   margin-top: 1em;
 }
 
 /* ===== News card styling ===== */
 .news-card {
-  padding: 0.9em 1em;
+  padding: 1em 1.2em;
   border-radius: 8px;
   background-color: #f9f9f9; /* subtle newspaper grey */
-  box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+  box-shadow: 0 1px 6px rgba(0,0,0,0.08);
   transition: transform 0.15s ease, box-shadow 0.15s ease;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .news-card:hover {
-  transform: translateY(-1.5px);
-  box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
 }
 
 /* ===== Date styling ===== */
 .news-date {
-  font-size: 0.82em;
+  font-size: 0.85em;
   color: #666;
   font-weight: 500;
-  margin-bottom: 0.25em;
+  margin-bottom: 0.3em;
   text-transform: uppercase;
   letter-spacing: 0.5px;
 }
@@ -64,31 +63,29 @@ permalink: /allnews/
 .news-divider {
   border: none;
   border-top: 1px solid #e0e0e0;
-  margin: 0.4em 0 0.4em 0;
+  margin: 0.5em 0 0.5em 0;
 }
 
 /* ===== Headline styling ===== */
 .news-headline {
   font-size: 1.05em;
   font-weight: 600;
-  font-family: Georgia, "Times New Roman", serif; /* newspaper-style serif */
-  margin-bottom: 0.3em;
+  margin-bottom: 0.4em;
   color: #111;
 }
 
 /* ===== Excerpt styling ===== */
 .news-excerpt {
-  font-size: 0.93em;
+  font-size: 0.95em;
   color: #444;
-  line-height: 1.45;
-  margin-bottom: 0.2em;
+  line-height: 1.4;
 }
 
 /* ===== Responsive adjustments ===== */
 @media(max-width:768px){
-  .news-card { padding: 0.8em 0.9em; }
+  .news-card { padding: 0.8em 1em; }
   .news-headline { font-size: 1em; }
-  .news-date { font-size: 0.78em; }
+  .news-date { font-size: 0.8em; }
 }
 
 @media(max-width:480px){
