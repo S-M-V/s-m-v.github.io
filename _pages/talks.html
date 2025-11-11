@@ -6,29 +6,31 @@ permalink: /talks/
 
 <h1>📺 Online talks</h1>
 
-<h4 style="font-weight: normal; color: #555; margin-bottom: 0.5em;" class="fade-in-header">
+<h4 style="font-weight: normal; color: #555; margin-bottom: 0.5em;">
 👀 Have a look!
 </h4>
 
 <div class="summary-cards">
-  <a href="#talk2024" class="summary-card fade-in">🎬 2024 – Attocube 2D Materials Conference</a>
-  <a href="#talk2023" class="summary-card fade-in">🎬 2023 – EMA Early-Career Seminars</a>
+  <a href="#talk2024" class="summary-card">🎬 2024 – Attocube 2D Materials Conference</a>
+  <a href="#talk2023" class="summary-card">🎬 2023 – EMA Early-Career Seminars</a>
 </div>
 
 <hr>
 
-<h2 id="talk2024" class="fade-in">🎥 2024 – Attocube 2D Materials Conference</h2>
-<p class="fade-in">Hosted on YouTube</p>
-<div class="video-wrapper fade-in">
+<h2 id="talk2024">🎥 2024 – Attocube 2D Materials Conference</h2>
+<p>Hosted on YouTube</p>
+<div class="video-wrapper">
   <iframe src="https://www.youtube.com/embed/TZqNF9ARwP0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <hr>
 
-<h2 id="talk2023" class="fade-in">🎥 2023 – EMA Early-Career Seminars</h2>
-<p class="fade-in">Hosted on Vimeo</p>
-<img src="{{ site.baseurl }}/images/talks/EMA.png" class="talk-thumbnail fade-in" alt="EMA Talk">
-<p><a href="https://vimeo.com/790343937" class="popup-link fade-in">▶️ Watch the Talk</a></p>
+<h2 id="talk2023">🎥 2023 – EMA Early-Career Seminars</h2>
+<p>Hosted on Vimeo</p>
+<img src="{{ site.baseurl }}/images/talks/EMA.png" class="talk-thumbnail" alt="EMA Talk">
+<p>
+  <a href="https://vimeo.com/790343937" class="popup-link">▶️ Watch the Talk</a>
+</p>
 
 <style>
 /* ===== General page padding and max width ===== */
@@ -56,10 +58,6 @@ body {
 /* Images */
 .talk-thumbnail { width:100%; max-width:600px; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.15); margin-bottom:1em; }
 
-/* Fade-in animation */
-.fade-in, .fade-in-header { opacity:0; transform:translateY(20px); transition:0.6s ease-out; }
-.fade-in.visible, .fade-in-header.visible { opacity:1; transform:translateY(0); }
-
 /* Headings spacing */
 h2 { margin-top:2em; }
 
@@ -75,18 +73,3 @@ h2 { margin-top:2em; }
   h4{font-size:0.95em;}
 }
 </style>
-
-<script>
-document.addEventListener("DOMContentLoaded",function(){
-  const elements=document.querySelectorAll(".fade-in, .fade-in-header");
-  const observer=new IntersectionObserver((entries,obs)=>{
-    entries.forEach(e=>{ 
-      if(e.isIntersecting){ 
-        e.target.classList.add("visible"); 
-        obs.unobserve(e.target); 
-      }
-    });
-  }, {threshold:0.1});
-  elements.forEach(el=>observer.observe(el));
-});
-</script>
