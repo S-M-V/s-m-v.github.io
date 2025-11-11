@@ -5,87 +5,60 @@ permalink: /talks/
 ---
 
 <h1>📺 Online talks</h1>
-<!-- ===== SUMMARY LINKS ===== -->
-<h4 style="font-weight: normal; color: #555; margin-bottom: 0.5em;">
+
+<h4 style="font-weight: normal; color: #555; margin-bottom: 0.5em;" class="fade-in-header">
 👀 Have a look!
 </h4>
-<ul>
-🎬<a href="#talk2024"> 2024 – Attocube 2D Materials Conference, Munich, Germany</a>
-</ul><ul>
-🎬<a href="#talk2023"> 2023 – EMA Early-Career Seminars</a>
-</ul>
 
-<hr>
-
-<!-- ===== 2024 TALK ===== -->
-<h2 id="attocube2024">🎥 2024 – Attocube 2D Materials Conference, Munich, Germany</h2>
-
-<p>Attocube 2D Materials Conference 2024 — Hosted on YouTube</p>
-
-<div class="video-wrapper">
-  <iframe 
-    src="https://www.youtube.com/embed/TZqNF9ARwP0" 
-    title="Attocube 2D Materials Conference 2024"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
+<div class="summary-cards">
+  <a href="#talk2024" class="summary-card fade-in">🎬 2024 – Attocube 2D Materials Conference</a>
+  <a href="#talk2023" class="summary-card fade-in">🎬 2023 – EMA Early-Career Seminars</a>
 </div>
 
 <hr>
 
-<!-- ===== 2023 TALK ===== -->
-<h2 id="talk2023">🎥 2023 – EMA Early-Career Seminars</h2>
-<p>EMA 2023 Seminar Recording — Hosted on Vimeo</p>
+<h2 id="talk2024" class="fade-in">🎥 2024 – Attocube 2D Materials Conference</h2>
+<p class="fade-in">Hosted on YouTube</p>
+<div class="video-wrapper fade-in">
+  <iframe src="https://www.youtube.com/embed/TZqNF9ARwP0" frameborder="0" allowfullscreen></iframe>
+</div>
 
-<img 
-  src="{{ site.baseurl }}/images/talks/EMA.png"
-  alt="EMA Talk Thumbnail"
-  style="max-width:600px;width:100%;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.15);">
+<hr>
 
-<p style="margin-top:1em;">
-  <a href="https://vimeo.com/790343937?fl=pl&fe=vl"
-     class="popup-link"
-     onclick="window.open(this.href,'popup','width=1000,height=700,left='+((screen.width-1000)/2)+',top='+((screen.height-700)/2)); return false;">
-    ▶️ Watch the Talk (open popup)
-  </a>
-</p>
+<h2 id="talk2023" class="fade-in">🎥 2023 – EMA Early-Career Seminars</h2>
+<p class="fade-in">Hosted on Vimeo</p>
+<img src="{{ site.baseurl }}/images/talks/EMA.png" class="talk-thumbnail fade-in" alt="EMA Talk">
+<p><a href="https://vimeo.com/790343937" class="popup-link">▶️ Watch the Talk</a></p>
 
 <style>
-/* Responsive YouTube player */
-.video-wrapper {
-  position: relative;
-  padding-bottom: 56.25%; /* 16:9 aspect ratio */
-  height: 0;
-  overflow: hidden;
-  max-width: 100%;
-  margin-bottom: 1.5em;
-}
-.video-wrapper iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
-/* Popup link styling */
-.popup-link {
-  display: inline-block;
-  background: #007acc;
-  color: white;
-  padding: 10px 20px;
-  border-radius: 6px;
-  text-decoration: none;
-  font-weight: 600;
-  transition: background 0.3s ease;
-}
-.popup-link:hover {
-  background: #005fa3;
-}
-
+/* Responsive video */
+.video-wrapper { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom:1.5em; }
+.video-wrapper iframe { position: absolute; top:0; left:0; width:100%; height:100%; }
+/* Popup link */
+.popup-link { display:inline-block; background:#007acc; color:#fff; padding:8px 16px; border-radius:6px; text-decoration:none; transition:0.3s; }
+.popup-link:hover { background:#005fa3; }
+/* Summary cards */
+.summary-cards { display:flex; flex-direction:column; gap:0.75em; margin-bottom:1em; }
+.summary-card { padding:12px; background:#f5f5f5; border-radius:8px; text-decoration:none; color:#333; font-weight:500; transition:0.2s; box-shadow:0 2px 5px rgba(0,0,0,0.1);}
+.summary-card:hover { background:#e0f0ff; transform:translateY(-2px); }
+/* Images */
+.talk-thumbnail { width:100%; max-width:600px; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.15); margin-bottom:1em; }
+/* Fade-in animation */
+.fade-in, .fade-in-header { opacity:0; transform:translateY(20px); transition:0.6s ease-out; }
+.fade-in.visible, .fade-in-header.visible { opacity:1; transform:translateY(0); }
 /* Headings spacing */
-h2 {
-  margin-top: 2em;
-}
+h2 { margin-top:2em; }
+/* Mobile */
+@media(max-width:768px){h4{font-size:1em;} .summary-card{font-size:0.95em; padding:10px;} .talk-thumbnail{max-width:100%;} }
+@media(max-width:480px){h1{font-size:1.5em;} h2{font-size:1.2em;} h4{font-size:0.95em;}}
 </style>
+
+<script>
+document.addEventListener("DOMContentLoaded",function(){
+  const elements=document.querySelectorAll(".fade-in, .fade-in-header");
+  const observer=new IntersectionObserver((entries,obs)=>{
+    entries.forEach(e=>{ if(e.isIntersecting){ e.target.classList.add("visible"); obs.unobserve(e.target); }});
+  }, {threshold:0.1});
+  elements.forEach(el=>observer.observe(el));
+});
+</script>
