@@ -1,3 +1,16 @@
+- title: "Galvanic intercalation of molecular cations into van der Waals materials and heterostructures"
+  image: ""
+  description: ""
+  authors: "D Tezze, C. Álvarez-García, D. Margineda, M. Furqan, S. Mattioni, J. M. Pereira, U.r Ahsan, V. Mazanek, Y. K. Maurya, I. A. Aziz, D. Mantione, A. Mateo-Alonso, F. Schiller, F. Casanova, <em><strong>S. Mañas-Valero</em></strong>, A. Alegria, E. Coronado, I. Rivilla, Z. Sofer, B. Martín-García, M. Ormaza, R. Arenal, L. E. Hueso,  M. Gobbi"
+  authors_highlight: ""
+  link:
+    url: https://www.nature.com/articles/s44160-025-00935-z
+    display: "Nature Synthesis (2025). DOI: 10.1038/s44160-025-00935-z"
+  date: 2025-11-18
+  highlight: 0
+  principal_publication: 0
+  doi: "10.1038/s44160-025-00935-z"
+
 - title: "Isofrequency spin-wave imaging using color center magnetometry for magnon spintronics"
   image: Py_hBN_2024.png
   description: "We use spin defects in diamond and hexagonal boron nitride as sensitive quantum sensors to image spin waves in magnetic materials, demonstrating isofrequency spin-wave imaging and highlighting color center magnetometry as a poweful tool to study magnetic dynamics."
