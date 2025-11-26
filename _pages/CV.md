@@ -141,5 +141,5 @@ permalink: /CV/
   - [2025 SPICE Young Research Leaders Group Workshop](https://www.spice.uni-mainz.de/yrlgw-2025-home/), together with Dr. Talieh Ghiasi  
 
 - **Peer Review Activities**  
-  - Reviewer for major agencies: US Department of Energy, the European Research Council and the Polish National Science Center
+  - Reviewer for major agencies: European Research Council, US Department of Energy, Swiss National Science Foundation, Polish National Science Center, ...
   - Journals: *Advanced Materials*, *Nano Letters*, *PRL*, *PRX*, *PRB*, ...  
