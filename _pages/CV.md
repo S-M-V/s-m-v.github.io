@@ -82,6 +82,7 @@ permalink: /CV/
 
 ## Awards
 
+* [2026  IEEE Magnetics Society Early Career Award](https://ieeemagnetics.org/post/congratulations-2026-ieee-magnetics-society-award-winners)
 * 2024 Magnetochemistry Young Investigator Award  
 * [2023 Young Scientist Award](https://magnetism.eu/news/224/38-news.htm) by the European Magnetism Association  
 * Lindau Alumni (73rd Lindau Nobel Laureate Meeting, Physics, 2024)  
