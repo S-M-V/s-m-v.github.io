@@ -9,7 +9,7 @@ permalink: /
 I am a **Kavli postdoctoral fellow** in the [**Quantum Nanoscience Department at Delft University of Technology (The Netherlands)**](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/quantum-nanoscience), working in the groups of [**Prof. Toeno van der Sar**](https://vandersarlab.tudelft.nl/) and [**Prof. Sonia Conesa-Boj**](https://conesabojlab.tudelft.nl/).
 -->
 
-I am a **Ramón y Cajal researcher** — a prestigious Spanish fellowship comparable to a tenure-track role — at the [Institute of Molecular Science (ICMol)](https://www.icmol.es/) of the [University of Valencia](https://www.uv.es/), where I work within the [Research Team on Molecular Materials](https://www.icmol.es/people_grupo.php?grupo=13&menu=people).
+I am a **Ramón y Cajal researcher** — a prestigious Spanish fellowship comparable to a tenure-track role — at the [Institute of Molecular Science (ICMol)](https://www.icmol.es/) of the [University of Valencia](https://www.uv.es/), where I work within the Research Team on Molecular Materials.<!--[Research Team on Molecular Materials](https://www.icmol.es/people_grupo.php?grupo=13&menu=people).-->
 
 **Driven by a curiosity for spins**, my research interest <em>turns around</em> **magnetism** and, in particular, around the delicate interplay between crystal growth and strongly correlated phases. Through this perspective, I aim to push the boundaries of **spins and materials** to the forefront of discovery — **the ultimate vanguard!** 
 
