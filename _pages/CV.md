@@ -56,14 +56,17 @@ permalink: /CV/
 
 ## Current Position
 
-* **Kavli Research Fellow (2025–2026)**  
-  Department of Quantum Nanoscience, Kavli Institute of Nanoscience, Delft University of Technology, The Netherlands  
-  Hosts: Prof. Toeno van der Sar and Prof. Sonia Conesa-Boj  
+* **Ramón y Cajal Research Fellow (From 2026)**  
+  Institute of Molecular Science (ICMol), University of Valencia, Spain.
 
 ---
 
 ## Previous Positions
 
+* **Kavli Research Fellow (2025–2026)**  
+  Department of Quantum Nanoscience, Kavli Institute of Nanoscience, Delft University of Technology, The Netherlands  
+  Hosts: Prof. Toeno van der Sar and Prof. Sonia Conesa-Boj
+  
 * **Marie-Curie-Skłodowska Postdoctoral Fellow (2023–2025)**  
   Department of Quantum Nanoscience, Delft University of Technology, The Netherlands  
   Supervisor: Prof. Toeno van der Sar  
