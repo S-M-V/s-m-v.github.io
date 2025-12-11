@@ -47,7 +47,7 @@ permalink: /CV/
 ## Education
 
 * Ph.D. in Nanoscience and Nanotechnology (2021)  
-  Institute for Molecular Science, University of Valencia, Spain  
+  Institute of Molecular Science, University of Valencia, Spain  
   PhD Supervisor: Prof. Eugenio Coronado  
 * M.S. in Molecular Nanoscience and Nanotechnology, University of Valencia, Spain (2015)  
 * B.S. in Physics, University of Valencia, Spain (2013)  
@@ -78,7 +78,7 @@ permalink: /CV/
   Funded by the Generalitat Valenciana (APOSTD CIAPOS2021/215)  
 
 * **Postdoctoral Research Fellow (2021–2022)**  
-  Institute for Molecular Science, University of Valencia, Spain  
+  Institute of Molecular Science, University of Valencia, Spain  
   Supervisor: Prof. Eugenio Coronado  
 
 ---
