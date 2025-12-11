@@ -10,6 +10,7 @@ I am a **Kavli postdoctoral fellow** in the [**Quantum Nanoscience Department at
 -->
 
 I am a **Ramón y Cajal researcher** — a prestigious Spanish fellowship comparable to a tenure-track role — at the [Institute of Molecular Science (ICMol)](https://www.icmol.es/) of the [University of Valencia](https://www.uv.es/), where I work within the [Research Team on Molecular Materials](https://www.icmol.es/people_grupo.php?grupo=13&menu=people).
+
 **Driven by a curiosity for spins**, my research interest <em>turns around</em> **magnetism** and, in particular, around the delicate interplay between crystal growth and strongly correlated phases. Through this perspective, I aim to push the boundaries of **spins and materials** to the forefront of discovery — **the ultimate vanguard!** 
 
 I am motivated by the synergies between **physics, material science and chemistry**, pursuing two main goals: first, **the understanding of quantum materials**, ranging from bulk down to the two-dimensional (2D) limit and, second, **the development of novel and (hopefully) useful magnetic devices**, as creating artificial magnetic memories by simply twisting 2D van der Waals magnets. 
