@@ -1,13 +1,13 @@
 - name: Samuel Mañas-Valero
   photo: Samuel_2025_10_28.png
-  info: Kavli postdoctoral researcher
-  email: S.ManasValero@tudelft.nl
+  info: Ramón y Cajal researcher
+  email: samuel.manas@uv.es
   number_educ: 8
 
   education1: |
     <a href="mailto:S.ManasValero@tudelft.nl" aria-label="Email" style="display: inline-flex; align-items: center; gap: 8px;">
       <i class="fas fa-envelope" style="font-size:18px; color:#6A0DAD;"></i>
-      S.ManasValero@tudelft.nl
+      samuel.manas@uv.es
     </a>
 
   education2: |
