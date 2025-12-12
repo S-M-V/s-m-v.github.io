@@ -17,12 +17,12 @@
   authors: "<strong><em>S. Mañas-Valero</em></strong>, Y. C. Doedes, A. Bondarenko, M. Borst, S. Kurdi, T. Poirier, J. H. Edgar, V. Jacques, Y. M. Blanter, T. van der Sar"
   authors_highlight: "<strong><em>S. Mañas-Valero</em></strong>📧, Y. C. Doedes, A. Bondarenko, M. Borst, S. Kurdi, T. Poirier, J. H. Edgar, V. Jacques, Y. M. Blanter, T. van der Sar📧"
   link:
-    url: https://doi.org/10.48550/arXiv.2508.18775
-    display: "arXiv:2508.18775 (2025)"
-  date: 2025-08-26
+    url: 10.1038/s41467-025-67056-1
+    display: "Nature Communications (2025). DOI: 10.1038/s41467-025-67056-1"
+  date: 2025-12-12
   highlight: 1
   principal_publication: 1
-  doi: "10.48550/arXiv.2508.18775"
+  doi: "10.1038/s41467-025-67056-1"
 
 - title: "Highly anisotropic 1D materials supported in exfoliable 2D coordination polymers with optical anisotropy switching via twist-engineering"
   image: ECM_2025.png
