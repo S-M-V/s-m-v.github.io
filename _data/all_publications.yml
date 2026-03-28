@@ -37,18 +37,18 @@
   principal_publication: 1
   doi: "10.1038/s41467-025-67056-1"
 
-- title: "Highly anisotropic 1D materials supported in exfoliable 2D coordination polymers with optical anisotropy switching via twist-engineering"
+- title: "One-Dimensional Materials Supported in Two-Dimensional Van der Waals Metal–Organic Frameworks with Optical Anisotropy Switching via Twist-Engineering"
   image: ECM_2025.png
   description: "We present a molecular strategy to design highly anisotropic one-dimensional materials within exfoliable two-dimensional coordination polymers, enabling optical anisotropy switching via twist-engineering."
   authors: "E. C. Mazarakioti, C. Boix-Constant, I. Gómez-Muñoz, D. López-Alcalá, S. Revuelta, M. Ballabio, V. Balos, J. J. Baldoví, E. Cánovas, J. Canet-Ferrer, G. Mínguez Espallargas, <strong><em>S. Mañas-Valero</em></strong>, E. Coronado"
   authors_highlight: "E. C. Mazarakioti🤝, C. Boix-Constant🤝, I. Gómez-Muñoz🤝, D. López-Alcalá, S. Revuelta, M. Ballabio, V. Balos, J. J. Baldoví, E. Cánovas, J. Canet-Ferrer, G. Mínguez Espallargas, <strong><em>S. Mañas-Valero</em></strong>📧, E. Coronado📧"
   link:
-    url: https://doi.org/10.48550/arXiv.2508.18005
-    display: "arXiv:2508.18005 (2025), just accepted in Advanced Materials (DOI: 10.1002/adma.202517382, 2026)"
-  date: 2025-08-25
+    url: https://doi.org/10.1002/adma.202517382
+    display: "Advanced Materials (2026). DOI: 10.1002/adma.202517382"
+  date: 2026-03-28
   highlight: 1
   principal_publication: 1
-  doi: "10.48550/arXiv.2508.18005"
+  doi: "10.1002/adma.202517382"
 
 - title: "Ferromagnetism above 200 K in Organic-Ion Intercalated CrSBr"
   image: 
