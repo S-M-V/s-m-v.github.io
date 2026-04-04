@@ -97,7 +97,10 @@ Molecule-based van der Waals magnetic materials can be exfoliated down to the si
     Your browser does not support the video tag.
   </video>
 </div>
-
+<script>
+  const vid = document.getElementById("myVideo");
+  vid.playbackRate = 1.5; // Change speed here (e.g., 1.5x, 2x)
+</script>
 <p style="text-align: center; font-style: italic; margin: 8px 0 0 0;">
   <em>"The most spectacular example of molecular bistability is undoubtedly offered by the phenomenon of spin transition" (O. Kahn)</em>. Spin-crossover compounds can be viewed as Doctor Jekyll and Mister Hyde molecules, exhibiting two distinct states: a high-spin and a low-spin configuration. 
   This reversible transition can be harnessed to modulate and control the properties of 2D materials.
