@@ -86,7 +86,7 @@ property of a molecule, or is it inherently a property of an ensemble?"</em>
 <span class="quote-author"> Peter Day <em>(Nature Not Mocked: Places, People and Science, 2005)</em></span>
 </div>
 
-Molecule-based van der Waals magnetic materials can be exfoliated down to the single-layer limit and integrated with other 2D materials to form van der Waals heterostructures, enabling precise tuning of their properties. Both chemical design and physical strategies (as stacking and twisting layers) offer powerful routes to control the behavior of these low-dimensional systems.
+Beyond inorganic crystals, molecule-based van der Waals magnetic materials can also be exfoliated down to the single-layer limit and integrated with other 2D materials to form van der Waals heterostructures, enabling precise tuning of their properties. Both chemical design and physical strategies (such as stacking and twisting layers) provide powerful routes to control the behavior of these low-dimensional systems, expanding their functionality and offering versatile tools for tunability.
 
 <!-- This is a comment -->
 <!-- For having controls -->
@@ -99,7 +99,7 @@ Molecule-based van der Waals magnetic materials can be exfoliated down to the si
 </div>
 <script>
   const vid = document.getElementById("myVideo");
-  vid.playbackRate = 1.5; // Change speed here (e.g., 1.5x, 2x)
+  vid.playbackRate = 2; // Change speed here (e.g., 1.5x, 2x)
 </script>
 <p style="text-align: center; font-style: italic; margin: 8px 0 0 0;">
   <em>"The most spectacular example of molecular bistability is undoubtedly offered by the phenomenon of spin transition" (O. Kahn)</em>. Spin-crossover compounds can be viewed as Doctor Jekyll and Mister Hyde molecules, exhibiting two distinct states: a high-spin and a low-spin configuration. 
