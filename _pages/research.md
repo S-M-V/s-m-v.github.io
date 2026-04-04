@@ -75,6 +75,34 @@ as twisted magnets with tunable spin reversal and hysteresis, born of design rat
 </p>
 
 ---
+---
+
+<h2>🧲 Molecular magnetism: <em> how chemistry and physics shape magnetic behaviour</em></h2>
+<div class="highlight-quote sage">
+<em>"Is there such a thing as molecular magnetism, distinguishable from
+other kinds that have different adjectives attached (such as personal
+magnetism or animal magnetism)? Is "magnetism" to be construed as a
+property of a molecule, or is it inherently a property of an ensemble?"</em>
+<span class="quote-author"> Peter Day <em>(Nature Not Mocked: Places, People and Science, 2005)</em></span>
+</div>
+
+Molecule-based van der Waals magnetic materials can be exfoliated down to the single-layer limit and integrated with other 2D materials to form van der Waals heterostructures, enabling precise tuning of their properties. Both chemical design and physical strategies (as stacking and twisting layers) offer powerful routes to control the behavior of these low-dimensional systems.
+
+<!-- This is a comment -->
+<!-- For having controls -->
+<!-- <video autoplay muted loop playsinline controls style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">-->
+<div style="position: relative; aspect-ratio: 16 / 9; max-width: 100%; overflow: hidden;">
+  <video autoplay muted loop playsinline style="width: 100%; height: 100%; object-fit: contain;">
+    <source src="{{ '/images/researchpic/SCO_Movie_0p1.mp4' | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+<p style="text-align: center; font-style: italic;">
+  <em>"The most spectacular example of molecular bistability is undoubtedly offered by the phenomenon of spin transition" (O. Kahn)</em>. Spin-crossover compounds can be viewed as Doctor Jekyll and Mister Hyde molecules, exhibiting two distinct states: a high-spin and a low-spin configuration. 
+This reversible transition can be harnessed to modulate and control the properties of 2D materials.
+</p>
+
+---
 
 <h2>🔬 Quantum sensing with color centers: <em> the perfection of defects</em></h2>
 <div class="highlight-quote slate">
