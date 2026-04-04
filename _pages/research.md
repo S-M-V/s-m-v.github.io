@@ -78,7 +78,7 @@ as twisted magnets with tunable spin reversal and hysteresis, born of design rat
 ---
 
 <h2>🧲 Molecular magnetism: <em> how chemistry and physics shape magnetic behaviour</em></h2>
-<div class="highlight-quote sage">
+<div class="highlight-quote gold">
 <em>"Is there such a thing as molecular magnetism, distinguishable from
 other kinds that have different adjectives attached (such as personal
 magnetism or animal magnetism)? Is "magnetism" to be construed as a
