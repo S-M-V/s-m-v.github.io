@@ -5,7 +5,7 @@
   number_educ: 8
 
   education1: |
-    <a href="mailto:S.ManasValero@tudelft.nl" aria-label="Email" style="display: inline-flex; align-items: center; gap: 8px;">
+    <a href="mailto:samuel.manas@uv.es" aria-label="Email" style="display: inline-flex; align-items: center; gap: 8px;">
       <i class="fas fa-envelope" style="font-size:18px; color:#6A0DAD;"></i>
       samuel.manas@uv.es
     </a>
