@@ -106,6 +106,12 @@ permalink: /CV/
 
 ### Invited Talks
 
+**2026**
+- International Symposium on Advanced Magnetic Materials and Applications (ISAMMA 2026). Busan, Korea
+- 2026 Multiscale Phenomena in Condensed Matter. Krakow, Poland
+- Young Research Leaders Group Workshop: Transport and transfer of angular momentum by the Spin Phenomena Interdisciplinary Center. Mainz, Germany
+- QuantumMatter 2026, Barcelona, Spain
+
 **2025**
 - Invited seminar (Theme 3 seminar), Radboud Universiteit, Nijmegen, The Netherlands.
 - SQLM Workshop, Kaiserslautern, Germany.
