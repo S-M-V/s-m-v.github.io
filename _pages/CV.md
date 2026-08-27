@@ -100,10 +100,10 @@ permalink: /CV/
 ### Plenary Talks
 
 **2026**
-- European Conference on Molecular Magnetism (*Olivier Kahn Lecture*), Copenhaguen, Denmark  
+- European Conference on Molecular Magnetism (*Olivier Kahn Lecture*). Copenhaguen, Denmark  
 
 **2025**
-- 2nd European School on Advanced Materials, Almagro, Spain  
+- 2nd European School on Advanced Materials. Almagro, Spain  
 
 **2023**
 - 13th Joint European Magnetic Symposia (delivery of the 2023 Young Scientist Award by the European Magnetism Association). Madrid, Spain
