@@ -99,6 +99,9 @@ permalink: /CV/
 
 ### Plenary Talks
 
+**2026**
+- European Conference on Molecular Magnetism (*Olivier Kahn Lecture*), Copenhaguen, Denmark  
+
 **2025**
 - 2nd European School on Advanced Materials, Almagro, Spain  
 
@@ -152,5 +155,5 @@ permalink: /CV/
   - [2025 SPICE Young Research Leaders Group Workshop](https://www.spice.uni-mainz.de/yrlgw-2025-home/), together with Dr. Talieh Ghiasi  
 
 - **Peer Review Activities**  
-  - Reviewer for major agencies: European Research Council, Spanish Agencia Estatal de Investigación, US Department of Energy, Swiss National Science Foundation, Polish National Science Center, ...
+  - Reviewer for major agencies: European Research Council, Spanish Agencia Estatal de Investigación, US Department of Energy, Swiss National Science Foundation, French National Research Agency, Polish National Science Center, ...
   - Journals (> 160 reviews, > 35 journals; see [ORCID](https://orcid.org/0000-0001-6319-9238)): *Advanced Materials*, *Nature Communications*, *Nano Letters*, *ACS Nano*, *PRL*, *PRX*, *PRB*, ...  
