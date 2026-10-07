@@ -3,7 +3,7 @@ title: "SMV | Publications"
 layout: gridlay
 excerpt: "SMV -- Publications."
 sitemap: false
-permalink: /publications_/
+permalink: /publications/
 ---
 
 <style>
