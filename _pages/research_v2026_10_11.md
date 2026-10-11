@@ -1,0 +1,141 @@
+---
+title: "SMV | Research"
+layout: textlay
+excerpt: "SMV -- Research"
+sitemap: false
+permalink: /research/
+---
+
+<h1>🔎 Research</h1>
+<div class="highlight-quote lavender">
+<em>"Quantum phenomena do not occur in a Hilbert space. They occur in a laboratory."</em>
+<span class="quote-author"> Asher Peres <em>(Quantum theory: concepts and methods, 1995)</em></span>
+</div>
+
+We aim to experimentally uncover emergent quantum phenomena by exploring the delicate symbiosis between crystal growth and strongly correlated phases, such as magnetism or superconductivity, ranging from bulk to the two-dimensional limit (2D materials). To do so, we use solid-state crystal growth techniques, magneto-transport measurements in 2D devices and magnetic imaging using color center magnetometry.
+
+<!-- This is a comment -->
+<!-- For having controls -->
+<!-- <video autoplay muted loop playsinline controls style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">-->
+<div style="position: relative; aspect-ratio: 5.6 / 1; max-width: 100%; overflow: hidden;">
+  <video autoplay muted loop playsinline style="width: 100%; height: 100%; object-fit: contain;">
+    <source src="{{ '/images/researchpic/Video_SW_arrows_size2501400_time01_WHITE.mp4' | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+<p style="text-align: center; font-style: italic;">
+  A quantum ballet: spins don’t stand still. They dance, precess, fluctuate. We watch them move, measure them, and make sense of their rhythm.
+</p>
+
+---
+
+<h2>💎 Crystal growth: <em> when everything starts with plain powders</em></h2> 
+<div class="highlight-quote beige">
+<em>"As a rule, the substances yielded by chemical transport reactions are in the form of well-defined crystals. 
+The satisfaction that the chemist experiences when he holds <strong>beautiful crystals</strong> instead of a plain powder in his hands merits more than slight consideration."</em>
+<span class="quote-author"> Harald Schäfer <em>(Chemical Transport Reactions, 1964)</em></span>
+</div>
+
+We grow high-quality single crystals to explore their physical properties, both in bulk and in the low-dimensional limit.
+Our synthesis methods include solid-state crystal growth techniques such as chemical vapor transport, direct vapor transport or flux growth.
+<!-- Image (Crystals.png) with caption -->
+<div style="position: relative; max-width: 100%; overflow: hidden;">
+  <img src="/images/researchpic/Crystals.png" 
+       alt="Van der Waals crystals" 
+       style="width: 100%; height: auto; object-fit: contain;">
+</div>
+<p style="text-align: center; font-style: italic;">
+  From plain powders to beauty: van der Waals crystals shaped by thermal gradients.
+</p>
+
+---
+
+<h2>🧩 2D materials and van der Waals heterostructures: <em> designing artificial properties</em></h2>
+<div class="highlight-quote sage">
+<em>"The basic principle is simple: take, for example, a monolayer,
+put it on top of another monolayer or few-layer crystal, add another
+2D crystal and so on. The resulting stack represents an artificial
+material assembled in a chosen sequence —as in building with Lego—
+with blocks defined with one-atomic-plane precision."</em>
+<span class="quote-author"> A. K. Geim & I. V. Grigorieva <em>(Nature 499, 419–425, 2013)</em></span>
+</div>
+
+Like building with atomic Lego, we isolate 2D crystals and assemble them one layer at a time into custom-made structures. 
+These van der Waals heterostructures unlock new physical behaviors and enable the design of artificial magnets, 
+such as twisted magnets with tunable spin reversal and hysteresis, born of design rather than chance.
+
+<!-- Image (CrSBr_twist.png) with caption -->
+<div style="position: relative; max-width: 100%; overflow: hidden;">
+  <img src="/images/researchpic/CrSBr_twist.png" 
+       alt="Twisted magnets" 
+       style="width: 100%; height: auto; object-fit: contain;">
+</div>
+<p style="text-align: center; font-style: italic;">
+  Creating artificial properties: twist-control of the spin-reversal in 2D magnets.
+</p>
+
+---
+
+<h2>🧲 Molecular magnetism: <em> how chemistry and physics shape magnetic behavior</em></h2>
+<div class="highlight-quote gold">
+<em>"Is there such a thing as molecular magnetism, distinguishable from
+other kinds that have different adjectives attached (such as personal
+magnetism or animal magnetism)? Is ‘magnetism’ to be construed as a
+property of a molecule, or is it inherently a property of an ensemble?"</em>
+<span class="quote-author"> Peter Day <em>(Nature Not Mocked: Places, People and Science, 2005)</em></span>
+</div>
+
+Beyond inorganic crystals, molecule-based van der Waals magnetic materials can also be exfoliated down to the single-layer limit and integrated with other 2D materials to form van der Waals heterostructures, enabling precise tuning of their properties. Both chemical design and physical strategies (such as stacking and twisting layers) provide powerful routes to control the behavior of these low-dimensional systems, expanding their functionality and offering versatile tools for tunability.
+
+<!-- This is a comment -->
+<!-- For having controls -->
+<!-- <video autoplay muted loop playsinline controls style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">-->
+<div style="max-width: 100%; overflow: hidden; margin: 0;">
+  <video id="myVideo" autoplay muted loop playsinline style="width: 100%; height: auto; display: block;">
+    <source src="{{ '/images/researchpic/SCO_Movie_0p1.mp4' | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+<script>
+  const vid = document.getElementById("myVideo");
+  vid.defaultPlaybackRate = 2; // Change speed here (e.g., 1.5x, 2x)
+  vid.playbackRate = 2;
+</script>
+<p style="text-align: center; font-style: italic; margin: 8px 0 0 0;">
+  <em>"The most spectacular example of molecular bistability is undoubtedly offered by the phenomenon of spin transition" (O. Kahn)</em>. Spin-crossover compounds can be viewed as Doctor Jekyll and Mister Hyde molecules, exhibiting two distinct states: a high-spin and a low-spin configuration. 
+  This reversible transition can be harnessed to modulate and control the properties of 2D materials.
+</p>
+
+---
+
+<h2>🔬 Quantum sensing with color centers: <em> the perfection of defects</em></h2>
+<div class="highlight-quote slate">
+<em>"The more nearly an object approaches perfection, the more we notice its slightest defects."</em>
+<span class="quote-author"> Sadi Carnot <em>(Reflections on the Motive Power of Heat, 1890)</em></span>
+</div>
+
+Defects can be useful — and even beautiful! — once you look with the right eyes. 
+We harness solid-state spin defects, such as nitrogen-vacancy centers in diamond or boron vacancies in hBN, as quantum sensors. 
+With them, we unravel the quantum dance of spins in thin-film magnetic layers, 
+revealing magnetic textures and imaging spin waves at the nanoscale.
+
+<!-- This is a comment -->
+<!-- For having controls -->
+<!-- <video autoplay muted loop playsinline controls style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">-->
+<div style="position: relative; aspect-ratio: 16 / 9; max-width: 100%; overflow: hidden;">
+  <video autoplay muted loop playsinline style="width: 100%; height: 100%; object-fit: contain;">
+    <source src="{{ '/images/researchpic/NV_SW_time500_V20250914.mp4' | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+<p style="text-align: center; font-style: italic;">
+  The perfection of defects: with just a single spin in diamond, we capture the nanoscopic choreography of spin waves in permalloy.
+</p>
+
+---
+
+<h2>... and more.</h2>
+<div class="highlight-quote green">
+<em>"But still try, for who knows what is possible?"</em>
+<span class="quote-author"> Michael Faraday <em>(The Life and Letters of Faraday, 1870)</em></span>
+</div>
