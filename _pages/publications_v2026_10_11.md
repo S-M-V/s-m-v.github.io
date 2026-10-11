@@ -176,7 +176,7 @@ permalink: /publications/
 {%- endfor %}
 </div>
 {%- if highlights.size > highlights_shown %}
-<div class="pub-more-wrap"><button type="button" class="pub-more" id="pub-more" aria-controls="pub-highlights" aria-expanded="false" hidden>Show all {{ highlights.size }} highlights ▾</button></div>
+<div class="pub-more-wrap"><button type="button" class="pub-more" id="pub-more" aria-controls="pub-highlights" aria-expanded="false" hidden>Show all highlights ▾</button></div>
 <script>
 (function () {
   var grid = document.getElementById('pub-highlights');
