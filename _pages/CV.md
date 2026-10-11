@@ -3,7 +3,7 @@ title: "SMV | CV"
 layout: gridlay
 excerpt: "SMV: CV"
 sitemap: false
-permalink: /CV/
+permalink: /CV__/
 ---
 
 <h1>📝 CV</h1>
