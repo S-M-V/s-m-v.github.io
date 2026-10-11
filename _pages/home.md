@@ -9,11 +9,11 @@ permalink: /
 I am a **Kavli postdoctoral fellow** in the [**Quantum Nanoscience Department at Delft University of Technology (The Netherlands)**](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/quantum-nanoscience), working in the groups of [**Prof. Toeno van der Sar**](https://vandersarlab.tudelft.nl/) and [**Prof. Sonia Conesa-Boj**](https://conesabojlab.tudelft.nl/).
 -->
 
-I am a **Ramón y Cajal researcher** — a prestigious Spanish fellowship comparable to a tenure-track role — at the [Institute of Molecular Science (ICMol)](https://www.icmol.es/) of the [University of Valencia](https://www.uv.es/), where I develop my research line within the Research Team on Molecular Materials.<!--[Research Team on Molecular Materials](https://www.icmol.es/people_grupo.php?grupo=13&menu=people).-->
+I am a **Ramón y Cajal researcher** —*Spanish tenure-track*— at the [Institute of Molecular Science (ICMol)](https://www.icmol.es/) of the [University of Valencia](https://www.uv.es/), where I develop my research line within the Research Team on Molecular Materials.<!--[Research Team on Molecular Materials](https://www.icmol.es/people_grupo.php?grupo=13&menu=people).-->
 
 **Driven by a curiosity for spins**, my research interest <em>turns around</em> **magnetism** and, in particular, around the delicate interplay between crystal growth and strongly correlated phases. Through this perspective, I aim to push the boundaries of **spins and materials** to the forefront of discovery — **the ultimate vanguard!** 
 
-I am motivated by the synergies between **physics, material science and chemistry**, pursuing two main goals: first, **the understanding of quantum materials**, ranging from bulk down to the two-dimensional (2D) limit and, second, **the development of novel and (hopefully) useful magnetic devices**, as creating artificial magnetic memories by simply twisting 2D van der Waals magnets. 
+I am motivated by the synergies between **physics, materials science and chemistry**, pursuing two main goals: first, **the understanding of quantum materials**, ranging from bulk down to the two-dimensional (2D) limit, and, second, **the development of novel and (hopefully) useful magnetic devices**, such as creating artificial magnetic memories by simply twisting 2D van der Waals magnets. 
 
 My approach to reaching these goals is **integrative**, starting from material synthesis and following the passionate (though often truly challenging) journey towards advanced device characterization, in order to tackle the fundamental questions I find most compelling at any given time. 
 
@@ -60,7 +60,7 @@ My approach to reaching these goals is **integrative**, starting from material s
 </div>
 
 
-For supporting my research, **I am very grateful to the institutions below!**
+**I am very grateful to the institutions below for supporting my research!**
 
 <div style="position: relative; max-width: 100%; overflow: hidden;">
   <img src="/images/Logos.png" 
