@@ -102,14 +102,14 @@
   principal_publication: 1
   doi: "10.1038/s41467-025-67056-1"
 
-- title: "One-Dimensional Materials Supported in Two-Dimensional Van der Waals Metal–Organic Frameworks with Optical Anisotropy Switching via Twist-Engineering"
+- title: "One-dimensional materials supported in two-dimensional van der Waals metal–organic frameworks with optical anisotropy switching via twist-engineering"
   image: ECM_2025_resized.webp
   description: "We present a molecular strategy to design highly anisotropic one-dimensional materials within exfoliable two-dimensional coordination polymers, enabling optical anisotropy switching via twist-engineering."
   authors: "E. C. Mazarakioti, C. Boix-Constant, I. Gómez-Muñoz, D. López-Alcalá, S. Revuelta, M. Ballabio, V. Balos, J. J. Baldoví, E. Cánovas, J. Canet-Ferrer, G. Mínguez Espallargas, <strong><em>S. Mañas-Valero</em></strong>, E. Coronado"
   authors_highlight: "E. C. Mazarakioti🤝, C. Boix-Constant🤝, I. Gómez-Muñoz🤝, D. López-Alcalá, S. Revuelta, M. Ballabio, V. Balos, J. J. Baldoví, E. Cánovas, J. Canet-Ferrer, G. Mínguez Espallargas, <strong><em>S. Mañas-Valero</em></strong>📧, E. Coronado📧"
   link:
     url: https://doi.org/10.1002/adma.202517382
-    display: "Advanced Materials (2026). DOI: 10.1002/adma.202517382"
+    display: "Advanced Materials 38, 51, e17382 (2026)"
   date: 2026-03-28
   highlight: 1
   principal_publication: 1
