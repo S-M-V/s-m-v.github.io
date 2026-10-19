@@ -1,0 +1,35 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl | prepend: site.url}}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="stylesheet" href="{{ "/css/academicons.css" | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+  <link rel="stylesheet" href="{{ '/css/quote.css' | relative_url }}">
+  
+  <!-- Browser tab icons (ball and arrow) -->
+  <link rel="icon" href="{{ '/favicon_512x512.ico' | relative_url }}" sizes="32x32">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/favicon-32x32.png' | relative_url }}">
+  <link rel="icon" type="image/svg+xml" href="{{ '/favicon_512x512.svg' | relative_url }}">
+
+  <!-- Apple touch icon for iOS home screen (three spins) -->
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/apple-touch-icon-180x180.png' | relative_url }}">
+
+  <!-- Android home screen icons (three spins): listed in the manifest, not as tab icons -->
+  <link rel="manifest" href="{{ '/site.webmanifest' | relative_url }}">
+
+  <!-- Fore news page -->
+  <link rel="stylesheet" href="{{ '/css/news.css' | relative_url }}">
+
+
+
+
+
+{% if jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
+
+</head>
